@@ -1,0 +1,8 @@
+http://www.mikkk.xyz/m.json,2022-06-09,2.0版以上非加密
+https://wds.ecsxs.com/224079.txt,2022-06-09,2.0版以上非加密
+https://mao.7080.wang/mao/1.json,2022-06-22,魔改版1.1.1版本使用
+http://9xi4o.tk/maooxp.json,2022-06-28,TVBOX接口
+https://shuyuan.miaogongzi.net/shuyuan/1657019708.txt,2022-07-05,TVBOX接口
+https://shuyuan.miaogongzi.net/shuyuan/1656939284.txt,2022-07-06,TVBOX
+https://freed.yuanhsing.cf/TVBox/meowcf.json,2022-07-06,TVBOX
+http://gg.gg/TVBOX-Pro,2022-07-15,TVBOX接口
