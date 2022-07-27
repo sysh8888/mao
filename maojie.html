@@ -1,0 +1,135 @@
+<!doctype html>
+<html >
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>猫影视、BIUBIUTV介绍</title>
+<meta name="description" content="猫影视、BIUBIUTV介绍" />
+<meta name="keywords" content="猫影视,BIUBIUTV介绍" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<link rel="icon" type="image/png" href="https://img.5020.work/img/favicon.png">
+<meta name="mobile-web-app-capable" content="yes">
+<link rel="icon" sizes="192x192" href="https://img.5020.work/img/app-icon72x72@2x.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<link rel="stylesheet" href="https://lib.baomitu.com/amazeui/2.7.2/css/amazeui.min.css">
+<script src="https://lib.baomitu.com/jquery/3.6.0/jquery.min.js"></script>
+
+</head>
+<body>
+<header class="am-topbar am-topbar-fixed-top">
+<div class="am-container">
+<h1 class="am-topbar-brand hover-bounce">
+<a href="https://7080.wang/index.html" class="web-name">
+<span class="am-icon-film am-icon-md"></span>
+7080网
+</a>
+</h1>
+<button class="am-topbar-btn am-topbar-toggle am-btn am-btn-sm am-btn-success am-show-sm-only" data-am-collapse="{target: '#doc-topbar-collapse'}">
+<span class="am-sr-only">导航切换</span>
+<span class="am-icon-bars"></span>
+</button>
+<div class="am-collapse am-topbar-collapse" id="doc-topbar-collapse">
+<ul class="am-nav am-nav-pills am-topbar-nav" >
+  <li ><a href="./index.html">首页</a></li>
+  <li><a href="https://7080.wang">在线影视</a></li>
+  <li ><a href="./jiesao.html">使用说明</a></li>
+  <li class="am-active"><a href="./maojie.html">猫影视接口</a></li>
+  <li><a href="./bbjie.html">BIUBIU接口</a></li>
+  <li class="am-disabled"><a href="#">接口上传</a></li>
+</ul>
+</div></div>
+</header>
+<div class="am-container index-container">
+  <div data-am-widget="titlebar" class="am-titlebar am-titlebar-default">
+    <h2 class="am-titlebar-title ">猫影视接口提交</h2>  </div>
+  <form class="am-form-inline" role="form" method="post" action="tijiao.php">
+  <input type="hidden" name="tijiao" value="doAdd">
+    <input type="hidden" name="lei" value="mao">
+    <div class="am-form-group">
+      <input type="text" class="am-form-field" name="http" placeholder="输入接口">
+    </div>
+    <div class="am-form-group">
+      <input type="text" class="am-form-field"  name="beizhu" value="备注" placeholder="备注">
+    </div>
+  
+  
+    <button type="submit" class="am-btn am-btn-default" onclick="return queren()">提交</button>
+  </form>
+
+    <div data-am-widget="titlebar" class="am-titlebar am-titlebar-default">
+    <h2 class="am-titlebar-title ">猫影视接口推荐</h2>  </div>
+   
+    <div class="am-scrollable-horizontal">
+      <table class="am-table am-table-bordered am-table-striped am-text-nowrap">
+        <thead>
+          <tr>
+            <th>序号</th>
+            <th>网址</th>
+            <th>创建时间</th>
+            <th>备注</th>
+          </tr>
+          </thead>
+           <tbody id="lie">
+          <tr>
+            <td>1</td>
+            <td>https://mao.7080.wang/mao.json</td>
+            <td>2012-10-01</td>
+            <td>推荐</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+
+        </div>
+		
+
+         <script>
+$(function(){
+			$.ajax({
+			url:'./mao/mao.txt',
+			type:'get',
+			cache:false,
+			success: function(data){
+				console.log(data);
+var strs= new Array();
+				strs=data.split("\n");
+				console.log(strs);
+				var str1= new Array();
+				var strr ="";
+				 for (i=0;i<strs.length ;i++){
+				 if (strs[i] !="")
+				 {
+			     str1=strs[i].split(",");
+				 
+				strr +='<tr><td>'+i+'</td><td>'+str1[0]+'</td><td>'+str1[1]+'</td><td>'+str1[2]+'</td></tr>';
+				 }}
+				 document.getElementById("lie").innerHTML =strr;
+
+			}
+
+		})			})
+
+function queren(){
+if(document.all.http.value.length<8){
+alert("请输入正确网址");
+return false;
+}else{return true;}
+}
+
+
+         </script>
+        <script>
+          var _hmt = _hmt || [];
+          (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?77bf2e5b6f9aa400eddc692d382ecc9b";
+            var s = document.getElementsByTagName("script")[0]; 
+            s.parentNode.insertBefore(hm, s);
+          })();
+          </script>
+        <script src="https://lib.baomitu.com/amazeui/2.7.2/js/amazeui.min.js"></script>
+  </body>
+  </html>
