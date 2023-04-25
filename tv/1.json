@@ -1,5 +1,5 @@
 {
-"spider":"http://mao.7080.wang/tv/jar/spider.jar;md5;492f9401fec7d490f6f2e48f045e1580",
+"spider":"http://mao.7080.wang/tv/jar/panda20230425.jar;md5;36c5a2f03ca68213dadbf4502a2f4174",
 "wallpaper":"https://picsum.photos/1280/720/?blur=5","warningText":"欢迎使用7080接口",
 "lives": [
     {
@@ -37,7 +37,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"http://movie.bulei.cc"
+			"ext":"http://movie.bulei.cc$$$login$$$dxawi111$$$dxawi111"
 		},
 		{
 			"key":"YQK_spider",
@@ -48,7 +48,7 @@
 			"playerType":2,
 			"quickSearch":1,
 			"searchable":1,
-			"ext":"https://api-tx.11ty.top",
+			"ext":"https://hk-api-cf.yqk5659.com",
 			"m3u8ads":"hd.youyhn.com"
 		},
 		{
@@ -110,7 +110,7 @@
 			"filterable":1
 		},
 {"key":"csp_Paper","name":"📜┃纸条┃搜索","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/token.php"},
-		{"key":"csp_AppTT","name":"🐰┃图图┃影视","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==","m3u8ads": "hd.youyhn.com"},
+		{"key":"csp_AppTT","name":"🐰┃图图┃影视","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 		{
 			"key":"csp_Smdyy",
 			"name":"🐴┃神马┃影视",
