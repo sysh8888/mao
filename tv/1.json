@@ -21,15 +21,16 @@
       "quickSearch": 1,
       "filterable": 1
     },	
-    {
-      "key": "360_spider",
-      "name": "🏵┃360┃影视",
-      "api": "csp_SP360",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1
-    },
+{
+         "key": "csp_appys_如意4K",
+         "name": "🏵┃如意┃影视",
+         "type": 3,
+         "api": "csp_AppYsV2",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1,
+         "ext": "http://cms.maoyingshi.cc/api.php/app/"
+    },   
 {"key":"csp_BuLei",
 			"name":"🍩┃布雷┃影视",
 			"type":3,
@@ -37,7 +38,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"http://movie.bulei.cc$$$login$$$sdlw1111$$$qqaa1122"
+			"ext":"http://v.ilime.cc/$$$login$$$sdlw1111$$$qqaa1122"
 		},
 		{
 			"key":"YQK_spider",
@@ -110,8 +111,6 @@
 			"filterable":1
 		},
 {"key":"csp_Paper","name":"📜┃纸条┃搜索","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/token.php"},
-		{"key":"csp_AppTT","name":"🐰┃图图┃影视","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,
-		 "ext": "dldYWXFObkhNTWlsV1pMdFNSSyN0ME1JdzVJQVJyY3I=$$$Q2hpbko5UzdvNnNZbU1WTQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 		{
 			"key":"csp_Smdyy",
 			"name":"🐴┃神马┃影视",
@@ -648,22 +647,24 @@
       "ext": {"分类": "电影$20#电视剧$21#综艺$22#动漫$23", "线路数组": "pull-right\">&&</div>","线路标题": "<h3>&&</h3>",
       "分类url": "https://www.fantuanhd.com/show/id-{cateId}/area/{area}/by/{by}/class/{class}/year/{year}/page/{catePg}.html"}
 	},
+{   
+       "key": "csp_XBPQ_B站影视",
+      "name": "🍚┃B站┃XB",
+       "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {"分类": "电影$1#电视剧$2#综艺$3#动漫$4","二次截取": "movie-list-body flex&&module-footer",
+	  "数组": "<a&&</a>","图片": "data-original=\"&&\"","标题": "title=\"&&影片信息",
+"副标题": "movie-rating cor4\">&&<",
+"链接": "href='&&'","简介": "margin: 15px 15px 0 15px;\">&&<",
+      "分类url": "https://bzhanyy.com/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/year/{year}/page/{catePg}.html"}
+	},
 {"key":"zy_量子","name":"📺┃量子┃采集","type":1,"api":"https://lzizy8.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl": "json:https://www.itvbox.cc/fflz.php?url=","categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 { "key":"zy_非凡","name":"🦆┃非凡┃采集","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/", "playUrl": "json:https://www.itvbox.cc/fflz.php?url=", "searchable": 1,"quickSearch": 1, "filterable":1 },
 {"key": "zy_天猫","name": "🐚┃天猫┃采集", "type": 1,"api": "https://tianmaozy.com/api.php/provide/vod/", "playUrl": "", "searchable": 1,"quickSearch": 1, "filterable": 1 }
 ],
-"drives":[
-  {"name":"小雅","plugin":"alist","server":"http://alist.xiaoya.pro","userName":"","password":"","type":"plugin"},
-  {"name":"99T","plugin":"alist","server":"https://drive.9t.ee","userName":"","password":"","type":"plugin"},
-  {"name":"一只魚","plugin":"alist","server":"https://alist.youte.ml/","userName":"","password":"","type":"plugin"},
-  {"name":"姬路白雪","plugin":"alist","server":"https://pan.jlbx.xyz/","userName":"","password":"","type":"plugin"},
-  {"name":"嗨翻","plugin":"alist","server":"https://pan.hikerfans.com/","userName":"","password":"","type":"plugin"},
-  {"name":"142856","plugin":"alist","server":"https://pan.142856.xyz","userName":"","password":"","type":"plugin"},
-  {"name":"非盘","plugin":"alist","server":"http://www.feifwp.top/","userName":"","password":"","type":"plugin"},
-  {"name":"听闻","plugin":"alist","server":"https://wangpan.sangxuesheng.com/","userName":"","password":"","type":"plugin"},
-  {"name":"晴园","server":"https://alist.52qy.repl.co/dav/","userName":"qingyuan","password":"qingyuan","type":"webdav"},
-  {"name":"晴園","plugin":"alist","server":"https://alist.52qy.repl.co/","userName":"","password":"","type":"plugin"}
-  ],
 "parses":[
  {"name":"解析聚合","type":3,"url":"Demo"}, 
  {"name":"肥猫","type":1,"url":"http://xn--wnup5g.xn--z7x900a.love:63/Art1/analysis.php?v=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
