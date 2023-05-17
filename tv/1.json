@@ -1,5 +1,5 @@
 {
-"spider":"./jar/XBPQ0111.jar;md5;ee7ddfc43f83421abf8cccd11c9c54c5",
+"spider":"./jar/xbpq1223.jar;md5;4045c9bc9fc5218256162a72387618c3",
 "wallpaper":"https://picsum.photos/1280/720/?blur=5","warningText":"欢迎使用7080接口",
 "lives": [
     {
@@ -13,44 +13,14 @@
           ]  } ]}],
 "sites": [
 {
-  "key": "csp_XBPQ_酷云77",
-  "name": "🌤┃酷云┃七七",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0,
-  "ext": { 
-  "请求头": "Dalvik/2.1.0 (Linux; U; Android 10; JNY-AL10 Build/HUAWEIJNY-AL10)",
-  "分类": "电视剧$2#电影$1#综艺$3#动漫$4",
-  "分类url": "http://api.kunyu77.com/api.php/provide/searchFilter?type_id={cateId}&pagenum={catePg}&pagesize=24",
-  "二次截取": "",
-  "数组": "data.result[]",
-  "图片": "videoCover",
-  "标题": "title",
-  "副标题": "msg",
-  "链接前缀": "http://api.kunyu77.com/api.php/provide/videoPlaylist?devid=453CA5D864457C7DB4D0EAA93DE96E66&package=com.sevenVideo.app.android&pcode=010110002&version=1.8.7&ids=",
-  "链接": "id",
-  "搜索模式": "1",
-  "搜索url": "http://api.kunyu77.com/api.php/provide/searchVideo?pg={pg}&searchName={wd}",
-  "搜索二次截取": "",
-  "搜索数组": "data[]",
-  "搜索图片": "videoCover",
-  "搜索标题": "videoName",
-  "搜索链接": "id",
-  "搜索副标题": "msg",
-  "搜索链接前缀": "http://api.kunyu77.com/api.php/provide/videoPlaylist?devid=453CA5D864457C7DB4D0EAA93DE96E66&package=com.sevenVideo.app.android&pcode=010110002&version=1.8.7&ids=",
-  "影片地区": "code", "影片类型": "code",
- "状态":"code",
-"导演": "useView",
-"主演": "code",
-"简介": "msg", 
-  "线路标题": "",
-  "播放二次截取": "",
-  "播放列表": "data.episodes[]",
-  "播放标题": "title",
-  "播放链接": "playurl"
-}},
+      "key": "csp_Kunyu77",
+      "name": "🌤┃酷云┃七七",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },	
 {
   "key": "csp_XBPQ_小苹果",
   "name": "🌤┃小苹果┃XB",
@@ -90,6 +60,16 @@
   "播放标题": "key",
   "播放链接": "url"
 }},
+{
+         "key": "csp_appys_如意4K",
+         "name": "🏵┃如意┃影视",
+         "type": 3,
+         "api": "csp_AppYsV2",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1,
+         "ext": "http://cms.maoyingshi.cc/api.php/app/"
+    },   
 {
   "key": "csp_XBPQ_厂长资源",
   "name": "🐣┃厂长┃资源",
@@ -514,6 +494,17 @@
       "ext": {"分类": "电影$1#电视剧$2#记录$3#动漫$4#综艺$5",
         "数组": "stui-vodlist__thumb lazyload&&</a>","副标题": "pic-text text-right\">&&</span",
       "分类url": "https://rebozj.pro/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"}},
+  {   
+       "key": "csp_XBPQ_555影视",
+      "name": "🗽┃555┃XB",
+       "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {"分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+      "分类url": "https://www.555dyy1.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"}
+	},
 {"key":"zy_量子","name":"📺┃量子┃采集","type":1,"api":"https://lzizy8.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl": "json:https://www.itvbox.cc/fflz.php?url=","categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 { "key":"zy_非凡","name":"🦆┃非凡┃采集","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/", "playUrl": "json:https://www.itvbox.cc/fflz.php?url=", "searchable": 1,"quickSearch": 1, "filterable":1 },
 { "key":"zy_爱胆","name":"🐧┃爱胆┃采集","type":1,"api":"https://lovedan.net/api.php/provide/vod/", "playUrl": "", "searchable": 1,"quickSearch": 1, "filterable":1 }
