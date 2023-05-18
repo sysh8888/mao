@@ -5,7 +5,7 @@
     {
       "name": "直播",
       "type": 0,
-      "url": "http://mao.7080.wang/tv/tv.txt",
+      "url": "./tv.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     },
     {"group": "redirect", "channels": [ { "name": "live",
@@ -23,7 +23,7 @@
     },	
 {
   "key": "csp_XBPQ_小苹果",
-  "name": "🌤┃小苹果┃XB",
+  "name": "⛺️┃小苹果┃XB",
   "type": 3,
   "api": "csp_XBPQ",
   "searchable": 1,
@@ -62,7 +62,7 @@
 }},
 {
          "key": "csp_appys_酷影",
-         "name": "🏵┃酷影┃APP",
+         "name": "⛱️┃酷影┃APP",
          "type": 3,
          "api": "csp_AppYsV2",
          "searchable": 1,
@@ -79,7 +79,7 @@
          "quickSearch": 1,
          "filterable": 1,
          "ext": "http://cms.maoyingshi.cc/api.php/app/"
-    },   
+    },    
 {
   "key": "csp_XBPQ_厂长资源",
   "name": "🐣┃厂长┃资源",
@@ -506,15 +506,44 @@
       "分类url": "https://rebozj.pro/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"}},
   {   
        "key": "csp_XBPQ_555影视",
-      "name": "🗽┃555┃XB",
+      "name": "☘️┃555┃XB",
        "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "ext": {"分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-      "分类url": "https://www.555dyy1.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"}
-	},
+      "分类url": "https://www.555dyy1.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"}},
+  {   
+       "key": "csp_XBPQ_伊人影视",
+      "name": "⚡️┃伊人┃XB",
+       "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {"分类": "电影$1#电视剧$2#综艺$3#动漫$4","简介":"<p>&&</p>",
+      "分类url": "https://www.yrzj.tv/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/year/{year}/page/{catePg}.html"}},
+  {   
+       "key": "csp_XBPQ_莫扎兔",
+      "name": "☀️┃莫扎兔┃XB",
+       "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {"分类": "电影$1#电视剧$2#综艺$3#动漫$4","简介":"<p>&&</p>",
+      "分类url": "https://www.mozhatu.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}/"}},
+  {   
+       "key": "csp_XBPQ_cokemv",
+      "name": "⛳┃cokemv┃XB",
+       "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {"分类": "电影$1#电视剧$2#综艺$3#动漫$4","简介":"<p>&&</p>",
+      "分类url": "https://cokemv.me/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"}},
 {"key":"zy_量子","name":"📺┃量子┃采集","type":1,"api":"https://lzizy8.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl": "json:https://www.itvbox.cc/fflz.php?url=","categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 { "key":"zy_非凡","name":"🦆┃非凡┃采集","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/", "playUrl": "json:https://www.itvbox.cc/fflz.php?url=", "searchable": 1,"quickSearch": 1, "filterable":1 },
 { "key":"zy_爱胆","name":"🐧┃爱胆┃采集","type":1,"api":"https://lovedan.net/api.php/provide/vod/", "playUrl": "", "searchable": 1,"quickSearch": 1, "filterable":1 }
