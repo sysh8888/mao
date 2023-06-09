@@ -671,6 +671,7 @@
 "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
 "分类url":"https://kan.bulei.cc/index.php/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/year/{year}/page/{catePg}.html"}},
  {"key":"drpy_js_鸭鸭","name":"📺┃鸭鸭┃JS","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/js/鸭鸭[V2].js"},
+ {"key":"drpy_js_爱看电影","name":"📺┃爱看电影┃JS","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/js/爱看电影.js"},
 {"key":"zy_量子","name":"📺┃量子┃采集","type":1,"api":"https://lzizy8.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl": "json:https://www.itvbox.cc/fflz.php?url=","categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 { "key":"zy_非凡","name":"🦆┃非凡┃采集","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/", "playUrl": "json:https://www.itvbox.cc/fflz.php?url=", "searchable": 1,"quickSearch": 1, "filterable":1 },
 { "key":"zy_爱胆","name":"🐧┃爱胆┃采集","type":1,"api":"https://lovedan.net/api.php/provide/vod/", "playUrl": "", "searchable": 1,"quickSearch": 1, "filterable":1 }
