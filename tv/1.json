@@ -92,49 +92,6 @@
   "播放链接": "url"
 }},
 {
-  "key": "csp_XBPQ_磁力熊",
-  "name": "🌤┃磁力┃熊",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0,
-  "ext": { 
-  "请求头": "Dalvik/2.1.0 (Linux; U; Android 10; JNY-AL10 Build/HUAWEIJNY-AL10)",
-  "分类": "电影$3#电视剧$12#综艺$10#动漫$4",
-  "分类url": "https://v.3412.net.cn:443/api.php?ac=list&cid={cateId}&page={catePg}&limit=24&keyword=",
-  "二次截取": "",
-  "数组": "list[]",
-  "图片": "cover",
-  "标题": "title",
-  "副标题": "episode",
-  "链接前缀": "https://v.3412.net.cn:443/api.php?ac=getinfo&id=",
-  "链接": "id",
-  "搜索模式": "1",
-  "搜索url": "https://v.3412.net.cn:443/api.php?ac=list&cid=0&page={pg}&limit=24&keyword={wd}",
-  "搜索二次截取": "",
-  "搜索数组": "list[]", 
-  "搜索图片": "cover", 
-  "搜索标题": "title",
-  "搜索链接": "id",
-  "搜索副标题": "episode",
-  "搜索链接前缀": "https://v.3412.net.cn:443/api.php?ac=getinfo&id=",
-  "影片地区": "data.region", "影片类型": "data.release_date",
- "影片年代":"data.year",
-"导演": "data.director",
-"主演": "data.actors",
-"简介": "data.desc", 
- "嗅探词":"https://ccp-bj29-video-preview-hz.oss-cn-hangzhou.aliyuncs.com#.m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
-  "线路标题": "",
-  "播放二次截取": "",
-  "播放列表": "data.eplist[]",
-  "播放标题": "title",
-  "播放链接": "url",
-  "播放链接前缀": "https://player.i597.cc/?url=",
- "播放链接后缀": "&vfrom=%2F%3Fcid%3D12%26keyword%3D%26page%3D1%23nogo"
-}
-},
-{
   "key": "csp_XBPQ_JOJO",
   "name": "🌤┃JOJO┃XB",
   "type": 3,
@@ -170,16 +127,9 @@
   "播放链接": "href=\"&&\""
 }
 },
-{
-         "key": "csp_appys_酷影",
-         "name": "⛱️┃酷影┃APP",
-         "type": 3,
-         "api": "csp_AppYsV2",
-         "searchable": 1,
-         "quickSearch": 1,
-         "filterable": 1,
-         "ext": "http://kuyun.realku.cn/api.php/app/"
-    },    
+{"key":"鸭鸭APP","name":"🪓️┃鸭鸭┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"}, 
+{"key":"爱迪V2","name":"💡️┃爱迪┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"}, 
+{"key": "csp_appys_xc", "name": "🏰┃小城┃影视","type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1,"filterable": 1, "ext": "https://jx.ccabc.cc/fanfan/api.php/app/"}, 
 {
          "key": "csp_appys_如意4K",
          "name": "🏵┃如意┃影视",
@@ -663,6 +613,7 @@
       "filterable": 0,
       "ext": {"分类": "电影$1#电视剧$2#综艺$3#动漫$4","简介":"<p>&&</p>",
       "分类url": "https://cokemv.me/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"}},
+
 {"key": "csp_XBPQ_布雷影视",
 "name": "⛳┃布雷┃搜索","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
 "ext": { "头部集合": "Host$kan.bulei.cc#Upgrade-Insecure-Requests$1#User-Agent$Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36#Cookie$__51uvsct__K3feycziwsJTkceE=1; __51vcke__K3feycziwsJTkceE=ff191314-04de-53ce-94c4-6238e2d1852b; __51vuft__K3feycziwsJTkceE=1684396528252; mx_style=white; showBtn=true; PHPSESSID=dsa1csad7p5d8vv40bff49v1g5; user_id=1242; user_name=sysh8888; group_id=2; group_name=%E9%BB%98%E8%AE%A4%E4%BC%9A%E5%91%98; user_check=7e4c6a51bba5de7d1e9ef7399b166fd9; user_portrait=%2Fstatic%2Fimages%2Ftouxiang.png; __vtins__K3feycziwsJTkceE=%7B%22sid%22%3A%20%227979f85d-9bb6-5e48-880e-197fef7ee9d3%22%2C%20%22vd%22%3A%206%2C%20%22stt%22%3A%2091992%2C%20%22dr%22%3A%2056286%2C%20%22expires%22%3A%201684398420237%2C%20%22ct%22%3A%201684396620237%7D",
