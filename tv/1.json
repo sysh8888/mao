@@ -159,13 +159,23 @@
       },
            {
             "key": "酷云",
-            "name": "😎┃酷云┃影视",
+            "name": "😎┃酷云┃APP",
             "type": 3,
             "api": "csp_AppYsV2",
              "searchable": 1,
            "quickSearch": 1,
            "filterable": 1,
             "ext": "https://ys.realdou.cn/api.php/app/"  
+        },
+ {
+            "key": "APP-孔孔",
+            "name": "😎┃孔孔┃APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+             "searchable": 1,
+           "quickSearch": 1,
+           "filterable": 1,
+            "ext": "https://hoho.tv/api.php/app/"  
         },
   {
     "key": "csp_XBPQ_厂长资源",
@@ -486,6 +496,17 @@
         "ext": {"分类": "电影$1#电视剧$2#记录$3#动漫$4#综艺$5",
           "数组": "stui-vodlist__thumb lazyload&&</a>","副标题": "pic-text text-right\">&&</span",
         "分类url": "https://rebozj.pro/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"}},
+      {   
+         "key": "csp_XBPQ_VIDHUB",
+        "name": "💫┃VIDHUB┃XB",
+         "type": 3,
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "ext": {"分类": "电影$1#电视剧$2#动漫$3#综艺$4","数组": "module-item-pic&&module-item-content",
+		"副标题": "<span>&&</span",
+        "分类url": "https://vidhub.cc/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"}},
     {   
          "key": "csp_XBPQ_555影视",
         "name": "☘️┃555┃XB",
