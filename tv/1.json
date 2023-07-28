@@ -1,5 +1,5 @@
 {
-  "spider":"./jar/xbpq1223.jar;md5;4045c9bc9fc5218256162a72387618c3",
+   "spider":"./jar/xbpq1223.jar;md5;4045c9bc9fc5218256162a72387618c3",
   "wallpaper":"https://picsum.photos/1280/720/?blur=5","warningText":"欢迎使用7080接口",
   "lives": [
       {
@@ -12,7 +12,26 @@
    "urls": [ "proxy://do=live&type=txt&ext=aHR0cDovL3huLS1paHF1MTBjbjRjLnhuLS16N3g5MDBhLmxvdmU6NjMvVFYvemIudHh0"
             ]  } ]}],
   "sites": [
-
+{
+    "key": "csp_XBPQ_一起看",
+    "name": "🌤┃一起看┃轮播",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 0,
+    "ext": { 
+	"直接播放": "1",
+    "分类": "全部轮播$2_208",
+    "分类url": "https://www.douyu.com/gapi/rkc/directory/mixList/{cateId}/{catePg}",
+    "数组": "data.rl[]",
+    "图片": "rs1",
+    "标题": "rn",
+    "副标题": "nn",
+    "链接": "rid",
+	"链接前缀": "https://epg.112114.xyz/douyu/" 
+  }
+  },
   {"key":"鸭鸭APP","name":"🪓️┃鸭鸭┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"}, 
   {"key":"爱迪V2","name":"💡️┃爱迪┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"}, 
   {
@@ -498,6 +517,45 @@
         "ext": {"分类": "电影$1#电视剧$2#综艺$3#动漫$4","简介":"<p>&&</p>",
         "分类url": "https://cokemv.me/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"}},
     {
+            "key": "csp_XBPQ_蚂蚁",
+            "name": "⛳┃蚂蚁┃xb",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": "1",
+            "ext": {
+    "站名": "蚂蚁影院",
+    "主页url": "https://mayitube.com/",
+    "请求头": "手机",
+    "简介": "简介: &&</p>",
+    "导演": "导演: &&</p>",
+    "主演": "主演: &&</p>",
+    "影片年代": "年份: &&</p>",
+    "影片地区": "地区: &&<span",
+    "影片类型": "分类: &&<span",
+    "数组": "<div class=\"col-6 col-sm-6*>&&</div></div></div>",
+    "图片": "style=\"background-image: url*;&&.jpg+.jpg",
+    "标题": "text-overflow*><span>&&</span>",
+    "链接": "href=\"&&\"",
+    "副标题": "content*>&&</span>",
+    "搜索url": "https://mayitube.com/search?q={wd}",
+    "搜索二次截取": "<div class=\"mb-4*>&&</div></div></div>",
+    "搜索数组": "<a class=\"vodthumb no-pajx\"&&</h1>",
+    "搜索图片": "style=\"background-image: url*;&&.jpg+.jpg",
+    "搜索标题": "<h1 class=\"mb-3*><span style=\"color: red;\">&&</span",
+    "搜索副标题": "content*>&&</span>",
+    "搜索链接": "href=\"&&\"",
+    "线路数组": "episodesTab\"&&</ul>[替换:视频选集>>🌸蚂蚁专线🌸]",
+    "线路标题": ">&&</a>",
+    "播放数组": "row gy-3\">&&</div></div>",
+    "分类": "电影$movie#电视剧$tvseries#综艺$tvshow#动漫$anime",
+    "分类url": "https://mayitube.com/c/{cateId}?country={area}&page={catePg}&sort={by}&year={year}",
+    "跳转播放链接": "https://mayitube.com+Base64(var video = {};*('&&')",
+    "地区": "大陆&欧美&日本&美国&香港&韩国&英国&台湾&泰国&新加坡",
+    "年份": "1983-2023",
+    "排序": "更新&评分"
+}
+        },
+    {
             "key": "csp_XBPQ_龟龟",
             "name": "⛳┃龟龟┃xb",
             "type": 3,
@@ -521,19 +579,18 @@
                 "分类url": "http://www.dadagui.me/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"
             }
         },
-    
   {
-      "key": "drpy_js_布蕾",
-      "name": "🌞┃布蕾┃JS",
+      "key": "drpy_js_荐片",
+      "name": "🌞┃荐片┃JS",
       "type": 3,
-      "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
-      "ext": "http://alist.xn--z7x900a.love:63/布蕾.jsd"
+      "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py/libs/drpy2.js",
+      "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py/js/%E8%8D%90%E7%89%87.js"
     },
    {"key":"drpy_js_骚火","name":"📺┃骚火┃JS","type":3,"api":"https://raw.fastgit.ixmu.net/sysh8888/mao/main/tv/js/lib/drpy.js","ext":"https://raw.fastgit.ixmu.net/hjdhnx/dr_py/main/js/骚火电影.js"},
-   {"key":"drpy_js_爱看BOT","name":"📺┃爱看BOT┃JS","type":3,"api":"https://raw.fastgit.ixmu.net/sysh8888/mao/main/tv/js/lib/drpy.js","ext":"https://raw.fastgit.ixmu.net/hjdhnx/dr_py/main/js/ikanbot2.js"},
- {"key":"drpy_js_酷云77","name":"📺┃酷云77┃JS","type":3,"api":"https://raw.fastgit.ixmu.net/sysh8888/mao/main/tv/js/lib/drpy.js","ext":"https://raw.fastgit.ixmu.net/hjdhnx/dr_py/main/js/酷云77.js"},
-   {"key":"drpy_js_人人影视","name":"📺┃人人影视┃JS","type":3,"api":"https://raw.fastgit.ixmu.net/hjdhnx/dr_py/main/libs/drpy2.js","ext":"https://raw.fastgit.ixmu.net/hjdhnx/dr_py/main/js/人人影视.js"},
-{"key":"drpy_js_8号影院","name":"📺┃8号影院┃JS","type":3,"api":"https://raw.fastgit.ixmu.net/hjdhnx/dr_py/main/libs/drpy2.js","ext":"https://raw.fastgit.ixmu.net/hjdhnx/dr_py/main/js/8号影院.js"},
+   {"key":"drpy_js_爱看BOT","name":"📺┃爱看BOT┃JS","type":3,"api":"https://fastly.jsdelivr.net/gh/sysh8888/mao/tv/js/lib/drpy.js","ext":"https://fastly.jsdelivr.net/gh/hjdhnx/dr_py/js/ikanbot2.js"},
+ {"key":"drpy_js_酷云77","name":"📺┃酷云77┃JS","type":3,"api":"https://fastly.jsdelivr.net/gh/hjdhnx/dr_py/libs/drpy2.js","ext":"https://fastly.jsdelivr.net/gh/hjdhnx/dr_py/js/酷云77.js"},
+   {"key":"drpy_js_人人影视","name":"📺┃人人影视┃JS","type":3,"api":"https://fastly.jsdelivr.net/gh/hjdhnx/dr_py/libs/drpy2.js","ext":"https://fastly.jsdelivr.net/gh/hjdhnx/dr_py/js/人人影视.js"},
+{"key":"drpy_js_8号影院","name":"📺┃8号影院┃JS","type":3,"api":"https://fastly.jsdelivr.net/gh/hjdhnx/dr_py/libs/drpy2.js","ext":"https://fastly.jsdelivr.net/gh/hjdhnx/dr_py/js/8号影院.js"},
   {"key":"zy_量子","name":"📺┃量子┃采集","type":1,"api":"https://lzizy8.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl": "json:https://www.itvbox.cc/fflz.php?url=","categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
   { "key":"zy_非凡","name":"🦆┃非凡┃采集","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/", "playUrl": "json:https://www.itvbox.cc/fflz.php?url=", "searchable": 1,"quickSearch": 1, "filterable":1 },
   { "key":"zy_爱胆","name":"🐧┃爱胆┃采集","type":1,"api":"https://lovedan.net/api.php/provide/vod/", "playUrl": "", "searchable": 1,"quickSearch": 1, "filterable":1 }
