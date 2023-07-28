@@ -1,12 +1,12 @@
 // import 'https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/es6py.js';
 // import {是否正版,urlDeal,setResult,setResult2,setHomeResult,maoss,urlencode} from 'http://192.168.10.103:5705/libs/es6py.js';
 // import 'http://192.168.1.124:5705/libs/es6py.js';
-import cheerio from 'https://raw.fastgit.ixmu.net//hjdhnx/dr_py/main/libs/cheerio.min.js';
+import cheerio from 'https://fastly.jsdelivr.net/gh/hjdhnx/dr_py/libs/cheerio.min.js';
 // import cheerio from 'http://192.168.10.103:5705/libs/cheerio.min.js';
-import 'https://raw.fastgit.ixmu.net//hjdhnx/dr_py/main/libs/crypto-js.js';
-import 'https://raw.fastgit.ixmu.net//hjdhnx/dr_py/main/libs/drT.js';
-import 模板 from 'https://raw.fastgit.ixmu.net//hjdhnx/dr_py/main/js/模板.js';
-import {gbkTool} from 'https://raw.fastgit.ixmu.net//hjdhnx/dr_py/main/libs/gbk.js'
+import 'https://fastly.jsdelivr.net/gh/hjdhnx/dr_py/libs/crypto-js.js';
+import 'https://fastly.jsdelivr.net/gh/hjdhnx/dr_py/libs/drT.js';
+import 模板 from 'https://fastly.jsdelivr.net/gh/hjdhnx/dr_py/js/模板.js';
+import {gbkTool} from 'https://fastly.jsdelivr.net/gh/hjdhnx/dr_py/libs/gbk.js'
 // import 'http://192.168.10.103:5705/libs/drT.js';
 // import muban from 'https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/模板.js';
 // import muban from 'http://192.168.10.103:5705/admin/view/模板.js';
