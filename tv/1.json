@@ -501,6 +501,17 @@
         "ext": {"分类": "电影$1#电视剧$2#综艺$3#动漫$4","二次截取": "movie-list-body flex&&module-footer",
         "分类url": "http://www.92kys.com/show/{cateId}/area/{area}/by/{by}/class/{class}/year/{year}/page/{catePg}"}
     },
+       {   
+         "key": "csp_XBPQ_孜然",
+        "name": "🗽┃孜然┃XB",
+         "type": 3,
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "ext": {"分类": "电影$1#电视剧$2#综艺$3#动漫$4","二次截取": "module-list&&id=\"page","数组":"module-item-pic&&module-item-text","简介":"剧情:&&\"",
+        "分类url": "https://zrys1.top/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/year/{year}/page/{catePg}.html"}
+    },
       {   
          "key": "csp_XBPQ_乐播之家",
         "name": "💫┃乐播┃之家",
@@ -600,6 +611,17 @@
                 "线路标题": "\"tab\">&&</a>",
                 "分类": "电影$1#连续剧$2#综艺$3#动漫$4",
                 "分类url": "http://www.dadagui.me/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"
+            }
+        },
+       {
+            "key": "csp_XBPQ_夜光",
+            "name": "⛳┃夜光┃xb",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": "1",
+            "ext": {"简介":"<p>&&</p>","导演":"导演：</span>&&</div>",
+                "分类": "电影$1#连续剧$2#综艺$3#动漫$4",
+                "分类url": "http://www.ygpvp.com/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"
             }
         },
         {
