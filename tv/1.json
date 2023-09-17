@@ -74,6 +74,27 @@
            "filterable": 1,
             "ext": "https://www.kankanju.cc/api.php/app/"  
         },
+                       {
+            "key": "APP_007ts",
+            "name": "😎┃007ts┃app",
+            "type": 3,
+            "api": "csp_AppYsV2",
+             "searchable": 1,
+           "quickSearch": 1,
+           "filterable": 1,
+            "ext": "https://www.007ts.me/api.php/app/"  
+        },
+           {
+            "key": "csp_XBPQ_蛋蛋剧",
+            "name": "⛳┃蛋蛋剧┃xb",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": "1",
+            "ext": {"数组": "col-md-6 col-sm-4 col-xs-3&&</li>",
+                "分类": "电影$1#连续剧$2#综艺$3#动漫$4",
+                "分类url": "https://www.dandanju.cc/show/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"
+            }
+        },
     {
     "key": "csp_XBPQ_农民",
     "name": "🌤┃农民┃XB",
@@ -581,7 +602,15 @@
 	"分类url": "http://www.xb6v.com/{cateId}/index_{catePg}.html[http://www.xb6v.com/{cateId}]",
 	"分类": "喜剧片$xijupian#动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#纪录片$jilupian#动画片$donghuapian#电视剧$dianshiju#综艺$ZongYi"
             }
-        },
+        },  {
+            "key": "荐片",
+            "name": "🎬┃荐片┃影视",
+            "type": 3,
+            "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
+            "ext": "http://alist.xn--z7x900a.love:63/荐片.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1 },
  {"key":"drpy_js_酷云77","name":"📺┃酷云77┃JS","type":3,"api":"https://fastly.jsdelivr.net/gh/hjdhnx/dr_py/libs/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/hjdhnx/dr_py/js/酷云77.js"}, 
    {"key":"drpy_js_爱看BOT","name":"📺┃爱看BOT┃JS","type":3,"api":"https://fastly.jsdelivr.net/gh/hjdhnx/dr_py/libs/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/hjdhnx/dr_py/js/ikanbot2.js"},
    {"key":"drpy_js_人人影视","name":"📺┃人人影视┃JS","type":3,"api":"https://fastly.jsdelivr.net/gh/hjdhnx/dr_py/libs/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/hjdhnx/dr_py/js/人人影视.js"},
@@ -592,8 +621,6 @@
    {"name":"解析聚合","type":3,"url":"Demo"}, 
   { "name": "163解析", "type": 0, "url": "https://www.163dywv.com/jiexi/jiexi-gf/?url=", "ext": { "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"} } }, 
   { "name": "bozrc", "type": 0, "url": "https://jx.bozrc.com:4433/player/?url=", "ext": { "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"} } }, 
-  {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
-  {"name":"肥猫","type":1,"url":"http://jx.fuqizhishi.com:63/%E6%8E%A5%E5%8F%A3%E5%9C%B0%E5%9D%80www.%E8%82%A5%E7%8C%AB.love/%E8%82%A5%E7%8C%AB%E4%B8%93%E7%94%A8.php?url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
   {"name":"麒麟","type":0,"url":"https://jx.quankan.app/?url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
   {"name":"邦宁","type":0,"url":"https://video.isyour.love/Search/SearchJx?t=&id=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
   {"name":"OKJX","type":0,"url":"https://api.okjx.cc:3389/jx.php?url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
@@ -634,4 +661,5 @@
         "iqiyi.hbuioo.com",
         "vip.ffzyad.com"
     ]}
+  
   
