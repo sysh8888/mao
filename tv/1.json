@@ -64,16 +64,7 @@
            "filterable": 1,
             "ext": "http://www.miniku.cc/xgapp.php/v1/"  
         },
-                   {
-            "key": "APP_看看剧",
-            "name": "😎┃看看剧┃app",
-            "type": 3,
-            "api": "csp_AppYsV2",
-             "searchable": 1,
-           "quickSearch": 1,
-           "filterable": 1,
-            "ext": "https://www.kankanju.cc/api.php/app/"  
-        },
+  
                        {
             "key": "APP_007ts",
             "name": "😎┃007ts┃app",
@@ -123,20 +114,18 @@
     "quickSearch": 1,
     "filterable": 0,
     "ext": { 
-    "主页url": "https://kankanju.cc",
-                "请求头": "Referer$https://kankanju.cc/#Cookie$filter_robot_cs=301#User-Agent$Mozilla/5.0 (iPad; CPU OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1",
                 "副标题": "pic-text text-right\">&&</b>",
                 "嗅探词": ".m3u8#.mp4#tos#video_mp4#v3-dy-o.zjcdn.com",
                 "搜索模式": "1",
-                "搜索url": "https://kankanju.cc/type/id-.html?wd={wd}",
+                "搜索url": "https://www.jqqzx.cc/type/id-.html?wd={wd}",
                 "影片类型": "<div class=\"module-info-tag\">&&立即播放",
                 "导演": "导演：&&</div>",
                 "主演": "主演：&&</div>",
                 "简介": "introduction-content\">&&</span>",
-                "线路数组": "data-toggle=&&</li>",
-                "线路标题": "\"tab\">&&</a>[不包含:线路1#线路2#线路3#][替换:FY线路>>无广告有4K#KKJ线路>>无告1080P#LZ线路>>广告1#FF线路>>广告2#YZ线路>>广告3]",
+                "线路数组": "data-dropdown-value=&&</div>",
+                "线路标题": "<span>&&</small>[替换:</span><small>>>🈶]",
                 "分类": "电影$dianying#连续剧$dianshiju#综艺$zongyi#动漫$dongman#纪录片$jilupian",
-                "分类url": "https://kankanju.cc/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"
+                "分类url": "https://www.jqqzx.cc/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"
   }
   },
   {
@@ -196,16 +185,18 @@
     "quickSearch": 1,
     "filterable": 0,
     "ext": {"数组": "module-item-pic&&module-item-text","分类":"电影$1#电视剧$2#综艺$3#动漫$4","简介":"剧情:&& />","分类url":"https://www.1985.one/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/year/{year}/page/{catePg}.html"}
-  },
-       { "key": "csp_XBPQ_小鹿",
-            "name": "💫┃小鹿┃XB",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-            "分类":"电影$1#电视剧$31#综艺$3#动漫$4" ,"简介":"剧情:&&\"",
-            "分类url": "http://www.xiaoluys.me/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html"
-            }
-    },     
+  },          {
+    "key": "csp_XBPQ_胖虎",
+    "name": "🌤┃胖虎┃XB",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": { "分类": "电影$1#电视剧$2#综艺$3#动漫$4","简介":"<p>&&</p>",
+                "分类url": "https://www.panghuys.com/vodshow/{cateId}/area/{area}/page/{catePg}/year/{year}.html"
+  }
+  },   
   {
     "key": "csp_XBPQ_奈菲影视",
     "name": "🦔┃奈菲┃XB",
@@ -234,9 +225,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": {"数组": "stui-vodlist__thumb lazyload&&</a>",
+      "ext": {"数组": "module-item-pic&&module-item-text","图片": "data-src=\"&&\"",
     "分类": "电视剧$2#电影$1#综艺$3#动漫$4",
-    "分类url":"https://www.bilituys.com/bilishow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"
+    "分类url":"https://www.bilituys.com/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/year/{year}/page/{catePg}.html","播放数组": "module-blocklist scroll-box scroll-box-y&&</div>",
+        "导演":"导演：</span>&&</div>","主演":"主演：</span>&&</div>","简介":"剧情：</span>&&</div>"
     }},
   {
       "key": "csp_XBPQ_乐猪TV",
@@ -358,14 +350,23 @@
         "ext": "{\"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",\"分类url\":\"https://www.163dywt.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html\",\"线路数组\": \"class=\\\"tab-item&&/a>\",\"线路标题\": \"</b>&&<\",\"简介\":\"介绍:&&<a\",\"导演\":\"导演:&&</li>\",\"演员\":\"演员:&&</li>\"}"
       },
         {
-        "key": "csp_XBPQ_低端影院",
-        "name": "⛳️┃低端┃XB",
+        "key": "csp_XBPQ_好戏网",
+        "name": "⛳️┃好戏网┃XB",
         "type": 3,
         "api": "csp_XBPQ",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 0,
-        "ext": "{\"免嗅\":\"0\",\"二次截取\":\"myui-vodlist clearfix&&</ul>\",\"播放数组\":\"myui-content__list scrollbar sort-list clearfix&&/ul>\",\"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",\"分类url\":\"http://www.jinyanw.com/vodtype/{cateId}-{catePg}.html\",\"副标题\": \"pic-text text-right\\\">&&</span>\",\"线路数组\": \"href=\\\"#playlist&&/a>\",\"线路标题\": \">&&<\"}"
+        "ext": {"图片": "data-src=\"&&\"",
+          "副标题":"list-prb hide ft2\">&&<",
+          "导演":"导演 :</strong>&&</div>",
+          "演员":"演员 :</strong>&&</div>",
+          "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
+          "简介":"\"text cor3\">&&</div>",
+          "线路数组":"fa ds-dianying\"></i>&&span",
+          "线路标题":"&nbsp;&&<",
+          "分类url":"https://haoxi.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}/"
+        }
       },
     {"key": "csp_XBPQ_8号影视",
   "name": "🚐️️┃8号┃XB",
@@ -567,6 +568,18 @@
 "分类": "电影$1#连续剧$2#综艺$3#动漫$4",
 "分类url":"https://www.mervod.com/vodtype/{cateId}-{catePg}.html"}
         },
+       {    "key": "csp_XBPQ_快鱼",
+                "name": "⛳┃快鱼┃xb",
+                "type": 3,
+                "api": "csp_XBPQ",
+                "ext": {
+  "倒序":"1",              
+"线路数组":" id=\"#con_playlist&&</a>",               
+  "播放数组":"<ul class=\"play-list fade-in&&</ul>" ,  
+ "分类":"电影$dianying#电视剧$guocanju#综艺$zongyi#动漫$dongman",   
+    "分类url":"https://m.y469.org/{cateId}/index_{catePg}_____{area}_1.html"   
+        }
+        },            
        {
             "key": "csp_XBPQ_6V电影",
             "name": "⛳┃6V磁力┃xb",
@@ -602,7 +615,8 @@
 	"分类url": "http://www.xb6v.com/{cateId}/index_{catePg}.html[http://www.xb6v.com/{cateId}]",
 	"分类": "喜剧片$xijupian#动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#纪录片$jilupian#动画片$donghuapian#电视剧$dianshiju#综艺$ZongYi"
             }
-        },  {
+        },
+    {
             "key": "荐片",
             "name": "🎬┃荐片┃影视",
             "type": 3,
@@ -661,5 +675,3 @@
         "iqiyi.hbuioo.com",
         "vip.ffzyad.com"
     ]}
-  
-  
