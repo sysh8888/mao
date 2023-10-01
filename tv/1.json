@@ -13,7 +13,7 @@
             ]  } ]}],
   "sites": [
 {
-    "key": "csp_XBPQ_一起看",
+    "key": "csp_XBPQ_斗鱼",
     "name": "🌤┃直播┃斗鱼",
     "type": 3,
     "api": "csp_XBPQ",
@@ -21,7 +21,7 @@
     "quickSearch": 0,
     "filterable": 0,
     "ext": { "嗅探词":".m3u8#.mp4#.flv#.mp3#.m4a#.xs#dyliveflv3",
-	"直接播放": "1",
+	"直接播放": "1","请求头": "手机",
     "分类": "电影轮播$2_208#原创IP$2_183#趣生活$2_1097#音乐$2_175#美食$2_194#户外$2_124#记录片$2_514",
     "分类url": "https://www.douyu.com/gapi/rkc/directory/mixList/{cateId}/{catePg}",
     "数组": "data.rl[]",
@@ -29,8 +29,50 @@
     "标题": "rn",
     "副标题": "nn",
     "链接": "rid",
-    "播放请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36#sec-ch-ua-platform$Windows#Referer$ https://www.douyu.com/#sec-ch-ua-mobile$?0",
-	"链接前缀": "https://www.douyu.com/" 
+    "播放请求头": "User-Agent$User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.#sec-ch-ua-platform$Windows#Referer$ https://m.douyu.com/#sec-ch-ua-mobile$?0",
+	"链接前缀": "https://m.douyu.com/" 
+  }
+  },
+    {
+    "key": "csp_XBPQ_虎牙.",
+    "name": "🌤┃直播┃虎牙",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 0,
+    "ext": { "嗅探词":".m3u8#.mp4#.flv#.mp3#.m4a#.xs#.p2p",
+	"直接播放": "1","请求头": "手机",
+    "分类": "全部$2135#电影$2067#电视剧$2079#综艺$1011#古装$4201#TVB$4061#搞笑$4183#科技$5461",
+    "分类url": "https://live.huya.com/liveHttpUI/getTmpLiveList?iTmpId={cateId}&iPageNo={catePg}&iPageSize=120&iLibId=2213&iGid=2135",
+    "数组": "vList[]",
+    "图片": "sScreenshot",
+    "标题": "sRoomName",
+    "副标题": "sRecommendTagName",
+    "链接": "lProfileRoom",
+    "播放请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#sec-ch-ua-platform$Windows#Referer$ https://m.huya.com/#sec-ch-ua-mobile$?0",
+	"链接前缀": "https://m.huya.com/" 
+  }
+  },
+      {
+    "key": "csp_XBPQ_YY",
+    "name": "🌤┃直播┃YY",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 0,
+    "ext": { "嗅探词":".m3u8#.mp4#.flv#.mp3#.m4a#.xs",
+	"直接播放": "1","请求头": "手机",
+    "分类": "轮播推荐$zonghe#音乐推荐$music#热舞推荐$dancing#脱口秀推荐$show#颜值推荐$pretty#二次元推荐$acg#体育推荐$sport",
+    "分类url": "https://www.yy.com/api/top-watching-live?biz={cateId}&sid=28888&page={catePg}",
+    "数组": "data[]",
+    "图片": "thumb2",
+    "标题": "desc",
+    "副标题": "totalViewer",
+    "链接": "sid",
+    "播放请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#sec-ch-ua-platform$Windows#Referer$ https://m.yy.com/#sec-ch-ua-mobile$?0",
+	"链接前缀": "https://www.yy.com/" 
   }
   },
   {"key":"鸭鸭APP","name":"🪓️┃鸭鸭┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"}, 
@@ -675,3 +717,4 @@
         "iqiyi.hbuioo.com",
         "vip.ffzyad.com"
     ]}
+  
