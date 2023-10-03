@@ -43,7 +43,7 @@
     "filterable": 0,
     "ext": { "嗅探词":".m3u8#.mp4#.flv#.mp3#.m4a#.xs#.p2p",
 	"直接播放": "1","请求头": "手机",
-    "分类": "全部$2135#电影$2067#电视剧$2079#综艺$1011#古装$4201#TVB$4061#搞笑$4183#科技$5461",
+    "分类": "电影$2067#电视剧$2079#综艺$1011#古装$4201#TVB$4061#搞笑$4183#科技$5461",
     "分类url": "https://live.huya.com/liveHttpUI/getTmpLiveList?iTmpId={cateId}&iPageNo={catePg}&iPageSize=120&iLibId=2213&iGid=2135",
     "数组": "vList[]",
     "图片": "sScreenshot",
@@ -116,6 +116,36 @@
            "quickSearch": 1,
            "filterable": 1,
             "ext": "https://www.007ts.me/api.php/app/"  
+        },
+         {
+            "key": "APP_奈菲迷",
+            "name": "😎┃奈菲迷┃app",
+            "type": 3,
+            "api": "csp_AppYsV2",
+             "searchable": 1,
+           "quickSearch": 1,
+           "filterable": 1,
+            "ext": "https://www.netfly.tv/api.php/app/"  
+        },
+         {
+            "key": "APP_宝片影视",
+            "name": "😎┃宝片┃app",
+            "type": 3,
+            "api": "csp_AppYsV2",
+             "searchable": 1,
+           "quickSearch": 1,
+           "filterable": 1,
+            "ext": "https://www.zpsps.com/api.php/app/"  
+        },
+           {
+            "key": "APP_EMO",
+            "name": "😎┃EMO┃app",
+            "type": 3,
+            "api": "csp_AppYsV2",
+             "searchable": 1,
+           "quickSearch": 1,
+           "filterable": 1,
+            "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"  
         },
            {
             "key": "csp_XBPQ_蛋蛋剧",
@@ -671,6 +701,8 @@
    {"key":"drpy_js_爱看BOT","name":"📺┃爱看BOT┃JS","type":3,"api":"https://fastly.jsdelivr.net/gh/hjdhnx/dr_py/libs/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/hjdhnx/dr_py/js/ikanbot2.js"},
    {"key":"drpy_js_人人影视","name":"📺┃人人影视┃JS","type":3,"api":"https://fastly.jsdelivr.net/gh/hjdhnx/dr_py/libs/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/hjdhnx/dr_py/js/人人影视.js"},
 {"key":"drpy_js_8号影院","name":"📺┃8号影院┃JS","type":3,"api":"https://fastly.jsdelivr.net/gh/hjdhnx/dr_py/libs/drpy2.min.js","ext":"https://fastly.jsdelivr.net/gh/hjdhnx/dr_py/js/8号影院.js"},
+     { "key":"zy_索尼","name":"🐧┃索尼┃采集","type":1,"api":"https://suoniapi.com/api.php/provide/vod/from/snm3u8/", "playUrl": "", "searchable": 1,"quickSearch": 1, "filterable":1 },
+ { "key":"zy_秒看","name":"🐧┃秒看┃采集","type":1,"api":"https://www.xy1080.net/api.php/provide/vod/", "playUrl": "", "searchable": 1,"quickSearch": 1, "filterable":1 },
   { "key":"zy_爱胆","name":"🐧┃爱胆┃采集","type":1,"api":"https://lovedan.net/api.php/provide/vod/", "playUrl": "", "searchable": 1,"quickSearch": 1, "filterable":1 }
   ],
   "parses":[
@@ -717,4 +749,5 @@
         "iqiyi.hbuioo.com",
         "vip.ffzyad.com"
     ]}
+  
   
