@@ -1,8 +1,12 @@
 💞特色推荐,#genre#
 纪晓岚,http://luotuo.ycchenrong.cn/dl/yy.php?id=1352227227#http://106.53.212.251:80/daili/yy.php?id=1352227227
 神雕侠侣,http://luotuo.ycchenrong.cn/dl/yy.php?id=1351762426#http://106.53.212.251/daili/yy.php?id=1351762426
-IPTV高清院线,http://119.39.128.18:88/hls/34/index.m3u8 
-IPTV抗战剧场,http://119.39.128.18:88/hls/35/index.m3u8
+蓝光大片,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24066336
+CHC动作电影,https://iptv.luas.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/7b32f53261-0-0-3d182015277233e27cbca4cf9285edb3/index.m3u8
+CHC高清电影,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=CHCHD_7000
+CHC高清电影,http://zhuji.sdrnwl.cn:9901/tsfile/live/1058_1.m3u8
+CHC家庭影院,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw1587902162_1768667353/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265667645&timezone=UTC&mtv_session=1e2626f9fa52e9ed0b3e629dab7d7ad3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=950d3a482d21f43d77d58540bfd2cbad&咪咕
+CHC家庭影院,https://iptv.luas.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/07205d7188-0-0-f235a6e0e8dff537848f3fa9cc731bb5/index.m3u8
 爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 北京淘電影,http://61.148.223.18:8888/newlive/live/hls/57/live.m3u8
 澳门莲花,http://nettvpro.live/hls/lotustv.php?zgangd
@@ -12,6 +16,8 @@ IPTV抗战剧场,http://119.39.128.18:88/hls/35/index.m3u8
 中華衛視神州台,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226148/1/index.m3u8?fmt=ts2hls
 臺港衛視,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226190/1/index.m3u8?fmt=ts2hls
 凤凰卫视,http://107.151.203.111:2209/135/hk.php?id=fhzw
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=30025
 🎈央视直播,#genre#
 CCTV1,http://119.164.216.162:9901/tsfile/live/0001_1.m3u8
 CCTV2,http://119.164.216.162:9901/tsfile/live/0002_1.m3u8
