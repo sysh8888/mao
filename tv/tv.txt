@@ -2,9 +2,12 @@
 纪晓岚,http://luotuo.ycchenrong.cn/dl/yy.php?id=1352227227#http://106.53.212.251:80/daili/yy.php?id=1352227227
 神雕侠侣,http://luotuo.ycchenrong.cn/dl/yy.php?id=1351762426#http://106.53.212.251/daili/yy.php?id=1351762426
 蓝光大片,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24066336
+CHC动作电影,https://live.goodiptv.club/api/ghyx.php?id=MotionHD_2000
 CHC动作电影,https://iptv.luas.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/7b32f53261-0-0-3d182015277233e27cbca4cf9285edb3/index.m3u8
+CHC高清电影,https://live.goodiptv.club/api/ghyx.php?id=CHCHD2_6000
 CHC高清电影,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=CHCHD_7000
 CHC高清电影,http://zhuji.sdrnwl.cn:9901/tsfile/live/1058_1.m3u8
+CHC家庭影院,https://live.goodiptv.club/api/ghyx.php?id=CHCHD_2000
 CHC家庭影院,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw1587902162_1768667353/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265667645&timezone=UTC&mtv_session=1e2626f9fa52e9ed0b3e629dab7d7ad3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=950d3a482d21f43d77d58540bfd2cbad&咪咕
 CHC家庭影院,https://iptv.luas.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/07205d7188-0-0-f235a6e0e8dff537848f3fa9cc731bb5/index.m3u8
 爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -19,23 +22,22 @@ CHC家庭影院,https://iptv.luas.edu.cn/liverespath/449d51febadb152094085d373b9
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=30025
 🎈央视直播,#genre#
-CCTV1,http://119.164.216.162:9901/tsfile/live/0001_1.m3u8
-CCTV2,http://119.164.216.162:9901/tsfile/live/0002_1.m3u8
-CCTV3,http://119.164.216.162:9901/tsfile/live/0003_1.m3u8
-CCTV4,http://119.164.216.162:9901/tsfile/live/0004_1.m3u8
-CCTV5,http://119.164.216.162:9901/tsfile/live/0005_1.m3u8
-CCTV6,http://119.164.216.162:9901/tsfile/live/0006_1.m3u8
-CCTV7,http://119.164.216.162:9901/tsfile/live/0007_1.m3u8
-CCTV8,http://119.164.216.162:9901/tsfile/live/0008_1.m3u8
-CCTV9,http://119.164.216.162:9901/tsfile/live/0009_1.m3u8
-CCTV10,http://119.164.216.162:9901/tsfile/live/0010_1.m3u8
-CCTV11,http://119.164.216.162:9901/tsfile/live/0011_1.m3u8
-CCTV12,http://119.164.216.162:9901/tsfile/live/0012_1.m3u8
-CCTV13,http://119.164.216.162:9901/tsfile/live/0013_1.m3u8
-CCTV14,http://119.164.216.162:9901/tsfile/live/0014_1.m3u8
-CCTV15,http://119.164.216.162:9901/tsfile/live/0015_1.m3u8
-CCTV16,http://119.164.216.162:9901/tsfile/live/0016_1.m3u8
-CCTV17,http://119.164.216.162:9901/tsfile/live/0017_1.m3u8
+CCTV1,https://iptv.luas.edu.cn/liverespath/b455c7a019d404d571655c457e0ee8a9440a7802/e0eea3f2cd-0-0-7b16046e28b9e794d06c5fbcc82d37b9/index.m3u8
+CCTV2,https://iptv.luas.edu.cn/liverespath/6b13fe5368d391761312a985ace065c0ecad2f5e/877097d2fa-0-0-b7736e6941fd5cb71f45ef9397b68092/index.m3u8
+CCTV3,https://iptv.luas.edu.cn/liverespath/f76f9947c68be18d7a456e25aa59a08c5747e6a5/0df24da9ec-0-0-dca40ddadd2a051ce1a83536d9310820/index.m3u8
+CCTV4,https://iptv.luas.edu.cn/liverespath/c70d81eefb04fef7777c2a5aab4ddc9459ce4246/0baa43f537-0-0-5bc4eda6a2031a1140906b86d867a79e/index.m3u8
+CCTV5,https://iptv.luas.edu.cn/liverespath/3f76badfb3a23d95f26ff573a93902bbdb8b8e98/d576df8c0b-0-0-2de19686e2172f351d6e90c142a0be07/index.m3u8
+CCTV6,https://iptv.luas.edu.cn/liverespath/f2f39ee2105c85c32df375728a51b5d89d3afab4/113ed89f48-0-0-85216e55861329ec31ba1437a2ff37c9/index.m3u8
+CCTV7,https://iptv.luas.edu.cn/liverespath/f116a0a5035935a3435155998163d8eaa60554c3/4ba629f762-0-0-0a66b18805ff859ce68ab1137157079e/index.m3u8
+CCTV8,https://iptv.luas.edu.cn/liverespath/9e6e3b618b5dc902d992949f0c669bb674f6cde8/cae4471c68-0-0-316245c664c3311072c7279ec29672fe/index.m3u8
+CCTV9,https://iptv.luas.edu.cn/liverespath/0d0f0da65ba843b8d1dd6fed315bfea896ddd20d/a1920294b0-0-0-f3b9b294fd2e3c4db85f962e6949c4a1/index.m3u8
+CCTV10,https://iptv.luas.edu.cn/liverespath/924e6292a0e6f7440e8380075908fed9915b3c00/780499a193-0-0-c50d57fd93cf32a5144ec8d889eb3ed9/index.m3u8
+CCTV11,https://iptv.luas.edu.cn/liverespath/3d0aa0f1604f13f0ae90c2dc0590ca22a1bcaaa2/646e868153-0-0-a53121a1df5b93a74d1980270e652878/index.m3u8
+CCTV12,https://iptv.luas.edu.cn/liverespath/fb84bde1de15cdb0308a7910cebc0497594ae94e/e2d8885f42-0-0-6e1f55986652ba786606a116c5cc0775/index.m3u8
+CCTV13,https://iptv.luas.edu.cn/liverespath/8a2f3cd1ae4091c8d073cd239518f24cd4560d8e/0af5e4ebbf-0-0-73acd2813c45f8d650460bda2f73cdf0/index.m3u8
+CCTV14,https://iptv.luas.edu.cn/liverespath/0e0973e58d4835f4b872548164462930003f77b4/0ef01acfdb-0-0-3c10e95bcde07ba14f0f93a8d831b684/index.m3u8
+CCTV15,https://iptv.luas.edu.cn/liverespath/59c02d176e7c3b05a62a9bb42be1ca2a92df2e1c/aefabb5259-0-0-65038e86b205c58b18c0c661afd99fae/index.m3u8
+CCTV16,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8
 CCTV10,http://171.221.240.108:808/hls/10/index.m3u8
 CCTV11,http://171.221.240.108:808/hls/11/index.m3u8
 CCTV12,http://171.221.240.108:808/hls/12/index.m3u8
@@ -63,6 +65,10 @@ CCTV12,http://jh.d7g.cn/tv/zx2023.php?id=387
 CCTV13,http://jh.d7g.cn/tv/zx2023.php?id=388
 CCTV14,http://jh.d7g.cn/tv/zx2023.php?id=389
 CCTV15,http://jh.d7g.cn/tv/zx2023.php?id=390
+CCTV1,https://live.metshop.top/bestv.php?id=cctv1hd8m/8000000
+欢笑剧场,https://live.metshop.top/bestv.php?id=hxjc8m/8000000
+CCTV1,https://live.goodiptv.club/api/ghyx.php?id=CCTV1HD_6000
+CCTV4K,https://live.goodiptv.club/api/ghyx.php?id=CCTV4K_25000
 🚆卫视直播,#genre#
 河北卫视,http://event.pull.hebtv.com/jishi/weishipindao.m3u8
 河南卫视,http://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8
@@ -96,7 +102,7 @@ CCTV15,http://jh.d7g.cn/tv/zx2023.php?id=390
 贵州卫视,http://171.221.240.108:808/hls/29/index.m3u8
 河北卫视,http://171.221.240.108:808/hls/30/index.m3u8
 四川卫视,http://171.221.240.108:808/hls/31/index.m3u8
-
+江苏卫视,https://live.metshop.top/bestv.php?id=jswshd8m/8000000
 🏰浙江电视,#genre#
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?zzhed
 浙江卫视,http://yd-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?zzhed
