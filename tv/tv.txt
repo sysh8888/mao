@@ -2,6 +2,7 @@
 纪晓岚,http://luotuo.ycchenrong.cn/dl/yy.php?id=1352227227#http://106.53.212.251:80/daili/yy.php?id=1352227227
 神雕侠侣,http://luotuo.ycchenrong.cn/dl/yy.php?id=1351762426#http://106.53.212.251/daili/yy.php?id=1351762426
 蓝光大片,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24066336
+小品轮播,http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 CHC动作电影,http://111.20.40.166/PLTV/88888893/224/3221226465/index.m3u8
 CHC高清电影,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43063/index.m3u8
 CHC家庭影院,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw1587902162_1768667353/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265667645&timezone=UTC&mtv_session=1e2626f9fa52e9ed0b3e629dab7d7ad3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=950d3a482d21f43d77d58540bfd2cbad&咪咕
@@ -11,6 +12,11 @@ CHC家庭影院,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 寰宇卫视,https://jc-qlive-play.jingchangkan.cn/3473_171322168_W9MX.m3u8
 翡翠台,http://r.jdshipin.com/62WM7
+黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+精彩综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226009/index.m3u8
+欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+东北乐剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+纪实人文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 🎈央视直播,#genre#
 CCTV1,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=3
 CCTV2,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265002&livemode=1&stbId=3
@@ -63,6 +69,12 @@ CCTV10,http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494
 江苏卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265030&livemode=1&stbId=3
 浙江卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265031&livemode=1&stbId=3
 江西卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265032&livemode=1&stbId=3
+东南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265033&livemode=1&stbId=3
+广东卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265034&livemode=1&stbId=3
+天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
+深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
+东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+黑龙江,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226010/index.m3u8
 河南卫视,http://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
@@ -180,3 +192,7 @@ CCTV10,http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
 余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
 象山综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8?zzhed
+🏰IPTV6网络,#genre#
+凤凰卫视,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+醇享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
+欢笑剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
