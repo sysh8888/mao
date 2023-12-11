@@ -54,7 +54,14 @@
 	"链接前缀": "https://wap.yy.com/mobileweb/" 
   }
   }, 
-
+      {
+            "key": "nangua",
+            "name": "🎃┃南瓜┃JS",
+            "type": 3,
+            "playerType": "2",
+            "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+            "ext": "https://d.kstore.space/download/6296/js/南瓜.js"
+        },
     {  "key": "csp_appys_狐狸",
            "name": "🦊┃狐狸┃APP",
            "type": 3,
