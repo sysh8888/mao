@@ -6,8 +6,8 @@
           "name": "直播",
           "type": 0,
           "url": "./tv.txt",
-          "ua": "okhttp/3.12.13",
-          "epg": "http://diyp1.112114.xyz/?ch={name}&date={date}",
+          "ua": "okhttp/3.12.13","playerType":1,
+          "epg":"http://diyp1.112114.xyz/?ch={name}&date={date}",
           "logo": "http://diyp1.112114.xyz/logo/{name}.png"
       }
   ],
