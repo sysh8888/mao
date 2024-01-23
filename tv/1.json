@@ -54,14 +54,17 @@
 	"链接前缀": "https://wap.yy.com/mobileweb/" 
   }
   }, 
-    {
-        "key": "nangua",
-        "name": "🎃┃南瓜┃JS",
-        "type": 3,
-        "playerType": "2",
-        "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-        "ext": "https://d.kstore.space/download/6296/js/南瓜.js"
-    },
+        {
+            "key": "南瓜",
+            "name": "🎃┃南瓜┃App",
+            "type": 3,
+            "api": "csp_NanGua",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+	 "jar":"./jar/fan.jar;md5;87c10cb2cda0a4cca965373ec8d02c7b"
+        },
     {
         "key": "荐片",
         "name": "🎬┃荐片┃JS",
@@ -69,24 +72,30 @@
         "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
         "ext": "https://d.kstore.space/download/6296/js/JP.js"
     },
-    {
-      "key": "厂长",
-      "name": "🏭┃厂长┃JS",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "ext": "https://d.kstore.space/download/6296/js/厂长.js"
-    },
+      {
+            "key": "csp_Czsapp",
+            "name": "🏭️厂长┃直连",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "playerType": 2,
+            "searchable": 1,
+            "changeable": 0,
+            "quickSearch": 1,
+            "ext": "https://www.czzy66.com/",
+            "filterable": 1,
+	"jar":"./jar/fan.jar;md5;87c10cb2cda0a4cca965373ec8d02c7b"      
+        },
     {
         "key": "csp_Panda_玩偶哥哥",
         "name": "👲┃玩偶阿里云┃4K",
       "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹",
-      "jar":"./jar/fan20231231.jar;md5;f8e21d60027d5d4f9e287be44f192c3f"
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
+        },
+      "jar":"./jar/fan.jar;md5;87c10cb2cda0a4cca965373ec8d02c7b"
       },
     {
         "key": "UpYun",
@@ -96,9 +105,20 @@
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 0,
-        "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
-       "jar":"./jar/fan20231231.jar;md5;f8e21d60027d5d4f9e287be44f192c3f"
+            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto",
+       "jar":"./jar/fan.jar;md5;87c10cb2cda0a4cca965373ec8d02c7b"
     },
+        {
+            "key": "PanSou",
+            "name": "🦊盘搜┃搜索",
+            "type": 3,
+            "api": "csp_PanSou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
+	  "jar":"./jar/fan.jar;md5;87c10cb2cda0a4cca965373ec8d02c7b"
+        },
     {
         "key": "csp_APP_77",
         "name": "👒┃七七┃App",
@@ -107,17 +127,8 @@
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 1,
-      "jar":"./jar/fan20231231.jar;md5;f8e21d60027d5d4f9e287be44f192c3f"
+      "jar":"./jar/fan.jar;md5;87c10cb2cda0a4cca965373ec8d02c7b"
     },
-    {  "key": "csp_appys_cokemv",
-         "name": "🦊┃cokemv┃APP",
-         "type": 3,
-         "api": "csp_AppYsV2",
-         "searchable": 1,
-         "quickSearch": 1,
-         "filterable": 1,
-         "ext": "https://cokemv.co/xgapp.php/v2/"
-    }, 	
     {  "key": "csp_appys_狐狸",
            "name": "🦊┃狐狸┃APP",
            "type": 3,
@@ -136,17 +147,6 @@
          "filterable": 1,
          "ext": "http://aikun.tv/api.php/app/"
     }, 	
-               {
-            "key": "APP_迷你库",
-            "name": "😎┃迷你库┃app",
-            "type": 3,
-            "api": "csp_AppYsV2",
-             "searchable": 1,
-           "quickSearch": 1,
-           "filterable": 1,
-            "ext": "http://www.miniku.cc/xgapp.php/v1/"  
-        },
-  
            {
             "key": "csp_XBPQ_蛋蛋剧",
             "name": "⛳┃蛋蛋剧┃xb",
