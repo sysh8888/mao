@@ -70,7 +70,7 @@
         "name": "🎬┃荐片┃JS",
         "type": 3,
         "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-        "ext": "https://d.kstore.space/download/6296/js/JP.js"
+        "ext": "https://cdn.jsdelivr.net/gh/hjdhnx/dr_py@main/js/%E8%8D%90%E7%89%87.js"
     },
       {
             "key": "csp_Czsapp",
