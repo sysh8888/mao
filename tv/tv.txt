@@ -304,12 +304,16 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 周润发轮播,http://8.137.57.240:81/hy.php?url=26746074
 爱情公寓,http://8.137.57.240:81/hy.php?url=11336726
 沈腾,http://8.137.57.240:81/hy.php?url=11601968
+战狼,http://mmitv.top/pltv/yy.php?id=1456668939&uid=2718850416
+纪晓岚,http://mmitv.top/pltv/yy.php?id=1354143978&uid=2552474340
+武林外传,http://mmitv.top/pltv/yy.php?id=21092633&uid=2242788982
 CHC动作电影,http://39.74.142.1:9999/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC高清电影,http://39.74.142.1:9999/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC家庭影院,http://39.74.142.1:9999/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 移动戏曲,http://171.8.138.71:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+北京纪实8K,http://w.7080.wang/cs/btv.php?id=brtv8k
 🏰IPTV6-4k超清,#genre#
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
