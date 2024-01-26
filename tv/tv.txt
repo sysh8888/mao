@@ -163,6 +163,8 @@ CCTV10,http://yncbn.ks-cdn.gitv.tv/gitv_escape/G_CCTV-10-HQ/G_CCTV-A-HQ.m3u8
 CCTV12,http://yncbn.ks-cdn.gitv.tv/gitv_escape/G_CCTV-12-HQ/G_CCTV-A-HQ.m3u8
 CCTV14,http://yncbn.ks-cdn.gitv.tv/gitv_escape/G_CCTV-14-HQ/G_CCTV-A-HQ.m3u8
 CCTV16,http://yncbn.ks-cdn.gitv.tv/gitv_escape/G_CCTV-16-HQ/G_CCTV-A-HQ.m3u8
+CCTV1,http://117.148.187.37/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/42329859.smil/index.m3u8?fmt=ts2hls&diqu=杭州
+CCTV1,http://39.134.179.148:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/42329859.smil/index.m3u8?fmt=ts2hls&diqu=台州
 🚆卫视直播,#genre#
 安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 兵团卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
@@ -313,7 +315,6 @@ CHC家庭影院,http://39.74.142.1:9999/tsfile/live/1015_1.m3u8?key=txiptv&playl
 移动戏曲,http://171.8.138.71:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-北京纪实8K,http://w.7080.wang/cs/btv.php?id=brtv8k
 🏰IPTV6-4k超清,#genre#
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
@@ -625,3 +626,6 @@ CETV4,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u
 金色学堂,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001194/index.m3u8?
 游戏风云,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001192/index.m3u8?
 东方影视,http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001016/index.m3u8?love=freedom
+CCTV1,http://[2409:8087:2801:21:10::11]:6410/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/42329859.smil/index.m3u8?fmt=ts2hls&diqu=浙江
+CCTV1,http://[2409:8087:2801:21:10::13]:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/42329859.smil/index.m3u8?fmt=ts2hls&IASHttpSessionId=SLB1120820240126125036000001&ispcode=26
+浙江记录,http://[2409:8087:2800:20::20]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228989/3221229419.smil/index.m3u8?fmt=ts2hls
