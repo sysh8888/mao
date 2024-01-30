@@ -86,7 +86,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹",
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://www.wogg.link/$$$弹",
       "jar":"./jar/fan.jar;md5;87c10cb2cda0a4cca965373ec8d02c7b"
       },
     {
