@@ -541,7 +541,7 @@
 "播放列表": "<a&&/a>",
 	"播放标题": ">&&<",
 	"播放链接": "href=\"&&\"",
-	"分类url": "http://www.xb6v.com/{cateId}/index_{catePg}.html[http://www.xb6v.com/{cateId}]",
+	"分类url": "https://www.66ss.org/{cateId}/index_{catePg}.html[https://www.66ss.org/{cateId}]",
 	"分类": "喜剧片$xijupian#动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#纪录片$jilupian#动画片$donghuapian#电视剧$dianshiju#综艺$ZongYi"
             }
         },
@@ -583,7 +583,6 @@
       }
     },
      { "key":"zy_索尼","name":"🐧┃索尼┃采集","type":1,"api":"https://suoniapi.com/api.php/provide/vod/from/snm3u8/", "playUrl": "", "searchable": 1,"quickSearch": 1, "filterable":1 },
- { "key":"zy_秒看","name":"🐧┃秒看┃采集","type":1,"api":"https://www.xy1080.net/api.php/provide/vod/", "playUrl": "", "searchable": 1,"quickSearch": 1, "filterable":1 },
      {
 	    "key": "zy_暴风",
 		"name": "🐧┃暴风┃采集",
