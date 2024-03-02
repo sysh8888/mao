@@ -457,6 +457,7 @@
       "分类": "4K电影$3#4K美剧$8#4K华语$15#4K动画$6#4K纪录片$11#4K日韩印$4#蓝光电影$29#蓝光美剧$31#蓝光华语$33#蓝光动画$32#蓝光日韩印$34"
         }
       },
+       { "key":"zy_360","name":"🐧┃360┃采集","type":1,"api":"https://360zy.com/api.php/provide/vod/from/360zy,/", "playUrl": "", "searchable": 1,"quickSearch": 1, "filterable":1 },
        { "key":"zy_索尼","name":"🐧┃索尼┃采集","type":1,"api":"https://suoniapi.com/api.php/provide/vod/from/snm3u8/", "playUrl": "", "searchable": 1,"quickSearch": 1, "filterable":1 },
        {
         "key": "zy_暴风",
