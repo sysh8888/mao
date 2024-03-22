@@ -33,15 +33,7 @@
     "链接前缀": "https://m.huya.com/" 
     }
     },  
-      {  "key": "csp_appys_狐狸",
-             "name": "🦊┃狐狸┃APP",
-             "type": 3,
-             "api": "csp_AppYsV2",
-             "searchable": 1,
-             "quickSearch": 1,
-             "filterable": 1,
-             "ext": "https://www.kuin.one/api.php/app/"
-        }, 	
+
        {
         "key": "csp_XBPQ_爱看",
         "name": "🌤┃爱看┃XB",
@@ -58,49 +50,7 @@
             "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
       }
       },
-      {
-        "key": "csp_XBPQ_抖影",
-        "name": "🌤┃抖影┃XB",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0,
-        "ext": { 
-            "分类url": "http://vipcom.xn--654a.cc/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
-            "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
-      }
-      },
-           {
-        "key": "csp_XBPQ_热播",
-        "name": "🌤┃热播┃XB",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0,
-        "ext": { 
-                  "数组": "class=\"stui-vodlist__thumb lazyload&&</a>",
-                  "图片": "data-original=\"&&\"",
-                  "标题": "title=\"&&\"",
-                  "链接": "href=\"&&\"",
-                  "副标题": "class=\"pic-text text-right\"><b>&&</span>",
-                  "搜索模式": "1",
-                  "嗅探词": ".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com",
-                  "搜索url": "https://rebozj.pro/type/id-.html?wd={wd}",
-                  "线路数组": "style=\"color:#E3AC10\"&&/h4>",
-                  "线路标题": ">&&<[不包含:夸克]",
-                  "播放数组": "stui-content__playlist&&</ul>",
-                  "播放列表": "<a&&/a>",
-                  "播放标题": ">&&<",
-                  "影片类型": "类型：&&</p>",
-                  "导演": "导演：&&</p>",
-                  "主演": "主演：&&</p>",
-                  "简介": "detail-sketch\">&&</span>",
-                  "分类": "电视剧$2#电影$1#综艺$3#动漫$4",
-                  "分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html"
-      }
-      },
+       
       {
         "key": "csp_js_南瓜",
         "name": "🎬┃南瓜┃JS",
@@ -121,6 +71,27 @@
           "type": 3,
           "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
           "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/哔嘀影视.js"
+      },
+	    {
+          "key": "低端影视",
+          "name": "🎬┃低端┃JS",
+          "type": 3,
+          "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
+          "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/ddys.js"
+      },
+	  	    {
+          "key": "Auete影视",
+          "name": "🎬┃Auete┃JS",
+          "type": 3,
+          "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
+          "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/Auete.js"
+      },
+	  {
+          "key": "素白白影视",
+          "name": "🎬┃素白白┃JS",
+          "type": 3,
+          "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
+          "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/素白白.js"
       },
              {
         "key": "csp_XBPQ_996",
