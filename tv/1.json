@@ -63,7 +63,7 @@
             "name": "🎬┃荐片┃JS",
             "type": 3,
             "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
-            "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/%E8%8D%90%E7%89%87.js"
+            "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/荐片.js"
         }, 
         {
           "key": "哔嘀影视",
@@ -92,6 +92,20 @@
           "type": 3,
           "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
           "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/素白白.js"
+      },
+	  	  {
+          "key": "酷云77",
+          "name": "🎬┃酷云77┃JS",
+          "type": 3,
+          "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
+          "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/酷云77.js"
+      },
+	  {
+          "key": "两个BT",
+          "name": "🎬┃两个BT┃JS",
+          "type": 3,
+          "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
+          "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/两个BT.js"
       },
              {
         "key": "csp_XBPQ_996",
