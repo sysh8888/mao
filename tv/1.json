@@ -421,8 +421,9 @@
         "playerType": "1",
         "ext": {
           "头部集合": "Cookie$hvLw_2132_saltkey=u5b1lSy7; hvLw_2132_lastvisit=1703129194; Hm_lvt_786cb39ec50724f53df428d52b8b7497=1703132798; _clck=1uupiuy%7C2%7Cfhq%7C0%7C1450; hvLw_2132_st_p=0%7C1703132875%7C537f6b0ab1a3f2773f776b8ffb5350d6; hvLw_2132_viewid=tid_7564; hvLw_2132_st_t=0%7C1703133100%7C7a7c371f953825e69be82eb1f1673a3f; hvLw_2132_forum_lastvisit=D_2_1703133100; hvLw_2132_seccodecSAK4P=1470.0fbeabd63b74c31f1d; hvLw_2132_seccodecSAypE=1472.0dde5807aefbe7ecf5; hvLw_2132_seccodecSAh44=1485.a1e5618dd3187d7d3b; hvLw_2132_ulastactivity=1703133552%7C0; hvLw_2132_auth=bc71ZKNE8wKXdEA8JmRfB7HyXzx1AfIX%2BpaU%2FHMQaotcLclsr0WRsLz7yHnNwVfvvgVqslvGqJHRRuDFhHQnSNCJrqc; hvLw_2132_sid=0; m_lpvt_786cb39ec50724f53df428d52b8b7497=1703133563; _clsk=oqwzir%7C1703133563713%7C13%7C1%7Ct.clarity.ms%2Fcollect; hvLw_2132_lastact=1703133755%09search.php%09forum",
-      "数组": "li style=\"width:228px&&</li>",	
-      "图片": "img src=\"&&\"",
+      "图片代理": "1",
+	  "数组": "li style=\"width:228px&&</li>",	
+      "图片": "<img src=\"&&\"[替换:data/>>https://www.4khdr.cn/data/]",
       "标题": "title=\"&&\"",
       "链接": "href=\"&&\"",
       "链接前缀": "",
@@ -442,9 +443,9 @@
       "主演": "主演:&&<br>",
       "简介": "剧情简介 · · · · · ·<br />&&</font",
       "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#ixigua#.czspp#.flv#.mp3#.m4a",
-      "播放数组":  "<td> 下载地址&&</table>",
+      "播放数组":  "下载地址&&</table>",
       "播放列表": "<a&&/a>",
-      "播放标题": "_blank\">&&<",
+      "播放标题": "_blank\">&&</td>",
       "播放链接": "href=\"&&\"",
       "分类url": "https://www.4khdr.cn/forum.php?mod=forumdisplay&fid=2&&filter=typeid&typeid={cateId}&page={catePg}",
       "分类": "4K电影$3#4K美剧$8#4K华语$15#4K动画$6#4K纪录片$11#4K日韩印$4#蓝光电影$29#蓝光美剧$31#蓝光华语$33#蓝光动画$32#蓝光日韩印$34"
