@@ -1,5 +1,5 @@
 {
-  "spider":"./jar/xbpq1223.jar;md5;4045c9bc9fc5218256162a72387618c3",
+  "spider":"./jar/xbpq1223.jar;md5;c3c6c85676f3114dcf03531a6649d31d",
     "wallpaper":"https://picsum.photos/1280/720/?blur=5","warningText":"欢迎使用7080接口",
     "lives": [
         {
@@ -12,6 +12,13 @@
         }
     ],
     "sites": [
+	      {
+        "key": "csp_js_豆瓣",
+        "name": "🎬┃豆瓣搜索┃JS",
+        "type": 3,
+        "api": "./libs/drpy2.min.js",
+        "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/drpy.js"
+    },
       {
       "key": "csp_XBPQ_虎牙.",
       "name": "🌤┃直播┃虎牙",
@@ -78,32 +85,84 @@
             "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
       }
       }, 
-      {
-        "key": "csp_js_南瓜",
-        "name": "🎬┃南瓜┃JS",
-        "type": 3,
-        "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
-        "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/南瓜影视.js"
-    }, 
+{"key":"XBPQ_黑狐影院","name":"🌤┃黑狐影院|XB","type":3,"api":"csp_XBPQ", 
+			"ext": {
+				"站名": "黑狐影院",
+				"主页url": "http://fagmn.com",
+				"数组": "class=\"stui-vodlist__box\"&&</a",
+				"图片": "data-original=\"&&\"",
+				"标题": "title=\"&&\"",
+				"链接": "href=\"&&\"",
+				"嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
+				"过滤词": "/hls/#php",
+				"副标题": "<span class=\"pic-text text-right\">&&</span>",
+				"搜索url": "http://fagmn.com/search.php;post;searchword={wd}",
+				"搜索模式": "1",
+				"搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>",
+				"搜索图片": "data-original=\"&&\"",
+				"搜索标题": "title=\"&&\"",
+				"搜索链接": "href=\"&&\"",
+				"搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
+				"搜索后缀": "/view/",
+				"线路数组": "href=\"#down&&/a>[替换:奇异视频>>黑狐一线#优酷视频>>黑狐二线#搜狐视频>>黑狐三线#咪咕视频>>黑狐四线]",
+				"线路标题": ">&&<",
+				"播放数组": "class=\"stui-content__playlist clearfix&&</ul>",
+				"状态": "地区：&&</p>",
+				"导演": "导演：&&</p>",
+				"主演": "主演：&&</p>",
+				"简介": "简介：&&</div>",
+				"播放列表": "<a&&/a>",
+				"播放标题": ">&&<",
+				"播放链接": "href=\"&&\"",
+				"免嗅": "0",
+				"分类": "电影$1#电视剧$2#动漫$3#综艺$4",
+				"分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
+			}
+		}, 
+		{
+			"key":"XBPQ_电影先生",
+			"name": "🌤┃电影先生|XB",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": {"播放请求头": "authority$dianyi.ng#User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36",
+				"分类url": "https://dianyi.ng/pianku-{cateId}-{area}-------{catePg}---{year}.html",
+				"简介": "class=\"video-info-item video-info-content vod_content\">&&</span>",
+				"搜索url": "https://dianyi.ng/search--------------.html?wd={wd}",
+				"搜索数组": "class=\"module-item-pic&&<strong>立即播放</strong>",
+				"图片": "data-src=\"&&\"",
+				"搜索标题": "alt=\"&&\"",
+				"搜索链接": "href=\"&&\"",
+				"搜索副标题": "target=\"_blank\">&&<",
+				"线路数组": "data-dropdown-value=&&</div>",
+				"线路标题": "<span>&&</small>[替换:<span></small>共]+集",
+				"播放数组": "<div class=\"scroll-content\">&&</div>",
+				"播放标题": "<span>&&</span>",
+				"嗅探词":".m3u8#.mp4",
+				"分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"
+			}
+		},
+		{"key": "XBPQ_麻衣影院","name":"🌤┃麻衣影院|XB","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+			"ext": {"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"}
+		},
         {
             "key": "荐片",
             "name": "🎬┃荐片┃JS",
             "type": 3,
-            "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
+            "api": "./libs/drpy2.min.js",
             "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/荐片.js"
         }, 
 	    {
           "key": "低端影视",
           "name": "🎬┃低端┃JS",
           "type": 3,
-          "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
+          "api": "./libs/drpy2.min.js",
           "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/ddys.js"
       },
 	  {
           "key": "素白白影视",
           "name": "🎬┃素白白┃JS",
           "type": 3,
-          "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
+          "api": "./libs/drpy2.min.js",
           "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/素白白.js"
       }, 
 	   {
@@ -409,6 +468,10 @@
     "分类": "喜剧片$xijupian#动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#纪录片$jilupian#动画片$donghuapian#电视剧$dianshiju#综艺$ZongYi"
               }
           },
+		  {"key":"drpy_js_磁力熊","name":"⛳┃磁力熊┃JS","type":3,
+		  "api":"./libs/drpy2.min.js",
+		  "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/磁力熊%5B磁%5D.js",
+		  "quickSearch":1, "changeable":1, "timeout":60},
 {
       "key": "csp_xml_ikun",
       "name": "爱坤🐔采集",
