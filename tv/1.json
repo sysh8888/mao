@@ -19,27 +19,6 @@
         "api": "./libs/drpy2.min.js",
         "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/drpy.js"
     },
-      {
-      "key": "csp_XBPQ_虎牙.",
-      "name": "🌤┃直播┃虎牙",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": { "嗅探词":".m3u8#.mp4#.flv#.mp3#.m4a",
-    "直接播放": "1","请求头": "手机",
-      "分类": "电影$2067#电视剧$2079#综艺$1011#古装$4201#TVB$4061#搞笑$4183#科技$5461",
-      "分类url": "https://live.huya.com/liveHttpUI/getTmpLiveList?iTmpId={cateId}&iPageNo={catePg}&iPageSize=120&iLibId=2213&iGid=2135",
-      "数组": "vList[]",
-      "图片": "sScreenshot",
-      "标题": "sRoomName",
-      "副标题": "sRecommendTagName",
-      "链接": "lProfileRoom",
-      "播放请求头": "User-Agent$User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/60",
-    "链接前缀": "https://m.huya.com/" 
-    }
-    },  
        {
         "key": "csp_XBPQ_爱看",
         "name": "🌤┃爱看┃XB",
@@ -96,7 +75,7 @@
 				"嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
 				"过滤词": "/hls/#php",
 				"副标题": "<span class=\"pic-text text-right\">&&</span>",
-				"搜索url": "http://fagmn.com/search.php;post;searchword={wd}",
+				"搜索url": "https://heihu.tv/search.php;post;searchword={wd}",
 				"搜索模式": "1",
 				"搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>",
 				"搜索图片": "data-original=\"&&\"",
@@ -116,7 +95,7 @@
 				"播放链接": "href=\"&&\"",
 				"免嗅": "0",
 				"分类": "电影$1#电视剧$2#动漫$3#综艺$4",
-				"分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
+				"分类url": "https://heihu.tv/list/{cateId}_{catePg}.html?order=time"
 			}
 		}, 
 		{
@@ -144,6 +123,32 @@
 		{"key": "XBPQ_麻衣影院","name":"🌤┃麻衣影院|XB","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 			"ext": {"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"}
 		},
+		{"key": "XBPQ_耐看影院","name":"🌤┃耐看影院|XB","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+			"ext": {"简介":"请勿相信影片中的广告，以免上当受骗。+line-height: 20px;\"><p>&&</p>",
+    "导演":"导演：&&</div>",
+    "主演":"主演：&&</div>",
+    "影片类型":"module-info-tag\">&&立即播放",
+    "影片状态":"集数：&&</div>",
+	"数组":"<a&&/div></div></a>",
+    "标题":"title=\"&&\"",
+    "副标题":"note\">&&</div>",
+    "图片":"data-original=\"&&\"",
+    "链接":"href=\"&&\"",
+	"搜索url": "/nk/-------------.html?wd={wd}", 
+   "搜索数组": "module-card-item-class\">&&</a>",
+   "搜索标题": "alt=\"&&\"",
+   "搜索副标题": "note\">&&</div>",
+   "搜索图片": "data-original=\"&&\"",
+   "搜索链接": "href=\"&&\"",
+   "线路数组":"data-dropdown-value=&&</div>[不包含:夸克]",
+    "线路标题":"🌸+<span>&&</small>[替换:</span><small>>>>⚡️共]+集",
+    "播放数组":"<div class=\"module-play-list-content&&</div>",
+    "播放标题":"<span>&&</span>",
+    "播放列表":"<a&&</a>",
+	"分类url":"https://nkvlog.com/show/{cateId}--{by}------{catePg}---{year}.html",
+	"分类":"电影$1#电视剧$2#综艺$3#动漫$4"
+	}
+		},
         {
             "key": "荐片",
             "name": "🎬┃荐片┃JS",
@@ -165,102 +170,6 @@
           "api": "./libs/drpy2.min.js",
           "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/素白白.js"
       }, 
-	   {
-      "key": "配置中心ok",
-      "name": "扫码┃配置中心",
-      "type": 3,
-      "api": "csp_Config",
-      "jar": "./jar/dongchenok.jar;md5;e0eeee047a042c9c3646c5c1767a2749",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.43
-      }
-    },
-		    {
-      "key": "玩偶弹幕版",
-      "name": "玩偶⚗️扫码4K",
-      "type": 3,
-      "api": "csp_Wogg",
-      "jar": "./jar/dongchenok.jar;md5;e0eeee047a042c9c3646c5c1767a2749",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "site": "https://www.wogg.link",
-        "danmu": true
-      },
-      "timeout": 25
-    },
-	   {
-      "key": "土豆弹幕版",
-      "name": "土豆🥔扫码4K",
-      "type": 3,
-      "api": "csp_Wobg",
-      "jar": "./jar/dongchenok.jar;md5;e0eeee047a042c9c3646c5c1767a2749",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "site": "https://tudou.lvdoui.top",
-        "danmu": true
-      },
-      "timeout": 25
-    },
-{
-      "key": "多多网盘",
-      "name": "多多🚛扫码4K",
-      "type": 3,
-      "api": "csp_Wobg",
-      "jar": "./jar/dongchenok.jar;md5;e0eeee047a042c9c3646c5c1767a2749",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "site": "https://tv.yydsys.top",
-        "danmu": true
-      },
-      "timeout": 25
-    },
-	    
-    {
-      "key": "表哥网盘",
-      "name": "表哥🍀扫码4K",
-      "type": 3,
-      "api": "csp_Wobg",
-      "jar": "./jar/dongchenok.jar;md5;e0eeee047a042c9c3646c5c1767a2749",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "site": "https://wobge.run.goorm.io/"
-      },
-      "timeout": 25
-    },
-    {
-      "key": "盘搜",
-      "name": "盘搜🚟弹幕",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "jar": "./jar/dongchenok.jar;md5;e0eeee047a042c9c3646c5c1767a2749",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "danmu": true
-      },
-      "timeout": 15
-    },
 	{
       "key": "csp_XBPQ_多多追剧",
       "name": "💫┃多多追剧┃XB",
@@ -431,7 +340,28 @@
    "分类":"电影$dianying#电视剧$guocanju#综艺$zongyi#动漫$dongman",   
       "分类url":"https://m.y469.org/{cateId}/index_{catePg}_____{area}_1.html"   
           }
-          },            
+          }, 
+		  {
+      "key": "csp_XBPQ_虎牙.",
+      "name": "🌤┃直播┃虎牙",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": { "嗅探词":".m3u8#.mp4#.flv#.mp3#.m4a",
+    "直接播放": "1","请求头": "手机",
+      "分类": "电影$2067#电视剧$2079#综艺$1011#古装$4201#TVB$4061#搞笑$4183#科技$5461",
+      "分类url": "https://live.huya.com/liveHttpUI/getTmpLiveList?iTmpId={cateId}&iPageNo={catePg}&iPageSize=120&iLibId=2213&iGid=2135",
+      "数组": "vList[]",
+      "图片": "sScreenshot",
+      "标题": "sRoomName",
+      "副标题": "sRecommendTagName",
+      "链接": "lProfileRoom",
+      "播放请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/60",
+    "链接前缀": "https://m.huya.com/" 
+    }
+    },  		  
          {
               "key": "csp_XBPQ_6V电影",
               "name": "⛳┃6V磁力┃xb",
@@ -468,10 +398,165 @@
     "分类": "喜剧片$xijupian#动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#纪录片$jilupian#动画片$donghuapian#电视剧$dianshiju#综艺$ZongYi"
               }
           },
+		   {
+              "key": "csp_XBPQ_BT天堂",
+              "name": "⛳┃BT天堂磁力┃xb",
+              "type": 3,
+              "api": "csp_XBPQ",
+              "playerType": "1",
+              "ext": { "规则名": "BT天堂",
+    "规则作者": "",
+    "请求头参数": "PC_UA",
+    "网页编码格式": "UTF-8",
+    "图片是否需要代理": "0",
+    "是否开启获取首页数据": "1",
+    "首页推荐链接": "https://www.bttt11.com",
+    "首页列表数组规则": "body&&.ul-imgtxt1",
+    "首页片单列表数组规则": "li",
+    "首页片单是否Jsoup写法": "1",
+    "首页片单标题": "h3&&Text",
+    "首页片单链接": "a&&href",
+    "首页片单图片": "img&&src",
+    "首页片单副标题": "span,-1&&Text",
+    "首页片单链接加前缀": "https://www.bttt11.com",
+    "首页片单链接加后缀": "",
+    "分类起始页码": "0",
+    "分类链接": "https://www.bttt11.com/html/page-{cateId}-{catePg}.html",
+    "分类名称": "畅影大陆电影&畅影港台电影&畅影欧美电影&畅影欧美剧&畅影日韩剧&畅影日韩电影&畅影动漫&畅影亚太剧&畅影亚太电影&畅影综艺&畅影纪录片",
+    "分类名称替换词": "4&3&1&6&7&2&11&10&5&12&13",
+    "筛选数据": {},
+    "分类截取模式": "1",
+    "分类列表数组规则": ".ul-imgtxt2&&li",
+    "分类片单是否Jsoup写法": "1",
+    "分类片单标题": "h3&&Text",
+    "分类片单链接": "a&&href",
+    "分类片单图片": "img&&src",
+    "分类片单副标题": "span,-1--a&&Text!更新时间：",
+    "分类片单链接加前缀": "https://www.bttt11.com",
+    "分类片单链接加后缀": "",
+    "搜索请求头参数": "User-Agent$PC_UA",
+    "搜索链接": "https://www.bttt11.com/e/search/;post",
+    "POST请求数据": "show=title,newstext&keyboard={wd}&searchtype=影视搜索",
+    "搜索截取模式": "1",
+    "搜索列表数组规则": ".ul-imgtxt2&&li",
+    "搜索片单是否Jsoup写法": "1",
+    "搜索片单图片": "img&&src",
+    "搜索片单标题": "h3&&Text",
+    "搜索片单链接": "a&&href",
+    "搜索片单副标题": "span,-1--a&&Text!更新时间：",
+    "搜索片单链接加前缀": "https://www.bttt11.com",
+    "搜索片单链接加后缀": "",
+    "链接是否直接播放": "0",
+    "直接播放链接加前缀": "",
+    "直接播放链接加后缀": "",
+    "直接播放直链视频请求头": "",
+    "详情是否Jsoup写法": "0",
+    "类型详情": "<p>◎类　　别&&</p>",
+    "年代详情": "<p>◎年　　代&&</p>",
+    "地区详情": "<p>◎产　　地&&</p>",
+    "演员详情": "",
+    "简介详情": "",
+    "线路列表数组规则": "",
+    "线路标题": "",
+    "播放列表数组规则": "body&&.container",
+    "选集列表数组规则": "a[href^=magnet]||a[href^=ed2K]",
+    "选集标题链接是否Jsoup写法": "1",
+    "选集标题": "Text",
+    "选集链接": "a&&href",
+    "是否反转选集序列": "0",
+    "选集链接加前缀": "",
+    "选集链接加后缀": "",
+    "分析MacPlayer": "0",
+    "是否开启手动嗅探": "0",
+    "手动嗅探视频链接关键词": ".mp4#.m3u8#.flv",
+    "手动嗅探视频链接过滤词": ".html"
+              }
+          },
 		  {"key":"drpy_js_磁力熊","name":"⛳┃磁力熊┃JS","type":3,
 		  "api":"./libs/drpy2.min.js",
 		  "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/磁力熊%5B磁%5D.js",
 		  "quickSearch":1, "changeable":1, "timeout":60},
+		   {
+      "key": "配置中心ok",
+      "name": "扫码┃配置中心",
+      "type": 3,
+      "api": "csp_Config",
+      "jar": "./jar/dongchenok.jar;md5;e0eeee047a042c9c3646c5c1767a2749",
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.43
+      }
+    },
+		    {
+      "key": "玩偶弹幕版",
+      "name": "玩偶⚗️扫码4K",
+      "type": 3,
+      "api": "csp_Wogg",
+      "jar": "./jar/dongchenok.jar;md5;e0eeee047a042c9c3646c5c1767a2749",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "https://www.wogg.link",
+        "danmu": true
+      },
+      "timeout": 25
+    },
+	   {
+      "key": "土豆弹幕版",
+      "name": "土豆🥔扫码4K",
+      "type": 3,
+      "api": "csp_Wobg",
+      "jar": "./jar/dongchenok.jar;md5;e0eeee047a042c9c3646c5c1767a2749",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "https://tudou.lvdoui.top",
+        "danmu": true
+      },
+      "timeout": 25
+    },
+{
+      "key": "多多网盘",
+      "name": "多多🚛扫码4K",
+      "type": 3,
+      "api": "csp_Wobg",
+      "jar": "./jar/dongchenok.jar;md5;e0eeee047a042c9c3646c5c1767a2749",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "https://tv.yydsys.top",
+        "danmu": true
+      },
+      "timeout": 25
+    },
+	    
+    {
+      "key": "表哥网盘",
+      "name": "表哥🍀扫码4K",
+      "type": 3,
+      "api": "csp_Wobg",
+      "jar": "./jar/dongchenok.jar;md5;e0eeee047a042c9c3646c5c1767a2749",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "https://wobge.run.goorm.io/"
+      },
+      "timeout": 25
+    },
 {
       "key": "csp_xml_ikun",
       "name": "爱坤🐔采集",
