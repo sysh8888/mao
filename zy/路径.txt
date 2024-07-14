@@ -1,0 +1,4 @@
+C:\Users\Administrator\AppData\Roaming\zyplayer\file\js
+
+t3forjs
+http://127.0.0.1:9978/api/v1/file/js/骑士影院.js
