@@ -1,0 +1,301 @@
+{
+  "tbl_site": [
+    {
+      "name": "骑士影院",
+      "api": "t3forjs",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 7,
+      "ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/zy/js/骑士影院.js",
+      "categories": "",
+      "id": "14da8022-9551-4677-b4a0-0f156ef85a4e"
+    },
+    {
+      "name": "4k剧院",
+      "api": "t3forjs",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 7,
+      "ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/zy/js/4k剧院.js",
+      "categories": "",
+      "id": "902a1d0f-833e-4e7a-bc8a-6d85eebe6240"
+    },
+    {
+      "name": "8号影院",
+      "api": "t3forjs",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 7,
+      "ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/zy/js/8号影院.js",
+      "categories": "",
+      "id": "65655c75-e2c0-468c-b94d-277171f54903"
+    },
+    {
+      "name": "freeok",
+      "api": "t3forjs",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 7,
+      "ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/zy/js/freeok.js",
+      "categories": "",
+      "id": "564660e4-7bb9-42cf-a832-8c3f97a52802"
+    },
+    {
+      "name": "HDmoli",
+      "api": "t3forjs",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 7,
+      "ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/zy/js/HDmoli.js",
+      "categories": "",
+      "id": "61ce64d6-b32f-4ae9-a522-e426005078f8"
+    },
+    {
+      "name": "爱看影院",
+      "api": "t3forjs",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 7,
+      "ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/zy/js/爱看影院.js",
+      "categories": "",
+      "id": "da560a08-0f70-4812-806f-6d70bfab6d59"
+    },
+    {
+      "name": "白嫖者联盟",
+      "api": "t3forjs",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 7,
+      "ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/zy/js/白嫖者联盟.js",
+      "categories": "",
+      "id": "275da190-60f5-484d-adc7-b64519a3956a"
+    },
+    {
+      "name": "厂长资源",
+      "api": "t3forjs",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 7,
+      "ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/zy/js/厂长资源.js",
+      "categories": "",
+      "id": "072e912d-025e-4949-a2f1-ab9c9a4928f6"
+    },
+    {
+      "name": "刺猬影视",
+      "api": "t3forjs",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 7,
+      "ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/zy/js/刺猬影视.js",
+      "categories": "",
+      "id": "09a45485-26e9-450a-9f65-de36baf9c487"
+    },
+    {
+      "name": "电影先生",
+      "api": "t3forjs",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 7,
+      "ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/zy/js/电影先生.js",
+      "categories": "",
+      "id": "d5aed3ab-a074-4619-bb8b-0f7ca9f5dc50"
+    },
+    {
+      "name": "一起看",
+      "api": "t3forjs",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 7,
+      "ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/zy/js/一起看.js",
+      "categories": "",
+      "id": "38103952-a9d2-4efe-8d97-f74e674244fe"
+    },
+    {
+      "name": "追剧兔",
+      "api": "t3forjs",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 7,
+      "ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/zy/js/追剧兔.js",
+      "categories": "",
+      "id": "d10fc829-2d2b-4a5e-9f85-2c8b86357466"
+    },
+    {
+      "name": "新茶杯狐",
+      "api": "t3forjs",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 7,
+      "ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/zy/js/新茶杯狐.js",
+      "categories": "",
+      "id": "7a497439-4074-405c-80b0-8fc2759850f9"
+    },
+    {
+      "name": "剧圈圈",
+      "api": "t3forjs",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 7,
+      "ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/zy/js/剧圈圈.js",
+      "categories": "",
+      "id": "e5934550-7365-496d-a405-242fb857b604"
+    },
+    {
+      "name": "蘑菇影视",
+      "api": "t3forjs",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 7,
+      "ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/zy/js/蘑菇影视.js",
+      "categories": "",
+      "id": "167b5460-208d-40cc-ae17-7a9aac67215b"
+    },
+    {
+      "name": "素白白",
+      "api": "t3forjs",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 7,
+      "ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/zy/js/素白白.js",
+      "categories": "",
+      "id": "27314ccb-79c6-49e6-bbaa-0a87abdb3f89"
+    },
+    {
+      "name": "全看网[自动]",
+      "api": "t3forjs",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 7,
+      "ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/zy/js/全看网[自动].js",
+      "categories": "",
+      "id": "782ff60a-5146-4ae3-bbbc-938a03a73c05"
+    },
+    {
+      "name": "酷云77",
+      "api": "t3forjs",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 7,
+      "ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/zy/js/酷云77.js",
+      "categories": "",
+      "id": "39a0ec65-ff86-46f2-ba07-bdd1672addff"
+    },
+    {
+      "name": "TVB云播",
+      "api": "t3forjs",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 7,
+      "ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/zy/js/TVB云播.js",
+      "categories": "",
+      "id": "8d460d05-5d05-4d9b-a36a-039b4d98a399"
+    },
+    {
+      "name": "低端影视",
+      "api": "t3forjs",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 7,
+      "ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/zy/js/ddys.js",
+      "categories": "",
+      "id": "421ee708-d6e1-4a8b-898b-33aa63ad3d0a"
+    },
+    {
+      "name": "那兔视频",
+      "api": "t3forjs",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 7,
+      "ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/zy/js/那兔视频.js",
+      "categories": "",
+      "id": "d5a997fb-f438-4ec9-aa06-5047c8a69f8a"
+    },
+    {
+      "name": "一支穿云箭",
+      "api": "t3forjs",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 7,
+      "ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/zy/js/一支穿云箭.js",
+      "categories": "",
+      "id": "4474e202-7cc2-4999-ba9e-1f0de2a5e84e"
+    }
+  ],
+  "tbl_iptv": [
+    {
+      "name": "7080直播",
+      "url": "https://fastly.jsdelivr.net/gh/sysh8888/mao/tv/tv.txt",
+      "epg": "",
+      "type": "remote",
+      "isActive": true,
+      "id": "e068b5e5-c1c2-4523-bd34-98e6ddcfde80"
+    }
+  ],
+  "tbl_analyze": [
+    {
+      "name": "虾米",
+      "url": "https://jx.xmflv.com/?url=",
+      "type": 0,
+      "isActive": true,
+      "id": "3fbb828f-c71f-49fb-850b-2a86230de69a"
+    },
+    {
+      "name": "RDF解析",
+      "url": "https://player.mrgaocloud.com/player/?url=",
+      "type": 0,
+      "isActive": true,
+      "id": "0b4c7082-6118-4199-bcd0-03263b5502d8"
+    },
+    {
+      "name": "M1907",
+      "url": "https://z1.m1907.top/?jx=",
+      "type": 0,
+      "isActive": true,
+      "id": "8481f6ce-d572-4a9a-8c1e-b16934e77d7c"
+    }
+  ]
+}
