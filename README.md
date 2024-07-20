@@ -16,9 +16,9 @@
 
 TVbox开源版 | 多仓版-安卓哥开发
 ---------|---------
-![box]![影视仓](https://github.com/user-attachments/assets/caa8d370-38e8-4072-8364-390653f93b4a)
+[影视仓](https://github.com/user-attachments/assets/caa8d370-38e8-4072-8364-390653f93b4a)
 
-![box]![配置](https://github.com/user-attachments/assets/2b3fc5ca-b953-485a-849a-918f9cfa99d7)
+[配置](https://github.com/user-attachments/assets/2b3fc5ca-b953-485a-849a-918f9cfa99d7)
 
 
 
