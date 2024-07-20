@@ -11,7 +11,7 @@
 - 1.开源版  自用`https://raw.liucn.cc/box/m.json`   
  🔰官方原版[TVBox_q215613905_20230302-0924.apk](https://hny3idc.jb51.net/202302/tools/tvbox_866155.apk)
 
-- 2.多仓版  他人整理`https://raw.liucn.cc/box/dm.txt`  
+- 2.多仓版  他人整理`https://raw.liucn.cc/box/dc.txt`  
  🔰原版[影视仓_5.0.3_opt.apk](http://s1.xiazai163.com/apk2/yingshicangtv_v5.0.34_3673.com.apk)　
 
 TVbox开源版 | 多仓版-安卓哥开发
