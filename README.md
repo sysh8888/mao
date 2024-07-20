@@ -16,8 +16,11 @@
 
 TVbox开源版 | 多仓版-安卓哥开发
 ---------|---------
-![box](https://raw.liucn.cc/box/sub/img/box01.jpg) | ![多仓](https://raw.liucn.cc/box/sub/img/多仓01.jpg)
-![box](https://raw.liucn.cc/box/sub/img/box02.jpg) | ![多仓](https://raw.liucn.cc/box/sub/img/多仓02.jpg)
+![box]![影视仓](https://github.com/user-attachments/assets/caa8d370-38e8-4072-8364-390653f93b4a)
+
+![box]![配置](https://github.com/user-attachments/assets/2b3fc5ca-b953-485a-849a-918f9cfa99d7)
+
+
 
 MXPlayer-Pro-1.46.10高级解锁版   
 [https://liucn.lanzouv.com/ixhSy097prod](https://liucn.lanzouv.com/ixhSy097prod)  
