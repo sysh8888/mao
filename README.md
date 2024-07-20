@@ -21,11 +21,6 @@ TVbox开源版 | 多仓版-安卓哥开发
 ![box]![配置](https://github.com/user-attachments/assets/2b3fc5ca-b953-485a-849a-918f9cfa99d7)
 
 
-
-MXPlayer-Pro-1.46.10高级解锁版   
-[https://liucn.lanzouv.com/ixhSy097prod](https://liucn.lanzouv.com/ixhSy097prod)  
-[https://tsq.lanzouf.com/b0c4p1nyf](https://tsq.lanzouf.com/b0c4p1nyf) 密 123   
-
 ------
 ### 开源仓库
 https://github.com/  
