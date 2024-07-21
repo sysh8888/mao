@@ -35,6 +35,19 @@
             "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
       }
       },
+       {
+        "key": "csp_XBPQ_CY影视",
+        "name": "🌤┃CY影视┃XB",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "ext": { 
+            "分类url": "http://movie.yzcyj.net/index.php/vod/show/id/{cateId}/page/{catePg}.html",
+            "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$32"
+      }
+      },
 	  {
         "key": "csp_XBPQ_4K4K",
         "name": "🌤┃4K4K┃XB",
@@ -44,23 +57,10 @@
         "quickSearch": 1,
         "filterable": 0,
         "ext": { "免嗅": "0","请求头": "手机",
+		"二次截取": "module-items module-poster-items-base&&id=\"page",
+		"数组": "<a&&</a>",
+		"图片": "data-original=\"&&\"",
             "分类url": "https://4k4k.live/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-            "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
-      }
-      }, 
-      {
-        "key": "csp_XBPQ_影视工厂",
-        "name": "🌤┃影视工厂┃XB",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0,
-        "ext": { "线路数组": "data-toggle=\"tab\"&&</li>",
-                "线路标题": ">&&<",
-		"播放二次截取": "</i> 排序</a>&&<!-- 播放地址-->",
-            "分类url": "https://www.ysgc.fun/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-			"播放请求头": "Origin$https://www.ysgc.fun",
             "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
       }
       }, 
@@ -113,7 +113,7 @@
 				"搜索链接": "href=\"&&\"",
 				"搜索副标题": "target=\"_blank\">&&<",
 				"线路数组": "data-dropdown-value=&&</div>",
-				"线路标题": "<span>&&</small>[替换:<span></small>共]+集",
+				"线路标题": "<span>&&</small>[替换:</span><small>>>@]",
 				"播放数组": "<div class=\"scroll-content\">&&</div>",
 				"播放标题": "<span>&&</span>",
 				"嗅探词":".m3u8#.mp4",
@@ -155,7 +155,14 @@
             "type": 3,
             "api": "./libs/drpy2.min.js",
             "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/荐片.js"
-        }, 
+        },
+        {
+            "key": "骑士影院JS",
+            "name": "🎬┃骑士影院┃JS",
+            "type": 3,
+            "api": "./libs/drpy2.min.js",
+            "ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/zy/js/%E9%AA%91%E5%A3%AB%E5%BD%B1%E9%99%A2.js"
+        }, 		
 	    {
           "key": "低端影视",
           "name": "🎬┃低端┃JS",
@@ -169,6 +176,13 @@
           "type": 3,
           "api": "./libs/drpy2.min.js",
           "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/素白白.js"
+      }, 
+	  	  {
+          "key": "那兔视频",
+          "name": "🎬┃那兔视频┃JS",
+          "type": 3,
+          "api": "./libs/drpy2.min.js",
+          "ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/zy/js/那兔视频.js"
       }, 
 	{
       "key": "csp_XBPQ_多多追剧",
