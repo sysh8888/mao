@@ -216,7 +216,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": 1,
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {"请求头":"手机","嗅探词":"akamaized.net#.m3u8#.mp4",
@@ -382,11 +382,9 @@
       "filterable": 0,
       "ext": {"数组": "class=\"li-img&&</li>",
       "分类":"电影$1#电视剧$2#动漫$4",
-      "线路数组": "<li  class=\"&&/li>",
-      "线路标题": ">&&<",
       "播放数组": "class=\"player ckp gdt bf-w&&</ul>",
 	  "简介": "movie-introduce\">&&</div>",
-      "分类url":"https://www.reboku.me/s/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"}},
+      "分类url":"https://www.reboku.me/article/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"}},
      {
           "key": "csp_XBPQ_骚火影视",
           "name": "💨┃骚火┃XB",
@@ -430,19 +428,24 @@
           "filterable": 0,
           "ext": {"分类": "电影$1#电视剧$2#综艺$3#动漫$4",
           "分类url": "https://www.555dyy3.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"}},
-    
-         {    "key": "csp_XBPQ_快鱼",
-                  "name": "⛳┃快鱼┃xb",
+             {    "key": "csp_XBPQ_TVB云播",
+                  "name": "⛳┃TVB云播┃xb",
                   "type": 3,
                   "api": "csp_XBPQ",
                   "ext": {
-    "倒序":"1",              
-  "线路数组":" id=\"#con_playlist&&</a>",               
-    "播放数组":"<ul class=\"play-list fade-in&&</ul>" ,  
-   "分类":"电影$dianying#电视剧$guocanju#综艺$zongyi#动漫$dongman",   
-      "分类url":"https://m.y469.org/{cateId}/index_{catePg}_____{area}_1.html"   
+   "分类":"电影$1#电视剧$2#记录$3#动漫$4#短剧$19",   
+      "分类url":"http://www.tvyb03.com/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/year/{year}/page/{catePg}.html"   
           }
           }, 
+         {    "key": "csp_APP_零一",
+                "name": "⛳┃零一┃APP",
+				"type": 3,
+           "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.heli888.cc/api.php/app/"
+        },
 		  {
       "key": "csp_XBPQ_虎牙.",
       "name": "🌤┃直播┃虎牙",
