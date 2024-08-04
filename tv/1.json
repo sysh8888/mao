@@ -16,8 +16,8 @@
         "key": "csp_js_豆瓣",
         "name": "🎬┃豆瓣搜索┃JS",
         "type": 3,
-        "api": "./libs/drpy2.min.js",
-        "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/drpy.js"
+        "api": "https://gitee.com/lujun189/ceshi/raw/master/1/libs/drpy2.min.js",
+        "ext": "https://gitee.com/lujun189/ceshi/raw/master/1/js/drpy.js"
     },
        {
         "key": "csp_XBPQ_爱看",
@@ -241,7 +241,7 @@
             "key": "荐片",
             "name": "🎬┃荐片┃JS",
             "type": 3,
-            "api": "./libs/drpy2.min.js",
+            "api": "https://gitee.com/lujun189/ceshi/raw/master/1/libs/drpy2.min.js",
             "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/荐片.js"
         },
         {
