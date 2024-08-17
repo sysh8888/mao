@@ -142,7 +142,6 @@ CEC国际汉语文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
 CEC国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8      
 CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
-CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 CCTV1,http://117.148.187.37/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/42329859.smil/index.m3u8?fmt=ts2hls&diqu=杭州
 CCTV1,http://39.134.179.148:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/42329859.smil/index.m3u8?fmt=ts2hls&diqu=台州
 CCTV1,http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000005000265001/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=3
