@@ -233,7 +233,7 @@
             "key": "荐片",
             "name": "🎬┃荐片┃JS",
             "type": 3,
-            "api": "https://gitee.com/lujun189/ceshi/raw/master/1/libs/drpy2.min.js",
+            "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
             "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/荐片.js"
         },
 
@@ -241,7 +241,7 @@
           "key": "低端影视",
           "name": "🎬┃低端┃JS",
           "type": 3,
-          "api": "./libs/drpy2.min.js",
+          "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
           "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/ddys.js"
       }, 
 	{
