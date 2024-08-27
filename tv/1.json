@@ -78,7 +78,7 @@
             "分类": "电影$1#电视剧$2#综艺$3#动漫$4#记录$5"
       }
       },
-	    	  {
+	  {
         "key": "csp_XBPQ_好看的",
         "name": "🌤┃好看的┃XB",
         "type": 3,
@@ -137,6 +137,19 @@
 				"分类url": "https://heihu.tv/list/{cateId}_{catePg}.html?order=time"
 			}
 		}, 
+		{"key":"Lib","name": "🌟立播┃秒播","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+{"key":"酷看","name":"💡酷看┃秒播",
+"type":3,"api":"csp_Kkys",
+"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724696944407/fan.txt;md5;bad6f48fc2e797ce45de2a0b06adf6bc",
+"timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys",
+"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724696944407/fan.txt;md5;bad6f48fc2e797ce45de2a0b06adf6bc","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteApple",
+"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724696944407/fan.txt;md5;bad6f48fc2e797ce45de2a0b06adf6bc",
+"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"玩偶","name":"👽玩偶┃扫码观看","type":3,"api":"csp_WoGG",
+"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724696944407/fan.txt;md5;bad6f48fc2e797ce45de2a0b06adf6bc",
+"searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
 		{"key": "XBPQ_麻衣影院","name":"🌤┃麻衣影院|XB","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 			"ext": {"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"}
 		},
@@ -259,7 +272,7 @@
             "name": "🎬┃荐片┃JS",
             "type": 3,
             "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
-            "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/荐片.js"
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
         },
 
 	    {
