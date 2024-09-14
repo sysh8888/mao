@@ -69,6 +69,7 @@
 宁波4台,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235614/1/index.m3u8?fmt=ts2hls
 丽水新闻,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235528/1/index.m3u8?fmt=ts2hls
 丽水公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235525/1/index.m3u8?fmt=ts2hls
+丽水公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235525/739822553.smil/index.m3u8?fmt=ts2hls
 嘉兴综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232990/index.m3u8
 嘉兴公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232993/index.m3u8
 嘉兴公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233019/index.m3u8
@@ -85,7 +86,7 @@
 金华新闻,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234612/1/index.m3u8?fmt=ts2hls
 金华公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234615/1/index.m3u8?fmt=ts2hls
 温州新闻,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236328/819720162.smil/index.m3u8?fmt=ts2hls
-🎈央视直播,#genre#
+🎈央视卫视(移动网),#genre#
 CCTV1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/42329859.smil/index.m3u8?fmt=ts2hls
 CCTV2,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228348/42329899.smil/index.m3u8?fmt=ts2hls
 CCTV3,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232596/341734363.smil/index.m3u8?fmt=ts2hls
@@ -146,7 +147,6 @@ CCTV1,http://117.148.187.37/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/32
 CCTV1,http://39.134.179.148:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/42329859.smil/index.m3u8?fmt=ts2hls&diqu=台州
 CCTV1,http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000005000265001/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=3
 CCTV8,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=3
-🚆卫视直播,#genre#
 浙江卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228324/42329891.smil/index.m3u8?fmt=ts2hls
 湖南卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228336/42329937.smil/index.m3u8?fmt=ts2hls
 东方卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228354/42329929.smil/index.m3u8?fmt=ts2hls
@@ -292,140 +292,7 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 凤凰中文,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8
 凤凰资讯,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8
 重温经典,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/1/index.m3u8?fmt=ts2hls
-🏰测试频道,#genre#
-经典小品,http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=f73077d85e523eb95b6ce1ea3581b46b&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18db3c111c4e3c14350afd2dcaf43d0ef60&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-第五人格,http://tc-tct.douyucdn2.cn/dyliveflv1a/3226194r73pCQamR_2000.flv?wsAuth=50ba16bb9998ec281101f2a5d8975be6&token=cpn-androidmpro-0-3226194-1c055b38aa29e2877292a9ffa392a948c894567c5e4b79ff&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-冰冰电影,http://sysh8888.serv00.net/php/douyu.php?id=74374
-冰冰电影,http://159.75.85.63:35455/douyu/74374
-冰冰电影,http://www.goodiptv.club/douyu/74374
-冰冰电影,http://w.7080.wang/cs/douyu.php?id=74374
-冰冰电影,https://isus.cc/php/douyu.php?id=74374
-康熙微服私访,http://159.75.85.63:35455/douyu/12021758
-康熙微服私访,http://sysh8888.serv00.net/php/douyu.php?id=12021758
-康熙微服私访,https://www.goodiptv.club/douyu/12021758
-康熙微服私访,http://w.7080.wang/cs/douyu.php?id=12021758
-成龙,http://159.75.85.63:35455/douyu/3379942
-成龙,http://sysh8888.serv00.net/php/douyu.php?id=3379942
-成龙,https://www.goodiptv.club/douyu/3379942
-成龙,http://w.7080.wang/cs/douyu.php?id=3379942
-华语电影,http://sysh8888.serv00.net/php/douyu.php?id=85894
-华语电影,https://www.goodiptv.club/douyu/85894
-华语电影,http://159.75.85.63:35455/douyu/85894
-人气港剧,http://159.75.85.63:35455/douyu/4549169
-人气港剧,http://sysh8888.serv00.net/php/douyu.php?id=4549169
-人气港剧,https://www.goodiptv.club/douyu/4549169
-人气港剧,http://sysh8888.serv00.net/php/douyu.php?id=4549169
-喜剧电影,http://sysh8888.serv00.net/php/douyu.php?id=9292492
-喜剧电影,https://www.goodiptv.club/douyu/323876
-喜剧电影,http://159.75.85.63:35455/douyu/9292492
-怡寶港台,http://159.75.85.63:35455/douyu/434971
-怡寶港台,http://sysh8888.serv00.net/php/douyu.php?id=434971
-怡寶港台,https://www.goodiptv.club/douyu/434971
-怡寶港台,http://sysh8888.serv00.net/php/douyu.php?id=434971
-国语电影,http://159.75.85.63:35455/douyu/2436390
-国语电影,http://sysh8888.serv00.net/php/douyu.php?id=2436390
-国语电影,https://www.goodiptv.club/douyu/2436390
-国语电影,http://w.7080.wang/cs/douyu.php?id=2436390
-大吉大利,https://pull.kktv8.com/livekktv/128600025.flv
-贝贝动作,http://159.75.85.63:35455/douyu/431460
-贝贝动作,http://sysh8888.serv00.net/php/douyu.php?id=431460
-片片,http://sysh8888.serv00.net/php/douyu.php?id=4258555
-神乐欧美,http://159.75.85.63:35455/douyu/20415
-恐怖惊悚,http://159.75.85.63:35455/douyu/96577
-恐怖经典,http://sysh8888.serv00.net/php/douyu.php?id=1165374
-经典影视台,http://sysh8888.serv00.net/php/douyu.php?id=6091425
-经典影视台,http://159.75.85.63:35455/douyu/6091425
-经典影视台,http://sysh8888.serv00.net/php/douyu.php?id=6091425
-蓝翔电影,http://sysh8888.serv00.net/php/douyu.php?id=276200
-蓝翔电影,http://159.75.85.63:35455/douyu/276200
-蓝翔电影,http://sysh8888.serv00.net/php/douyu.php?id=276200
-星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-星爷随机播,http://sysh8888.serv00.net/php/douyu.php?id=122402
-星爷随机播,http://159.75.85.63:35455/douyu/122402
-星爷随机播,https://www.goodiptv.club/douyu/122402
-欧美大片,http://159.75.85.63:35455/douyu/2793084
-漫威剧情,http://159.75.85.63:35455/douyu/6140589
-特辑电影,https://www.goodiptv.club/douyu/3637778
-神乐影院,http://159.75.85.63:35455/douyu/122402
-华语经典歌曲,https://vdse.bdstatic.com//2922763f303705ef65c46689578439ea.mp4
-粤语电影,http://sysh8888.serv00.net/php/douyu.php?id=6566671
-粤语电影,https://www.goodiptv.club/douyu/6566671
-粤语电影,https://www.goodiptv.club/douyu/1226741
-经典电影台,http://ali.hlspull.yximgs.com/live/asdfg32522.flv
-经典电影台,https://ali.hlspull.yximgs.com/live/asdfg32522.flv
-萌小鬼片,http://sysh8888.serv00.net/php/douyu.php?id=3928
-萌小鬼片,http://159.75.85.63:35455/douyu/3928
-武侠古装剧,http://sysh8888.serv00.net/php/douyu.php?id=338759
-武侠古装剧,http://159.75.85.63:35455/douyu/338759
-豆瓣高分,http://sysh8888.serv00.net/php/douyu.php?id=8770422
-豆瓣高分,https://www.goodiptv.club/douyu/8770422
-豆瓣高分,http://159.75.85.63:35455/douyu/8770422
-贝爷影厅1,http://159.75.85.63:35455/douyu/252802
-贝爷影厅1,http://159.75.85.63:35455/douyu/252802
-贝爷影厅2,http://sysh8888.serv00.net/php/douyu.php?id=36337
-贝爷影厅3,http://sysh8888.serv00.net/php/douyu.php?id=4332
-邵氏影院,http://sysh8888.serv00.net/php/douyu.php?id=4246519
-邵氏影院,http://www.goodiptv.club/douyu/4246519
-電影劇場,http://sysh8888.serv00.net/php/douyu.php?id=7575350
-電影劇場,http://159.75.85.63:35455/douyu/7575350
-麓山迷踪,http://159.75.85.63:35455/douyu/4505431
-周星驰轮播,http://159.75.85.63:35455/douyu/122402
-周星驰轮播,http://sysh8888.serv00.net/php/douyu.php?id=122402
-周星驰轮播,http://www.goodiptv.club/douyu/122402
-周星驰轮播,http://w.7080.wang/cs/douyu.php?id=122402
-经典小品,http://159.75.85.63:35455/douyu/9067836
-经典小品,http://sysh8888.serv00.net/php/douyu.php?id=9067836
-经典小品,http://www.goodiptv.club/douyu/9067836
-经典小品,http://w.7080.wang/cs/douyu.php?id=9067836
-许三多,http://159.75.85.63:35455/douyu/11651155
-许三多,http://sysh8888.serv00.net/php/douyu.php?id=11651155
-许三多,http://www.goodiptv.club/douyu/11651155
-许三多,http://w.7080.wang/cs/douyu.php?id=11651155
-恐怖经典喜剧,http://159.75.85.63:35455/douyu/74374
-恐怖经典喜剧,http://sysh8888.serv00.net/php/douyu.php?id=74374
-恐怖经典喜剧,http://www.goodiptv.club/douyu/74374
-恐怖经典喜剧,http://w.7080.wang/cs/douyu.php?id=74374
-地下交通站,http://159.75.85.63:35455/douyu/299854
-地下交通站,http://sysh8888.serv00.net/php/douyu.php?id=299854
-地下交通站,http://www.goodiptv.club/douyu/299854
-地下交通站,http://w.7080.wang/cs/douyu.php?id=299854
-欧美电影,http://159.75.85.63:35455/douyu/252802
-欧美电影,http://sysh8888.serv00.net/php/douyu.php?id=252802
-欧美电影,http://www.goodiptv.club/douyu/252802
-欧美电影,http://w.7080.wang/cs/douyu.php?id=252802
-高清轮播,http://159.75.85.63:35455/douyu/747764
-高清轮播,http://sysh8888.serv00.net/php/douyu.php?id=747764
-高清轮播,http://www.goodiptv.club/douyu/747764
-高清轮播,http://w.7080.wang/cs/douyu.php?id=747764
-辽视欢乐集,http://159.75.85.63:35455/douyu/9403712
-辽视欢乐集,http://sysh8888.serv00.net/php/douyu.php?id=9403712
-辽视欢乐集,http://www.goodiptv.club/douyu/9403712
-辽视欢乐集,http://w.7080.wang/cs/douyu.php?id=9403712
-三国演义,http://159.75.85.63:35455/douyu/11861663
-三国演义,http://sysh8888.serv00.net/php/douyu.php?id=11861663
-三国演义,http://www.goodiptv.club/douyu/11861663
-三国演义,http://w.7080.wang/cs/douyu.php?id=11861663
-电影解说,http://159.75.85.63:35455/douyu/2758565
-电影解说,http://sysh8888.serv00.net/php/douyu.php?id=2758565
-电影解说,http://www.goodiptv.club/douyu/2758565
-电影解说,http://w.7080.wang/cs/douyu.php?id=2758565
-周星驰,http://w.7080.wang/cs/huya.php?id=11342412
-周星驰,https://isus.cc/php/huya.php?id=11342412
-铁齿铜牙纪晓岚,http://w.7080.wang/cs/huya.php?id=11342396
-狄仁杰全集,http://synology.isus.cc:919/bilibili.php?id=31163368
-1905电影,http://xxw.me0.cn/1905dy.php?id=1905b
-1905电影,http://xxw.me0.cn/1905dy.php?id=1905a
-音乐轮播,http://tc-tct.douyucdn2.cn/dyliveflv3/17732rtara.flv?wsAuth=444b28368bc6cf374a8f22734242cdec&token=cpn-androidmpro-0-17732-2c028a7d8b69ac4c6a43608933105351f464f9543343a70c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-舟山东极岛,https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
-珠穆拉玛峰,https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
-悬浮山,https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
-鼓楼广场,https://gcalic.v.myalicdn.com/gc/qdls01_1/index.m3u8
-峨眉山云海日出,https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
-祁连山,https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8
-山西大同鼓楼,https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
-舟山渔港,https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
-🏰IPTV6-4k超清,#genre#
+🏰IPTV6-4k(移动网),#genre#
 凤凰卫视,http://[2409:8087:2813:20:100::1c]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8
 重温经典,http://[2409:8087:2813:20:100::31]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/1/index.m3u8?fmt=ts2hls
 动作电影,http://[2409:8087:2813:20:100::36]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236183/index.m3u8
@@ -625,3 +492,1111 @@ CETV-4,http://[2409:8087:2800:20::20]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888
 爱动漫,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
 劲爆体育,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
 哒啵电竞,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281
+🏰影视娱乐(测试),#genre#
+经典小品,http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=f73077d85e523eb95b6ce1ea3581b46b&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18db3c111c4e3c14350afd2dcaf43d0ef60&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+第五人格,http://tc-tct.douyucdn2.cn/dyliveflv1a/3226194r73pCQamR_2000.flv?wsAuth=50ba16bb9998ec281101f2a5d8975be6&token=cpn-androidmpro-0-3226194-1c055b38aa29e2877292a9ffa392a948c894567c5e4b79ff&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+冰冰电影,http://sysh8888.serv00.net/php/douyu.php?id=74374
+冰冰电影,http://159.75.85.63:35455/douyu/74374
+冰冰电影,http://www.goodiptv.club/douyu/74374
+冰冰电影,http://w.7080.wang/cs/douyu.php?id=74374
+冰冰电影,https://isus.cc/php/douyu.php?id=74374
+康熙微服私访,http://159.75.85.63:35455/douyu/12021758
+康熙微服私访,http://sysh8888.serv00.net/php/douyu.php?id=12021758
+康熙微服私访,https://www.goodiptv.club/douyu/12021758
+康熙微服私访,http://w.7080.wang/cs/douyu.php?id=12021758
+成龙,http://159.75.85.63:35455/douyu/3379942
+成龙,http://sysh8888.serv00.net/php/douyu.php?id=3379942
+成龙,https://www.goodiptv.club/douyu/3379942
+成龙,http://w.7080.wang/cs/douyu.php?id=3379942
+华语电影,http://sysh8888.serv00.net/php/douyu.php?id=85894
+华语电影,https://www.goodiptv.club/douyu/85894
+华语电影,http://159.75.85.63:35455/douyu/85894
+人气港剧,http://159.75.85.63:35455/douyu/4549169
+人气港剧,http://sysh8888.serv00.net/php/douyu.php?id=4549169
+人气港剧,https://www.goodiptv.club/douyu/4549169
+人气港剧,http://sysh8888.serv00.net/php/douyu.php?id=4549169
+喜剧电影,http://sysh8888.serv00.net/php/douyu.php?id=9292492
+喜剧电影,https://www.goodiptv.club/douyu/323876
+喜剧电影,http://159.75.85.63:35455/douyu/9292492
+怡寶港台,http://159.75.85.63:35455/douyu/434971
+怡寶港台,http://sysh8888.serv00.net/php/douyu.php?id=434971
+怡寶港台,https://www.goodiptv.club/douyu/434971
+怡寶港台,http://sysh8888.serv00.net/php/douyu.php?id=434971
+国语电影,http://159.75.85.63:35455/douyu/2436390
+国语电影,http://sysh8888.serv00.net/php/douyu.php?id=2436390
+国语电影,https://www.goodiptv.club/douyu/2436390
+国语电影,http://w.7080.wang/cs/douyu.php?id=2436390
+大吉大利,https://pull.kktv8.com/livekktv/128600025.flv
+贝贝动作,http://159.75.85.63:35455/douyu/431460
+贝贝动作,http://sysh8888.serv00.net/php/douyu.php?id=431460
+片片,http://sysh8888.serv00.net/php/douyu.php?id=4258555
+神乐欧美,http://159.75.85.63:35455/douyu/20415
+恐怖惊悚,http://159.75.85.63:35455/douyu/96577
+恐怖经典,http://sysh8888.serv00.net/php/douyu.php?id=1165374
+经典影视台,http://sysh8888.serv00.net/php/douyu.php?id=6091425
+经典影视台,http://159.75.85.63:35455/douyu/6091425
+经典影视台,http://sysh8888.serv00.net/php/douyu.php?id=6091425
+蓝翔电影,http://sysh8888.serv00.net/php/douyu.php?id=276200
+蓝翔电影,http://159.75.85.63:35455/douyu/276200
+蓝翔电影,http://sysh8888.serv00.net/php/douyu.php?id=276200
+星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+星爷随机播,http://sysh8888.serv00.net/php/douyu.php?id=122402
+星爷随机播,http://159.75.85.63:35455/douyu/122402
+星爷随机播,https://www.goodiptv.club/douyu/122402
+欧美大片,http://159.75.85.63:35455/douyu/2793084
+漫威剧情,http://159.75.85.63:35455/douyu/6140589
+特辑电影,https://www.goodiptv.club/douyu/3637778
+神乐影院,http://159.75.85.63:35455/douyu/122402
+华语经典歌曲,https://vdse.bdstatic.com//2922763f303705ef65c46689578439ea.mp4
+粤语电影,http://sysh8888.serv00.net/php/douyu.php?id=6566671
+粤语电影,https://www.goodiptv.club/douyu/6566671
+粤语电影,https://www.goodiptv.club/douyu/1226741
+经典电影台,http://ali.hlspull.yximgs.com/live/asdfg32522.flv
+经典电影台,https://ali.hlspull.yximgs.com/live/asdfg32522.flv
+萌小鬼片,http://sysh8888.serv00.net/php/douyu.php?id=3928
+萌小鬼片,http://159.75.85.63:35455/douyu/3928
+武侠古装剧,http://sysh8888.serv00.net/php/douyu.php?id=338759
+武侠古装剧,http://159.75.85.63:35455/douyu/338759
+豆瓣高分,http://sysh8888.serv00.net/php/douyu.php?id=8770422
+豆瓣高分,https://www.goodiptv.club/douyu/8770422
+豆瓣高分,http://159.75.85.63:35455/douyu/8770422
+贝爷影厅1,http://159.75.85.63:35455/douyu/252802
+贝爷影厅1,http://159.75.85.63:35455/douyu/252802
+贝爷影厅2,http://sysh8888.serv00.net/php/douyu.php?id=36337
+贝爷影厅3,http://sysh8888.serv00.net/php/douyu.php?id=4332
+邵氏影院,http://sysh8888.serv00.net/php/douyu.php?id=4246519
+邵氏影院,http://www.goodiptv.club/douyu/4246519
+電影劇場,http://sysh8888.serv00.net/php/douyu.php?id=7575350
+電影劇場,http://159.75.85.63:35455/douyu/7575350
+麓山迷踪,http://159.75.85.63:35455/douyu/4505431
+周星驰轮播,http://159.75.85.63:35455/douyu/122402
+周星驰轮播,http://sysh8888.serv00.net/php/douyu.php?id=122402
+周星驰轮播,http://www.goodiptv.club/douyu/122402
+周星驰轮播,http://w.7080.wang/cs/douyu.php?id=122402
+经典小品,http://159.75.85.63:35455/douyu/9067836
+经典小品,http://sysh8888.serv00.net/php/douyu.php?id=9067836
+经典小品,http://www.goodiptv.club/douyu/9067836
+经典小品,http://w.7080.wang/cs/douyu.php?id=9067836
+许三多,http://159.75.85.63:35455/douyu/11651155
+许三多,http://sysh8888.serv00.net/php/douyu.php?id=11651155
+许三多,http://www.goodiptv.club/douyu/11651155
+许三多,http://w.7080.wang/cs/douyu.php?id=11651155
+恐怖经典喜剧,http://159.75.85.63:35455/douyu/74374
+恐怖经典喜剧,http://sysh8888.serv00.net/php/douyu.php?id=74374
+恐怖经典喜剧,http://www.goodiptv.club/douyu/74374
+恐怖经典喜剧,http://w.7080.wang/cs/douyu.php?id=74374
+地下交通站,http://159.75.85.63:35455/douyu/299854
+地下交通站,http://sysh8888.serv00.net/php/douyu.php?id=299854
+地下交通站,http://www.goodiptv.club/douyu/299854
+地下交通站,http://w.7080.wang/cs/douyu.php?id=299854
+欧美电影,http://159.75.85.63:35455/douyu/252802
+欧美电影,http://sysh8888.serv00.net/php/douyu.php?id=252802
+欧美电影,http://www.goodiptv.club/douyu/252802
+欧美电影,http://w.7080.wang/cs/douyu.php?id=252802
+高清轮播,http://159.75.85.63:35455/douyu/747764
+高清轮播,http://sysh8888.serv00.net/php/douyu.php?id=747764
+高清轮播,http://www.goodiptv.club/douyu/747764
+高清轮播,http://w.7080.wang/cs/douyu.php?id=747764
+辽视欢乐集,http://159.75.85.63:35455/douyu/9403712
+辽视欢乐集,http://sysh8888.serv00.net/php/douyu.php?id=9403712
+辽视欢乐集,http://www.goodiptv.club/douyu/9403712
+辽视欢乐集,http://w.7080.wang/cs/douyu.php?id=9403712
+三国演义,http://159.75.85.63:35455/douyu/11861663
+三国演义,http://sysh8888.serv00.net/php/douyu.php?id=11861663
+三国演义,http://www.goodiptv.club/douyu/11861663
+三国演义,http://w.7080.wang/cs/douyu.php?id=11861663
+电影解说,http://159.75.85.63:35455/douyu/2758565
+电影解说,http://sysh8888.serv00.net/php/douyu.php?id=2758565
+电影解说,http://www.goodiptv.club/douyu/2758565
+电影解说,http://w.7080.wang/cs/douyu.php?id=2758565
+周星驰,http://w.7080.wang/cs/huya.php?id=11342412
+周星驰,https://isus.cc/php/huya.php?id=11342412
+铁齿铜牙纪晓岚,http://w.7080.wang/cs/huya.php?id=11342396
+狄仁杰全集,http://synology.isus.cc:919/bilibili.php?id=31163368
+1905电影,http://xxw.me0.cn/1905dy.php?id=1905b
+1905电影,http://xxw.me0.cn/1905dy.php?id=1905a
+音乐轮播,http://tc-tct.douyucdn2.cn/dyliveflv3/17732rtara.flv?wsAuth=444b28368bc6cf374a8f22734242cdec&token=cpn-androidmpro-0-17732-2c028a7d8b69ac4c6a43608933105351f464f9543343a70c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+舟山东极岛,https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
+珠穆拉玛峰,https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
+悬浮山,https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
+鼓楼广场,https://gcalic.v.myalicdn.com/gc/qdls01_1/index.m3u8
+峨眉山云海日出,https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
+祁连山,https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8
+山西大同鼓楼,https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
+舟山渔港,https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
+🏰电信移动网(测试),#genre#
+1905电影-国内,http://iptv.yjxfz.com:80/tv/play/4/J6N2496604NJ504N/J52I40IDE4439AE2$IPV4_源1
+1905电影-国内,http://iptv.yjxfz.com:80/tv/play/4/DJ59J7530DI0D860/J52I40IDE4439AE2$IPV4_源2
+1905电影-国内,http://iptv.yjxfz.com:80/tv/play/4/I9INA72D5J470EI2/J52I40IDE4439AE2$IPV4_源3
+1905电影-国内,http://iptv.yjxfz.com:80/tv/play/4/8J78N8D4JJ684077/J52I40IDE4439AE2$IPV4_源4
+1905电影-国内,http://iptv.yjxfz.com:80/tv/play/4/36470D3325778366/J52I40IDE4439AE2$IPV4_源5
+1905电影-国内,http://iptv.yjxfz.com:80/tv/play/4/10J1J3359N8943NA/J52I40IDE4439AE2$IPV6_源1
+1905电影-国内,http://iptv.yjxfz.com:80/tv/play/4/J8588623I2077733/J52I40IDE4439AE2$IPV6_源2
+1905电影-国际,http://iptv.yjxfz.com:80/tv/play/4/9J4N95ED66212DAA/J52I40IDE4439AE2$IPV4_源1
+CHC动作电影,http://iptv.yjxfz.com:80/tv/play/4/E204NN841J93I79D/J52I40IDE4439AE2$IPV4_源1
+CHC动作电影,http://iptv.yjxfz.com:80/tv/play/4/1883601NJ0N13JA3/J52I40IDE4439AE2$IPV4_源2
+CHC动作电影,http://iptv.yjxfz.com:80/tv/play/4/1519209I511631NA/J52I40IDE4439AE2$IPV4_源3
+CHC动作电影,http://iptv.yjxfz.com:80/tv/play/4/587J0NI08D7I9DAE/J52I40IDE4439AE2$IPV4_源4
+CHC动作电影,http://iptv.yjxfz.com:80/tv/play/4/14EJ9A1EN5I46I84/J52I40IDE4439AE2$IPV4_源5
+CHC动作电影,http://iptv.yjxfz.com:80/tv/play/4/4J96A67600AD4A67/J52I40IDE4439AE2$IPV4_源6
+CHC动作电影,http://iptv.yjxfz.com:80/tv/play/4/IDI3IA8811A500E9/J52I40IDE4439AE2$IPV4_源7
+CHC动作电影,http://iptv.yjxfz.com:80/tv/play/4/D0DD0E5A25JI4261/J52I40IDE4439AE2$IPV4_源8
+CHC动作电影,http://iptv.yjxfz.com:80/tv/play/4/I594E2AN1E5J289E/J52I40IDE4439AE2$IPV4_源9
+CHC动作电影,http://iptv.yjxfz.com:80/tv/play/4/1NA50D70383I7NND/J52I40IDE4439AE2$IPV4_源10
+CHC动作电影,http://iptv.yjxfz.com:80/tv/play/4/JDN4I25122JND538/J52I40IDE4439AE2$IPV6_源1
+CHC动作电影,http://iptv.yjxfz.com:80/tv/play/4/654NEI5I330319E6/J52I40IDE4439AE2$IPV6_源2
+CHC动作电影,http://iptv.yjxfz.com:80/tv/play/4/E777J7JI11D37783/J52I40IDE4439AE2$IPV6_源3
+CHC动作电影,http://iptv.yjxfz.com:80/tv/play/4/3618DENN98D3I8NE/J52I40IDE4439AE2$IPV6_源4
+CHC动作电影,http://iptv.yjxfz.com:80/tv/play/4/39II29IE73550A6A/J52I40IDE4439AE2$IPV6_源5
+CHC家庭影院,http://iptv.yjxfz.com:80/tv/play/4/1D92J0I8496471IN/J52I40IDE4439AE2$IPV4_源1
+CHC家庭影院,http://iptv.yjxfz.com:80/tv/play/4/64AJD3I84N1J3E24/J52I40IDE4439AE2$IPV4_源2
+CHC家庭影院,http://iptv.yjxfz.com:80/tv/play/4/2I6IJ4869JD923D7/J52I40IDE4439AE2$IPV4_源3
+CHC家庭影院,http://iptv.yjxfz.com:80/tv/play/4/0I8I7JNE7033N9DA/J52I40IDE4439AE2$IPV4_源4
+CHC家庭影院,http://iptv.yjxfz.com:80/tv/play/4/5I13J1277AAJ4N12/J52I40IDE4439AE2$IPV4_源5
+CHC家庭影院,http://iptv.yjxfz.com:80/tv/play/4/NN1E6824609NNAIN/J52I40IDE4439AE2$IPV4_源6
+CHC家庭影院,http://iptv.yjxfz.com:80/tv/play/4/7771472IIJI7N117/J52I40IDE4439AE2$IPV4_源7
+CHC家庭影院,http://iptv.yjxfz.com:80/tv/play/4/3AN5N749EII50A68/J52I40IDE4439AE2$IPV4_源8
+CHC家庭影院,http://iptv.yjxfz.com:80/tv/play/4/NND91510A1D03JN6/J52I40IDE4439AE2$IPV4_源9
+CHC家庭影院,http://iptv.yjxfz.com:80/tv/play/4/9I71D99E42AED9E0/J52I40IDE4439AE2$IPV4_源10
+CHC影迷电影,http://iptv.yjxfz.com:80/tv/play/4/5AIN673287E36JEA/J52I40IDE4439AE2$IPV4_源1
+CHC影迷电影,http://iptv.yjxfz.com:80/tv/play/4/9043I92NJ1221I3J/J52I40IDE4439AE2$IPV6_源1
+CHC高清电影,http://iptv.yjxfz.com:80/tv/play/4/76J994D38IN3EJEJ/J52I40IDE4439AE2$IPV4_源1
+CHC高清电影,http://iptv.yjxfz.com:80/tv/play/4/9AN6284N0A28JI1E/J52I40IDE4439AE2$IPV4_源2
+CHC高清电影,http://iptv.yjxfz.com:80/tv/play/4/26DAE049551JI6ED/J52I40IDE4439AE2$IPV4_源3
+CHC高清电影,http://iptv.yjxfz.com:80/tv/play/4/E44D9429AJ01J321/J52I40IDE4439AE2$IPV4_源4
+CHC高清电影,http://iptv.yjxfz.com:80/tv/play/4/J56NJ973I64JDE48/J52I40IDE4439AE2$IPV4_源5
+CHC高清电影,http://iptv.yjxfz.com:80/tv/play/4/I578E2394JD8D903/J52I40IDE4439AE2$IPV4_源6
+CHC高清电影,http://iptv.yjxfz.com:80/tv/play/4/JA452A705D7J42DD/J52I40IDE4439AE2$IPV4_源7
+CHC高清电影,http://iptv.yjxfz.com:80/tv/play/4/D30028518JNI2I70/J52I40IDE4439AE2$IPV4_源8
+CHC高清电影,http://iptv.yjxfz.com:80/tv/play/4/2I9D04DN7N6A4963/J52I40IDE4439AE2$IPV4_源9
+CHC高清电影,http://iptv.yjxfz.com:80/tv/play/4/NN5NJJN7I9881IJ2/J52I40IDE4439AE2$IPV4_源10
+中视经典,http://iptv.yjxfz.com:80/tv/play/4/IE816A3772N0D138/J52I40IDE4439AE2$IPV4_源1
+全球大片,http://iptv.yjxfz.com:80/tv/play/4/A50A2614A10364ND/J52I40IDE4439AE2$IPV4_源1
+全球大片,http://iptv.yjxfz.com:80/tv/play/4/424J9404I3N9J092/J52I40IDE4439AE2$IPV4_源2
+冰冰经典,http://iptv.yjxfz.com:80/tv/play/4/DN768A6EJJ74E358/J52I40IDE4439AE2$IPV4_源1
+凌儿影院,http://iptv.yjxfz.com:80/tv/play/4/2A2ND2N8JD8J56JD/J52I40IDE4439AE2$IPV4_源1
+凌儿影院,http://iptv.yjxfz.com:80/tv/play/4/9A4IJ9EN9079I806/J52I40IDE4439AE2$IPV4_源2
+动作电影,http://iptv.yjxfz.com:80/tv/play/4/1384I7DAAD89230D/J52I40IDE4439AE2$IPV6_源1
+动作电影,http://iptv.yjxfz.com:80/tv/play/4/DI0J8544JN355I86/J52I40IDE4439AE2$IPV6_源2
+动作电影,http://iptv.yjxfz.com:80/tv/play/4/374I12DIJ13J4N3J/J52I40IDE4439AE2$IPV6_源3
+动作电影,http://iptv.yjxfz.com:80/tv/play/4/J3INDI4E3IIJI002/J52I40IDE4439AE2$IPV6_源4
+动作电影,http://iptv.yjxfz.com:80/tv/play/4/0IA849728132929J/J52I40IDE4439AE2$IPV6_源5
+华语影院,http://iptv.yjxfz.com:80/tv/play/4/00109I83NII3I07N/J52I40IDE4439AE2$IPV4_源1
+华语影院,http://iptv.yjxfz.com:80/tv/play/4/A668EI6AANA3DN73/J52I40IDE4439AE2$IPV4_源2
+华语经典,http://iptv.yjxfz.com:80/tv/play/4/NIE6N34I8J99N52J/J52I40IDE4439AE2$IPV4_源1
+华语经典,http://iptv.yjxfz.com:80/tv/play/4/35839ADA11I16A11/J52I40IDE4439AE2$IPV4_源2
+华语经典,http://iptv.yjxfz.com:80/tv/play/4/4314JIN561NNNJ9I/J52I40IDE4439AE2$IPV4_源3
+可乐影院,http://iptv.yjxfz.com:80/tv/play/4/77197J6IDE160100/J52I40IDE4439AE2$IPV4_源1
+吃米滴虫,http://iptv.yjxfz.com:80/tv/play/4/8089D0230N44143D/J52I40IDE4439AE2$IPV4_源1
+喜剧电影,http://iptv.yjxfz.com:80/tv/play/4/93N4390J986NJEE5/J52I40IDE4439AE2$IPV4_源1
+喜剧电影,http://iptv.yjxfz.com:80/tv/play/4/28E9D27D8IN947DN/J52I40IDE4439AE2$IPV4_源2
+喜剧电影,http://iptv.yjxfz.com:80/tv/play/4/0E7636A9N8AN9385/J52I40IDE4439AE2$IPV4_源3
+喜剧电影,http://iptv.yjxfz.com:80/tv/play/4/4I64612958D7JJ4N/J52I40IDE4439AE2$IPV4_源4
+喜剧电影,http://iptv.yjxfz.com:80/tv/play/4/DAE091D05A317J61/J52I40IDE4439AE2$IPV4_源5
+喜剧电影,http://iptv.yjxfz.com:80/tv/play/4/7DE5J9653NE7N80N/J52I40IDE4439AE2$IPV6_源1
+国产影院,http://iptv.yjxfz.com:80/tv/play/4/I3N56630287I05A2/J52I40IDE4439AE2$IPV4_源1
+峨眉电影,http://iptv.yjxfz.com:80/tv/play/4/8N375D051AJA285D/J52I40IDE4439AE2$IPV4_源1
+峨眉电影,http://iptv.yjxfz.com:80/tv/play/4/0A863J31I3774I68/J52I40IDE4439AE2$IPV4_源2
+峨眉电影,http://iptv.yjxfz.com:80/tv/play/4/92D29I5NII9E6DND/J52I40IDE4439AE2$IPV4_源3
+怀旧电影,http://iptv.yjxfz.com:80/tv/play/4/6752N858DA2072D8/J52I40IDE4439AE2$IPV4_源1
+怀旧电影,http://iptv.yjxfz.com:80/tv/play/4/EE0D3AJ8I29NE06N/J52I40IDE4439AE2$IPV6_源1
+星光视界,http://iptv.yjxfz.com:80/tv/play/4/NE50N80NIJN1J8I5/J52I40IDE4439AE2$IPV4_源1
+星光视界,http://iptv.yjxfz.com:80/tv/play/4/6N7J5ED5181E172E/J52I40IDE4439AE2$IPV4_源2
+星光视界,http://iptv.yjxfz.com:80/tv/play/4/N7844986EDNDIE9J/J52I40IDE4439AE2$IPV6_源1
+星光视界,http://iptv.yjxfz.com:80/tv/play/4/07EJ1N81ND4J0D6E/J52I40IDE4439AE2$IPV6_源2
+海看大片,http://iptv.yjxfz.com:80/tv/play/4/A63I3486I38A24NJ/J52I40IDE4439AE2$IPV4_源1
+漫威剧情,http://iptv.yjxfz.com:80/tv/play/4/0J28D9I28848NA7E/J52I40IDE4439AE2$IPV4_源1
+特辑电影,http://iptv.yjxfz.com:80/tv/play/4/84J8N8N7126A0A63/J52I40IDE4439AE2$IPV4_源1
+电影,http://iptv.yjxfz.com:80/tv/play/4/069DD52JNIDEEJ50/J52I40IDE4439AE2$IPV4_源1
+电影,http://iptv.yjxfz.com:80/tv/play/4/ENI4I552402J059I/J52I40IDE4439AE2$IPV4_源2
+电影,http://iptv.yjxfz.com:80/tv/play/4/I90500D561748N33/J52I40IDE4439AE2$IPV4_源3
+神乐影院,http://iptv.yjxfz.com:80/tv/play/4/90II2N7153DEI0J5/J52I40IDE4439AE2$IPV4_源1
+神乐影院,http://iptv.yjxfz.com:80/tv/play/4/D7JI9653NE4D3838/J52I40IDE4439AE2$IPV4_源2
+粤语电影,http://iptv.yjxfz.com:80/tv/play/4/29J9J8AANEDE59JE/J52I40IDE4439AE2$IPV4_源1
+粤语电影,http://iptv.yjxfz.com:80/tv/play/4/8DA42D39AI0DAJ4J/J52I40IDE4439AE2$IPV4_源2
+粤语电影,http://iptv.yjxfz.com:80/tv/play/4/3D4N0A413D812D8J/J52I40IDE4439AE2$IPV4_源3
+粤语电影,http://iptv.yjxfz.com:80/tv/play/4/32IIN6E352N5990E/J52I40IDE4439AE2$IPV4_源4
+粤语电影,http://iptv.yjxfz.com:80/tv/play/4/07NJID53J683JJ13/J52I40IDE4439AE2$IPV4_源5
+精彩影视,http://iptv.yjxfz.com:80/tv/play/4/254AD8I7AD30NA09/J52I40IDE4439AE2$IPV4_源1
+经典电影,http://iptv.yjxfz.com:80/tv/play/4/3ID557IJ976656I1/J52I40IDE4439AE2$IPV4_源1
+经典电影,http://iptv.yjxfz.com:80/tv/play/4/0DJJ3A5NN3AN2437/J52I40IDE4439AE2$IPV4_源2
+经典电影,http://iptv.yjxfz.com:80/tv/play/4/E99995AID36NN674/J52I40IDE4439AE2$IPV4_源3
+经典电影,http://iptv.yjxfz.com:80/tv/play/4/J87JJEAN80J05358/J52I40IDE4439AE2$IPV4_源4
+经典电影,http://iptv.yjxfz.com:80/tv/play/4/E920J493IJ21IN93/J52I40IDE4439AE2$IPV4_源5
+绚影,http://iptv.yjxfz.com:80/tv/play/4/EA6D491A1AI6NA47/J52I40IDE4439AE2$IPV4_源1
+萌小鬼片,http://iptv.yjxfz.com:80/tv/play/4/7936ID3408EA5674/J52I40IDE4439AE2$IPV4_源1
+译制国语,http://iptv.yjxfz.com:80/tv/play/4/4E529ADN61JIE0DI/J52I40IDE4439AE2$IPV4_源1
+谍战剧场,http://iptv.yjxfz.com:80/tv/play/4/96JIAA07A2891I4E/J52I40IDE4439AE2$IPV4_源1
+谍战剧场,http://iptv.yjxfz.com:80/tv/play/4/NE114DII1NE911A4/J52I40IDE4439AE2$IPV4_源2
+谍战剧场,http://iptv.yjxfz.com:80/tv/play/4/06D424NN0ED87326/J52I40IDE4439AE2$IPV4_源3
+谍战剧场,http://iptv.yjxfz.com:80/tv/play/4/1A474I6A6E56NN9I/J52I40IDE4439AE2$IPV4_源4
+谍战剧场,http://iptv.yjxfz.com:80/tv/play/4/5989A354051IN221/J52I40IDE4439AE2$IPV4_源5
+豆瓣高分,http://iptv.yjxfz.com:80/tv/play/4/135J0284517269N2/J52I40IDE4439AE2$IPV4_源1
+豆瓣高分,http://iptv.yjxfz.com:80/tv/play/4/A7D8IJ44520381AA/J52I40IDE4439AE2$IPV4_源2
+豆瓣高分,http://iptv.yjxfz.com:80/tv/play/4/184I920ANJEE28D3/J52I40IDE4439AE2$IPV4_源3
+豆瓣高分,http://iptv.yjxfz.com:80/tv/play/4/N6D4D91ED4J80121/J52I40IDE4439AE2$IPV4_源4
+豆瓣高分,http://iptv.yjxfz.com:80/tv/play/4/EE5JE44A00J726D2/J52I40IDE4439AE2$IPV4_源5
+豆瓣高分,http://iptv.yjxfz.com:80/tv/play/4/1II7IN9818913AA7/J52I40IDE4439AE2$IPV6_源1
+贝爷影厅,http://iptv.yjxfz.com:80/tv/play/4/489II0JJJ706888E/J52I40IDE4439AE2$IPV4_源1
+贝爷影厅,http://iptv.yjxfz.com:80/tv/play/4/074AAD81EA7N9D9E/J52I40IDE4439AE2$IPV4_源2
+超级电影,http://iptv.yjxfz.com:80/tv/play/4/AI01IJD564D8DD00/J52I40IDE4439AE2$IPV6_源1
+超级电影,http://iptv.yjxfz.com:80/tv/play/4/J7J97AJ7N94N64NE/J52I40IDE4439AE2$IPV6_源2
+超级电影,http://iptv.yjxfz.com:80/tv/play/4/D1A14850JNJ8NA61/J52I40IDE4439AE2$IPV6_源3
+超级电影,http://iptv.yjxfz.com:80/tv/play/4/N1AI4601ID8781E9/J52I40IDE4439AE2$IPV6_源4
+超级电影,http://iptv.yjxfz.com:80/tv/play/4/EJ9A63A0E3DA6502/J52I40IDE4439AE2$IPV6_源5
+邵氏影院,http://iptv.yjxfz.com:80/tv/play/4/8J36268585I1NIA7/J52I40IDE4439AE2$IPV4_源1
+邵氏影院,http://iptv.yjxfz.com:80/tv/play/4/9095A8775510D0J2/J52I40IDE4439AE2$IPV4_源2
+邵氏影院,http://iptv.yjxfz.com:80/tv/play/4/1IN4I030J3N1N7EI/J52I40IDE4439AE2$IPV4_源3
+邵氏影院,http://iptv.yjxfz.com:80/tv/play/4/D11D0A1578326DJ4/J52I40IDE4439AE2$IPV4_源4
+電影劇場,http://iptv.yjxfz.com:80/tv/play/4/89405N753E6733J8/J52I40IDE4439AE2$IPV4_源1
+鬼片恐怖,http://iptv.yjxfz.com:80/tv/play/4/7A810DD49151J3JA/J52I40IDE4439AE2$IPV4_源1
+鬼片恐怖,http://iptv.yjxfz.com:80/tv/play/4/329E7381E7J7E133/J52I40IDE4439AE2$IPV4_源2
+黑莓电影,http://iptv.yjxfz.com:80/tv/play/4/NI8N3II123N46DD2/J52I40IDE4439AE2$IPV6_源1
+黑莓电影,http://iptv.yjxfz.com:80/tv/play/4/29I7J27D6A98E3J5/J52I40IDE4439AE2$IPV6_源2
+黑莓电影,http://iptv.yjxfz.com:80/tv/play/4/43J2538591AD1J95/J52I40IDE4439AE2$IPV6_源3
+黑莓电影,http://iptv.yjxfz.com:80/tv/play/4/1551804J11AE1EA0/J52I40IDE4439AE2$IPV6_源4
+黑莓电影,http://iptv.yjxfz.com:80/tv/play/4/15A9DA9310D49587/J52I40IDE4439AE2$IPV6_源5
+CCTV-1 综合,http://iptv.yjxfz.com:80/tv/play/4/4I8908693J314I40/J52I40IDE4439AE2$IPV4_源1
+CCTV-1 综合,http://iptv.yjxfz.com:80/tv/play/4/92N3A93I2IIDNJJJ/J52I40IDE4439AE2$IPV4_源2
+CCTV-1 综合,http://iptv.yjxfz.com:80/tv/play/4/5I7573J02143J0DD/J52I40IDE4439AE2$IPV4_源3
+CCTV-1 综合,http://iptv.yjxfz.com:80/tv/play/4/0JAJ2D319I5JD79E/J52I40IDE4439AE2$IPV4_源4
+CCTV-1 综合,http://iptv.yjxfz.com:80/tv/play/4/E02IE8355I342DI6/J52I40IDE4439AE2$IPV4_源5
+CCTV-1 综合,http://iptv.yjxfz.com:80/tv/play/4/969A36J96DN8N348/J52I40IDE4439AE2$IPV4_源6
+CCTV-1 综合,http://iptv.yjxfz.com:80/tv/play/4/7N3AI27199453EJ3/J52I40IDE4439AE2$IPV4_源7
+CCTV-1 综合,http://iptv.yjxfz.com:80/tv/play/4/85799EAN9337E044/J52I40IDE4439AE2$IPV4_源8
+CCTV-1 综合,http://iptv.yjxfz.com:80/tv/play/4/AID00019341N6N5N/J52I40IDE4439AE2$IPV4_源9
+CCTV-1 综合,http://iptv.yjxfz.com:80/tv/play/4/07AA6J29I72851D0/J52I40IDE4439AE2$IPV4_源10
+CCTV-1 综合,http://iptv.yjxfz.com:80/tv/play/4/30EA3ENE861330N9/J52I40IDE4439AE2$IPV6_源1
+CCTV-1 综合,http://iptv.yjxfz.com:80/tv/play/4/E4DE689INE251120/J52I40IDE4439AE2$IPV6_源2
+CCTV-1 综合,http://iptv.yjxfz.com:80/tv/play/4/9N550774088D4JJ8/J52I40IDE4439AE2$IPV6_源3
+CCTV-1 综合,http://iptv.yjxfz.com:80/tv/play/4/7369NI0685A2541A/J52I40IDE4439AE2$IPV6_源4
+CCTV-1 综合,http://iptv.yjxfz.com:80/tv/play/4/3A8764437E69D98E/J52I40IDE4439AE2$IPV6_源5
+CCTV-2 财经,http://iptv.yjxfz.com:80/tv/play/4/40N1A1I535ED7876/J52I40IDE4439AE2$IPV4_源1
+CCTV-2 财经,http://iptv.yjxfz.com:80/tv/play/4/6IJ42J19571IJ784/J52I40IDE4439AE2$IPV4_源2
+CCTV-2 财经,http://iptv.yjxfz.com:80/tv/play/4/8I8I1395311JAJ01/J52I40IDE4439AE2$IPV4_源3
+CCTV-2 财经,http://iptv.yjxfz.com:80/tv/play/4/323JJ274344D57E0/J52I40IDE4439AE2$IPV4_源4
+CCTV-2 财经,http://iptv.yjxfz.com:80/tv/play/4/IJJ6JJ280JJ2E4EA/J52I40IDE4439AE2$IPV4_源5
+CCTV-2 财经,http://iptv.yjxfz.com:80/tv/play/4/701N3J9E07DJ26J9/J52I40IDE4439AE2$IPV4_源6
+CCTV-2 财经,http://iptv.yjxfz.com:80/tv/play/4/A1E79E9JI251JI80/J52I40IDE4439AE2$IPV4_源7
+CCTV-2 财经,http://iptv.yjxfz.com:80/tv/play/4/58207DEEDD4A716D/J52I40IDE4439AE2$IPV4_源8
+CCTV-2 财经,http://iptv.yjxfz.com:80/tv/play/4/N4J15D0E88E44829/J52I40IDE4439AE2$IPV4_源9
+CCTV-2 财经,http://iptv.yjxfz.com:80/tv/play/4/250N35575NANDJJE/J52I40IDE4439AE2$IPV4_源10
+CCTV-2 财经,http://iptv.yjxfz.com:80/tv/play/4/E70E13E8791JE089/J52I40IDE4439AE2$IPV6_源1
+CCTV-2 财经,http://iptv.yjxfz.com:80/tv/play/4/N54A0A5863JI87I1/J52I40IDE4439AE2$IPV6_源2
+CCTV-2 财经,http://iptv.yjxfz.com:80/tv/play/4/N45AAJ9N2854JIN5/J52I40IDE4439AE2$IPV6_源3
+CCTV-2 财经,http://iptv.yjxfz.com:80/tv/play/4/6E5NA91AD80A94DA/J52I40IDE4439AE2$IPV6_源4
+CCTV-2 财经,http://iptv.yjxfz.com:80/tv/play/4/5E101IDA697560A2/J52I40IDE4439AE2$IPV6_源5
+CCTV-3 综艺,http://iptv.yjxfz.com:80/tv/play/4/ADI6I01AAJ142598/J52I40IDE4439AE2$IPV4_源1
+CCTV-3 综艺,http://iptv.yjxfz.com:80/tv/play/4/64I3J1DI83I452A0/J52I40IDE4439AE2$IPV4_源2
+CCTV-3 综艺,http://iptv.yjxfz.com:80/tv/play/4/N61DIE277I731AJJ/J52I40IDE4439AE2$IPV4_源3
+CCTV-3 综艺,http://iptv.yjxfz.com:80/tv/play/4/471J91254A5EE080/J52I40IDE4439AE2$IPV4_源4
+CCTV-3 综艺,http://iptv.yjxfz.com:80/tv/play/4/A8E012IN16DE9J50/J52I40IDE4439AE2$IPV4_源5
+CCTV-3 综艺,http://iptv.yjxfz.com:80/tv/play/4/917536IANI562274/J52I40IDE4439AE2$IPV4_源6
+CCTV-3 综艺,http://iptv.yjxfz.com:80/tv/play/4/9459AD8A1347I6IA/J52I40IDE4439AE2$IPV4_源7
+CCTV-3 综艺,http://iptv.yjxfz.com:80/tv/play/4/50A7025N775J543D/J52I40IDE4439AE2$IPV4_源8
+CCTV-3 综艺,http://iptv.yjxfz.com:80/tv/play/4/0224101328D373NJ/J52I40IDE4439AE2$IPV4_源9
+CCTV-3 综艺,http://iptv.yjxfz.com:80/tv/play/4/0072ED8J54N962N4/J52I40IDE4439AE2$IPV4_源10
+CCTV-3 综艺,http://iptv.yjxfz.com:80/tv/play/4/I6092DA2NIN6E2DI/J52I40IDE4439AE2$IPV6_源1
+CCTV-3 综艺,http://iptv.yjxfz.com:80/tv/play/4/3J3D7EJ85IE9J7ND/J52I40IDE4439AE2$IPV6_源2
+CCTV-3 综艺,http://iptv.yjxfz.com:80/tv/play/4/5I05D10EN4927261/J52I40IDE4439AE2$IPV6_源3
+CCTV-3 综艺,http://iptv.yjxfz.com:80/tv/play/4/J83DD5A2050EA227/J52I40IDE4439AE2$IPV6_源4
+CCTV-3 综艺,http://iptv.yjxfz.com:80/tv/play/4/0A9E523088ENA4I0/J52I40IDE4439AE2$IPV6_源5
+CCTV-4 中文国际,http://iptv.yjxfz.com:80/tv/play/4/I59JN6747N96EIA3/J52I40IDE4439AE2$IPV4_源1
+CCTV-4 中文国际,http://iptv.yjxfz.com:80/tv/play/4/E5A5414J4A8874E5/J52I40IDE4439AE2$IPV4_源2
+CCTV-4 中文国际,http://iptv.yjxfz.com:80/tv/play/4/408JJ64D378N2JN6/J52I40IDE4439AE2$IPV4_源3
+CCTV-4 中文国际,http://iptv.yjxfz.com:80/tv/play/4/8EID1II5JIDIDJ8N/J52I40IDE4439AE2$IPV4_源4
+CCTV-4 中文国际,http://iptv.yjxfz.com:80/tv/play/4/7J0D010465A90977/J52I40IDE4439AE2$IPV4_源5
+CCTV-4 中文国际,http://iptv.yjxfz.com:80/tv/play/4/A7N7DJ913NIJ3281/J52I40IDE4439AE2$IPV4_源6
+CCTV-4 中文国际,http://iptv.yjxfz.com:80/tv/play/4/N017396J326JD29I/J52I40IDE4439AE2$IPV4_源7
+CCTV-4 中文国际,http://iptv.yjxfz.com:80/tv/play/4/DDEN9IJ981003711/J52I40IDE4439AE2$IPV4_源8
+CCTV-4 中文国际,http://iptv.yjxfz.com:80/tv/play/4/261JI3J213II9939/J52I40IDE4439AE2$IPV4_源9
+CCTV-4 中文国际,http://iptv.yjxfz.com:80/tv/play/4/J20J4E41E931947E/J52I40IDE4439AE2$IPV4_源10
+CCTV-4 中文国际,http://iptv.yjxfz.com:80/tv/play/4/3J793085J4643J04/J52I40IDE4439AE2$IPV6_源1
+CCTV-4 中文国际,http://iptv.yjxfz.com:80/tv/play/4/712604646D42N9J3/J52I40IDE4439AE2$IPV6_源2
+CCTV-4 中文国际,http://iptv.yjxfz.com:80/tv/play/4/DD694258986E57A3/J52I40IDE4439AE2$IPV6_源3
+CCTV-4 中文国际,http://iptv.yjxfz.com:80/tv/play/4/1EIE5DIE23NE25N9/J52I40IDE4439AE2$IPV6_源4
+CCTV-4 中文国际,http://iptv.yjxfz.com:80/tv/play/4/30ADE99D73E7649J/J52I40IDE4439AE2$IPV6_源5
+CCTV-5 体育,http://iptv.yjxfz.com:80/tv/play/4/J94D404015A7923N/J52I40IDE4439AE2$IPV4_源1
+CCTV-5 体育,http://iptv.yjxfz.com:80/tv/play/4/68NN685615D8016J/J52I40IDE4439AE2$IPV4_源2
+CCTV-5 体育,http://iptv.yjxfz.com:80/tv/play/4/3NN48IIE8IIN0DJA/J52I40IDE4439AE2$IPV4_源3
+CCTV-5 体育,http://iptv.yjxfz.com:80/tv/play/4/91002643745127J6/J52I40IDE4439AE2$IPV4_源4
+CCTV-5 体育,http://iptv.yjxfz.com:80/tv/play/4/8A98A7A1A13590IJ/J52I40IDE4439AE2$IPV4_源5
+CCTV-5 体育,http://iptv.yjxfz.com:80/tv/play/4/99024N7N2AND9E47/J52I40IDE4439AE2$IPV4_源6
+CCTV-5 体育,http://iptv.yjxfz.com:80/tv/play/4/1534033D84E9955I/J52I40IDE4439AE2$IPV4_源7
+CCTV-5 体育,http://iptv.yjxfz.com:80/tv/play/4/1DDJA20477171NJA/J52I40IDE4439AE2$IPV4_源8
+CCTV-5 体育,http://iptv.yjxfz.com:80/tv/play/4/298787AJD0D30392/J52I40IDE4439AE2$IPV4_源9
+CCTV-5 体育,http://iptv.yjxfz.com:80/tv/play/4/J8176085A195346E/J52I40IDE4439AE2$IPV4_源10
+CCTV-5 体育,http://iptv.yjxfz.com:80/tv/play/4/I643DI57A812NE17/J52I40IDE4439AE2$IPV6_源1
+CCTV-5 体育,http://iptv.yjxfz.com:80/tv/play/4/D4DN95041I062EE8/J52I40IDE4439AE2$IPV6_源2
+CCTV-5 体育,http://iptv.yjxfz.com:80/tv/play/4/ED4JEE67I9EA89IN/J52I40IDE4439AE2$IPV6_源3
+CCTV-5 体育,http://iptv.yjxfz.com:80/tv/play/4/E65J545D09755406/J52I40IDE4439AE2$IPV6_源4
+CCTV-5 体育,http://iptv.yjxfz.com:80/tv/play/4/78JEIN7I633A8A87/J52I40IDE4439AE2$IPV6_源5
+CCTV-5+ 体育赛事,http://iptv.yjxfz.com:80/tv/play/4/44342AN77J0811AN/J52I40IDE4439AE2$IPV4_源1
+CCTV-5+ 体育赛事,http://iptv.yjxfz.com:80/tv/play/4/D9333AN51DI110E7/J52I40IDE4439AE2$IPV4_源2
+CCTV-5+ 体育赛事,http://iptv.yjxfz.com:80/tv/play/4/79321117JAI9J84E/J52I40IDE4439AE2$IPV4_源3
+CCTV-5+ 体育赛事,http://iptv.yjxfz.com:80/tv/play/4/D72IN7ANI08J0J1I/J52I40IDE4439AE2$IPV4_源4
+CCTV-5+ 体育赛事,http://iptv.yjxfz.com:80/tv/play/4/DIJ7321E658E1IN1/J52I40IDE4439AE2$IPV4_源5
+CCTV-5+ 体育赛事,http://iptv.yjxfz.com:80/tv/play/4/86J222060J7N6481/J52I40IDE4439AE2$IPV4_源6
+CCTV-5+ 体育赛事,http://iptv.yjxfz.com:80/tv/play/4/DI8JEA534I6JI78E/J52I40IDE4439AE2$IPV4_源7
+CCTV-5+ 体育赛事,http://iptv.yjxfz.com:80/tv/play/4/I49AN381I772N424/J52I40IDE4439AE2$IPV4_源8
+CCTV-5+ 体育赛事,http://iptv.yjxfz.com:80/tv/play/4/0AI6E79122NE0D2A/J52I40IDE4439AE2$IPV4_源9
+CCTV-5+ 体育赛事,http://iptv.yjxfz.com:80/tv/play/4/7ID8184J07IE5EAA/J52I40IDE4439AE2$IPV4_源10
+CCTV-5+ 体育赛事,http://iptv.yjxfz.com:80/tv/play/4/E0I686524IJ38E46/J52I40IDE4439AE2$IPV6_源1
+CCTV-5+ 体育赛事,http://iptv.yjxfz.com:80/tv/play/4/0IN315IE6NN900I2/J52I40IDE4439AE2$IPV6_源2
+CCTV-5+ 体育赛事,http://iptv.yjxfz.com:80/tv/play/4/EA9D61262JNJ2261/J52I40IDE4439AE2$IPV6_源3
+CCTV-5+ 体育赛事,http://iptv.yjxfz.com:80/tv/play/4/63061AE7282JE31J/J52I40IDE4439AE2$IPV6_源4
+CCTV-5+ 体育赛事,http://iptv.yjxfz.com:80/tv/play/4/I1J7E8A4IN13ADI2/J52I40IDE4439AE2$IPV6_源5
+CCTV-6 电影,http://iptv.yjxfz.com:80/tv/play/4/1A74IJD11J14I9E6/J52I40IDE4439AE2$IPV4_源1
+CCTV-6 电影,http://iptv.yjxfz.com:80/tv/play/4/JJ879N7378435I08/J52I40IDE4439AE2$IPV4_源2
+CCTV-6 电影,http://iptv.yjxfz.com:80/tv/play/4/78I4730NA72A7926/J52I40IDE4439AE2$IPV4_源3
+CCTV-6 电影,http://iptv.yjxfz.com:80/tv/play/4/AED85DD45JJ9J51J/J52I40IDE4439AE2$IPV4_源4
+CCTV-6 电影,http://iptv.yjxfz.com:80/tv/play/4/48JN8N0N36A59EAE/J52I40IDE4439AE2$IPV4_源5
+CCTV-6 电影,http://iptv.yjxfz.com:80/tv/play/4/82IAA982A5J39603/J52I40IDE4439AE2$IPV4_源6
+CCTV-6 电影,http://iptv.yjxfz.com:80/tv/play/4/03N28299IDE7N2EI/J52I40IDE4439AE2$IPV4_源7
+CCTV-6 电影,http://iptv.yjxfz.com:80/tv/play/4/6N10D30E001037AJ/J52I40IDE4439AE2$IPV4_源8
+CCTV-6 电影,http://iptv.yjxfz.com:80/tv/play/4/06A865I1DJI0IDNA/J52I40IDE4439AE2$IPV4_源9
+CCTV-6 电影,http://iptv.yjxfz.com:80/tv/play/4/I94934859N1296D2/J52I40IDE4439AE2$IPV4_源10
+CCTV-6 电影,http://iptv.yjxfz.com:80/tv/play/4/7JJ332A51D9N8JD6/J52I40IDE4439AE2$IPV6_源1
+CCTV-6 电影,http://iptv.yjxfz.com:80/tv/play/4/60J5J76849205D39/J52I40IDE4439AE2$IPV6_源2
+CCTV-6 电影,http://iptv.yjxfz.com:80/tv/play/4/0E167324J6DIJ2A5/J52I40IDE4439AE2$IPV6_源3
+CCTV-6 电影,http://iptv.yjxfz.com:80/tv/play/4/N3870N04NI44610I/J52I40IDE4439AE2$IPV6_源4
+CCTV-6 电影,http://iptv.yjxfz.com:80/tv/play/4/4287A221824731E8/J52I40IDE4439AE2$IPV6_源5
+CCTV-7 国防军事,http://iptv.yjxfz.com:80/tv/play/4/6646J41NA2572D41/J52I40IDE4439AE2$IPV4_源1
+CCTV-7 国防军事,http://iptv.yjxfz.com:80/tv/play/4/73A802E6A2I11D51/J52I40IDE4439AE2$IPV4_源2
+CCTV-7 国防军事,http://iptv.yjxfz.com:80/tv/play/4/04408032333EIE3E/J52I40IDE4439AE2$IPV4_源3
+CCTV-7 国防军事,http://iptv.yjxfz.com:80/tv/play/4/87I3AA39I50EI527/J52I40IDE4439AE2$IPV4_源4
+CCTV-7 国防军事,http://iptv.yjxfz.com:80/tv/play/4/7I036I0E2NN11AA9/J52I40IDE4439AE2$IPV4_源5
+CCTV-7 国防军事,http://iptv.yjxfz.com:80/tv/play/4/87404A5J10EAN5A5/J52I40IDE4439AE2$IPV4_源6
+CCTV-7 国防军事,http://iptv.yjxfz.com:80/tv/play/4/680418I42J8D6J67/J52I40IDE4439AE2$IPV4_源7
+CCTV-7 国防军事,http://iptv.yjxfz.com:80/tv/play/4/A610734A73891A9E/J52I40IDE4439AE2$IPV4_源8
+CCTV-7 国防军事,http://iptv.yjxfz.com:80/tv/play/4/06408I62857E02ID/J52I40IDE4439AE2$IPV4_源9
+CCTV-7 国防军事,http://iptv.yjxfz.com:80/tv/play/4/D1E1IAD87EIN00E3/J52I40IDE4439AE2$IPV4_源10
+CCTV-7 国防军事,http://iptv.yjxfz.com:80/tv/play/4/DN1EI1787D10A808/J52I40IDE4439AE2$IPV6_源1
+CCTV-7 国防军事,http://iptv.yjxfz.com:80/tv/play/4/7A8884N978I3D530/J52I40IDE4439AE2$IPV6_源2
+CCTV-7 国防军事,http://iptv.yjxfz.com:80/tv/play/4/48A188I4D558836I/J52I40IDE4439AE2$IPV6_源3
+CCTV-7 国防军事,http://iptv.yjxfz.com:80/tv/play/4/28DDDN5AN9N92IDJ/J52I40IDE4439AE2$IPV6_源4
+CCTV-7 国防军事,http://iptv.yjxfz.com:80/tv/play/4/J244233E90A997A2/J52I40IDE4439AE2$IPV6_源5
+CCTV-8 电视剧,http://iptv.yjxfz.com:80/tv/play/4/750J6I8A6A7EE67N/J52I40IDE4439AE2$IPV4_源1
+CCTV-8 电视剧,http://iptv.yjxfz.com:80/tv/play/4/0JJN469NN380N91A/J52I40IDE4439AE2$IPV4_源2
+CCTV-8 电视剧,http://iptv.yjxfz.com:80/tv/play/4/226J88A5I65A1E16/J52I40IDE4439AE2$IPV4_源3
+CCTV-8 电视剧,http://iptv.yjxfz.com:80/tv/play/4/5555E7A60539151N/J52I40IDE4439AE2$IPV4_源4
+CCTV-8 电视剧,http://iptv.yjxfz.com:80/tv/play/4/7J45032I9JEI6D9A/J52I40IDE4439AE2$IPV4_源5
+CCTV-8 电视剧,http://iptv.yjxfz.com:80/tv/play/4/A12NINIIA806I16I/J52I40IDE4439AE2$IPV4_源6
+CCTV-8 电视剧,http://iptv.yjxfz.com:80/tv/play/4/01EN897EA1E59D24/J52I40IDE4439AE2$IPV4_源7
+CCTV-8 电视剧,http://iptv.yjxfz.com:80/tv/play/4/57JENNA5I74JJAE4/J52I40IDE4439AE2$IPV4_源8
+CCTV-8 电视剧,http://iptv.yjxfz.com:80/tv/play/4/N9NIIE383J1E525J/J52I40IDE4439AE2$IPV4_源9
+CCTV-8 电视剧,http://iptv.yjxfz.com:80/tv/play/4/4856DD79I7DN2N8J/J52I40IDE4439AE2$IPV4_源10
+CCTV-8 电视剧,http://iptv.yjxfz.com:80/tv/play/4/J768N9D77853N0J9/J52I40IDE4439AE2$IPV6_源1
+CCTV-8 电视剧,http://iptv.yjxfz.com:80/tv/play/4/4E5N088D2268171A/J52I40IDE4439AE2$IPV6_源2
+CCTV-8 电视剧,http://iptv.yjxfz.com:80/tv/play/4/A799AA705J4J2NNE/J52I40IDE4439AE2$IPV6_源3
+CCTV-8 电视剧,http://iptv.yjxfz.com:80/tv/play/4/6JA7449655D5E955/J52I40IDE4439AE2$IPV6_源4
+CCTV-8 电视剧,http://iptv.yjxfz.com:80/tv/play/4/AE25N15986JINEJD/J52I40IDE4439AE2$IPV6_源5
+CCTV-9 纪录,http://iptv.yjxfz.com:80/tv/play/4/E53E9NIDNI1EDJ34/J52I40IDE4439AE2$IPV4_源1
+CCTV-9 纪录,http://iptv.yjxfz.com:80/tv/play/4/D0AADJN665723J50/J52I40IDE4439AE2$IPV4_源2
+CCTV-9 纪录,http://iptv.yjxfz.com:80/tv/play/4/5D6E0208II1N0N13/J52I40IDE4439AE2$IPV4_源3
+CCTV-9 纪录,http://iptv.yjxfz.com:80/tv/play/4/92E91N7NA6647145/J52I40IDE4439AE2$IPV4_源4
+CCTV-9 纪录,http://iptv.yjxfz.com:80/tv/play/4/N68451444845JEEN/J52I40IDE4439AE2$IPV4_源5
+CCTV-9 纪录,http://iptv.yjxfz.com:80/tv/play/4/E6642AE7I27I1ND1/J52I40IDE4439AE2$IPV4_源6
+CCTV-9 纪录,http://iptv.yjxfz.com:80/tv/play/4/E4NEA064952177D6/J52I40IDE4439AE2$IPV4_源7
+CCTV-9 纪录,http://iptv.yjxfz.com:80/tv/play/4/16AIIJ3NJ2715J65/J52I40IDE4439AE2$IPV4_源8
+CCTV-9 纪录,http://iptv.yjxfz.com:80/tv/play/4/8N20E98880D72I16/J52I40IDE4439AE2$IPV4_源9
+CCTV-9 纪录,http://iptv.yjxfz.com:80/tv/play/4/AN5JI8A3E3N7D5AE/J52I40IDE4439AE2$IPV4_源10
+CCTV-9 纪录,http://iptv.yjxfz.com:80/tv/play/4/ID9DA6N2D3EA7N2D/J52I40IDE4439AE2$IPV6_源1
+CCTV-9 纪录,http://iptv.yjxfz.com:80/tv/play/4/5IJ423E4909J8JI0/J52I40IDE4439AE2$IPV6_源2
+CCTV-9 纪录,http://iptv.yjxfz.com:80/tv/play/4/1JA8D3008210JI4J/J52I40IDE4439AE2$IPV6_源3
+CCTV-9 纪录,http://iptv.yjxfz.com:80/tv/play/4/5D570AIND53J8729/J52I40IDE4439AE2$IPV6_源4
+CCTV-9 纪录,http://iptv.yjxfz.com:80/tv/play/4/6N7AA643AJEJ4DJ5/J52I40IDE4439AE2$IPV6_源5
+CCTV-10 科教,http://iptv.yjxfz.com:80/tv/play/4/D3D0ED3883D714J2/J52I40IDE4439AE2$IPV4_源1
+CCTV-10 科教,http://iptv.yjxfz.com:80/tv/play/4/II5A4A9502D08E4I/J52I40IDE4439AE2$IPV4_源2
+CCTV-10 科教,http://iptv.yjxfz.com:80/tv/play/4/025E8E8982397DJ1/J52I40IDE4439AE2$IPV4_源3
+CCTV-10 科教,http://iptv.yjxfz.com:80/tv/play/4/AJ990NI16N3048A0/J52I40IDE4439AE2$IPV4_源4
+CCTV-10 科教,http://iptv.yjxfz.com:80/tv/play/4/D015IE6A52AII103/J52I40IDE4439AE2$IPV4_源5
+CCTV-10 科教,http://iptv.yjxfz.com:80/tv/play/4/DNJ68DNN51054708/J52I40IDE4439AE2$IPV4_源6
+CCTV-10 科教,http://iptv.yjxfz.com:80/tv/play/4/304A9848AAE44I38/J52I40IDE4439AE2$IPV4_源7
+CCTV-10 科教,http://iptv.yjxfz.com:80/tv/play/4/3N340A04N68A1D89/J52I40IDE4439AE2$IPV4_源8
+CCTV-10 科教,http://iptv.yjxfz.com:80/tv/play/4/9N24DJI26190EN4J/J52I40IDE4439AE2$IPV4_源9
+CCTV-10 科教,http://iptv.yjxfz.com:80/tv/play/4/ND9E24DDAJ686IN5/J52I40IDE4439AE2$IPV4_源10
+CCTV-10 科教,http://iptv.yjxfz.com:80/tv/play/4/379E3I29I5J68200/J52I40IDE4439AE2$IPV6_源1
+CCTV-10 科教,http://iptv.yjxfz.com:80/tv/play/4/8A42AEN5408JA183/J52I40IDE4439AE2$IPV6_源2
+CCTV-10 科教,http://iptv.yjxfz.com:80/tv/play/4/205A037A592DI220/J52I40IDE4439AE2$IPV6_源3
+CCTV-10 科教,http://iptv.yjxfz.com:80/tv/play/4/580ED079IDJ9AE61/J52I40IDE4439AE2$IPV6_源4
+CCTV-10 科教,http://iptv.yjxfz.com:80/tv/play/4/EA0I348057EI07JD/J52I40IDE4439AE2$IPV6_源5
+CCTV-11 戏曲,http://iptv.yjxfz.com:80/tv/play/4/98DEIN7J31DA6N24/J52I40IDE4439AE2$IPV4_源1
+CCTV-11 戏曲,http://iptv.yjxfz.com:80/tv/play/4/NIJ35N35JA41AJ7N/J52I40IDE4439AE2$IPV4_源2
+CCTV-11 戏曲,http://iptv.yjxfz.com:80/tv/play/4/10J9EJ45101N4850/J52I40IDE4439AE2$IPV4_源3
+CCTV-11 戏曲,http://iptv.yjxfz.com:80/tv/play/4/J5J0A9JJA473IEA3/J52I40IDE4439AE2$IPV4_源4
+CCTV-11 戏曲,http://iptv.yjxfz.com:80/tv/play/4/6A3I38986II6DI42/J52I40IDE4439AE2$IPV4_源5
+CCTV-11 戏曲,http://iptv.yjxfz.com:80/tv/play/4/E165E8232EJI41J0/J52I40IDE4439AE2$IPV4_源6
+CCTV-11 戏曲,http://iptv.yjxfz.com:80/tv/play/4/66DNN492EEAD76II/J52I40IDE4439AE2$IPV4_源7
+CCTV-11 戏曲,http://iptv.yjxfz.com:80/tv/play/4/09NJJN9E44E156J2/J52I40IDE4439AE2$IPV4_源8
+CCTV-11 戏曲,http://iptv.yjxfz.com:80/tv/play/4/D24E48752I43JA24/J52I40IDE4439AE2$IPV4_源9
+CCTV-11 戏曲,http://iptv.yjxfz.com:80/tv/play/4/J55JADEE6I6D20DD/J52I40IDE4439AE2$IPV4_源10
+CCTV-11 戏曲,http://iptv.yjxfz.com:80/tv/play/4/06N81JI6A83I4NN5/J52I40IDE4439AE2$IPV6_源1
+CCTV-11 戏曲,http://iptv.yjxfz.com:80/tv/play/4/05I1990E0AI68D98/J52I40IDE4439AE2$IPV6_源2
+CCTV-11 戏曲,http://iptv.yjxfz.com:80/tv/play/4/N9E04NJD15JN8A3J/J52I40IDE4439AE2$IPV6_源3
+CCTV-11 戏曲,http://iptv.yjxfz.com:80/tv/play/4/I5D893621DJ2I6ED/J52I40IDE4439AE2$IPV6_源4
+CCTV-11 戏曲,http://iptv.yjxfz.com:80/tv/play/4/EJ66D649593II8D1/J52I40IDE4439AE2$IPV6_源5
+CCTV-12 社会与法,http://iptv.yjxfz.com:80/tv/play/4/7J72601IAA38361E/J52I40IDE4439AE2$IPV4_源1
+CCTV-12 社会与法,http://iptv.yjxfz.com:80/tv/play/4/D7IN01080D54A906/J52I40IDE4439AE2$IPV4_源2
+CCTV-12 社会与法,http://iptv.yjxfz.com:80/tv/play/4/J4I45I870950E2E5/J52I40IDE4439AE2$IPV4_源3
+CCTV-12 社会与法,http://iptv.yjxfz.com:80/tv/play/4/N6EED503127JND28/J52I40IDE4439AE2$IPV4_源4
+CCTV-12 社会与法,http://iptv.yjxfz.com:80/tv/play/4/8I7EAA80324I883I/J52I40IDE4439AE2$IPV4_源5
+CCTV-12 社会与法,http://iptv.yjxfz.com:80/tv/play/4/78I17ND165A49A61/J52I40IDE4439AE2$IPV4_源6
+CCTV-12 社会与法,http://iptv.yjxfz.com:80/tv/play/4/0J7847J9D1A8J3JE/J52I40IDE4439AE2$IPV4_源7
+CCTV-12 社会与法,http://iptv.yjxfz.com:80/tv/play/4/28AI1IJ9DIE40JND/J52I40IDE4439AE2$IPV4_源8
+CCTV-12 社会与法,http://iptv.yjxfz.com:80/tv/play/4/1J4A39N2270JD3J4/J52I40IDE4439AE2$IPV4_源9
+CCTV-12 社会与法,http://iptv.yjxfz.com:80/tv/play/4/0JIEI09DEE3D89E8/J52I40IDE4439AE2$IPV4_源10
+CCTV-12 社会与法,http://iptv.yjxfz.com:80/tv/play/4/4919800E26I985NI/J52I40IDE4439AE2$IPV6_源1
+CCTV-12 社会与法,http://iptv.yjxfz.com:80/tv/play/4/3AA3128476J15AAN/J52I40IDE4439AE2$IPV6_源2
+CCTV-12 社会与法,http://iptv.yjxfz.com:80/tv/play/4/A4D3E4E2419257A8/J52I40IDE4439AE2$IPV6_源3
+CCTV-12 社会与法,http://iptv.yjxfz.com:80/tv/play/4/NEJ1A2687A6D85N3/J52I40IDE4439AE2$IPV6_源4
+CCTV-12 社会与法,http://iptv.yjxfz.com:80/tv/play/4/A09928091102A79N/J52I40IDE4439AE2$IPV6_源5
+CCTV-13 新闻,http://iptv.yjxfz.com:80/tv/play/4/J3EJ8DE6A9END177/J52I40IDE4439AE2$IPV4_源1
+CCTV-13 新闻,http://iptv.yjxfz.com:80/tv/play/4/E482498226ID9A41/J52I40IDE4439AE2$IPV4_源2
+CCTV-13 新闻,http://iptv.yjxfz.com:80/tv/play/4/224E88N62J749JJ5/J52I40IDE4439AE2$IPV4_源3
+CCTV-13 新闻,http://iptv.yjxfz.com:80/tv/play/4/50AJ4311D440456N/J52I40IDE4439AE2$IPV4_源4
+CCTV-13 新闻,http://iptv.yjxfz.com:80/tv/play/4/N97A85EI42143280/J52I40IDE4439AE2$IPV4_源5
+CCTV-13 新闻,http://iptv.yjxfz.com:80/tv/play/4/95D17022769A0A7D/J52I40IDE4439AE2$IPV4_源6
+CCTV-13 新闻,http://iptv.yjxfz.com:80/tv/play/4/10A4A05N5399A11N/J52I40IDE4439AE2$IPV4_源7
+CCTV-13 新闻,http://iptv.yjxfz.com:80/tv/play/4/31D02IE693EN31JJ/J52I40IDE4439AE2$IPV4_源8
+CCTV-13 新闻,http://iptv.yjxfz.com:80/tv/play/4/I79084E2D48J9A9D/J52I40IDE4439AE2$IPV4_源9
+CCTV-13 新闻,http://iptv.yjxfz.com:80/tv/play/4/A219819J724I40A4/J52I40IDE4439AE2$IPV4_源10
+CCTV-13 新闻,http://iptv.yjxfz.com:80/tv/play/4/E2I3I35N71AA5053/J52I40IDE4439AE2$IPV6_源1
+CCTV-13 新闻,http://iptv.yjxfz.com:80/tv/play/4/35NI451585ND682N/J52I40IDE4439AE2$IPV6_源2
+CCTV-13 新闻,http://iptv.yjxfz.com:80/tv/play/4/30IAAA5D661758D6/J52I40IDE4439AE2$IPV6_源3
+CCTV-13 新闻,http://iptv.yjxfz.com:80/tv/play/4/AD03I102354JE3II/J52I40IDE4439AE2$IPV6_源4
+CCTV-13 新闻,http://iptv.yjxfz.com:80/tv/play/4/EJI6IDA96I9JNDNN/J52I40IDE4439AE2$IPV6_源5
+CCTV-14 少儿,http://iptv.yjxfz.com:80/tv/play/4/J88NI053781E61EA/J52I40IDE4439AE2$IPV4_源1
+CCTV-14 少儿,http://iptv.yjxfz.com:80/tv/play/4/A9J0D88DND848135/J52I40IDE4439AE2$IPV4_源2
+CCTV-14 少儿,http://iptv.yjxfz.com:80/tv/play/4/4J2IJDE873713JI6/J52I40IDE4439AE2$IPV4_源3
+CCTV-14 少儿,http://iptv.yjxfz.com:80/tv/play/4/EEJ3IINAI4682367/J52I40IDE4439AE2$IPV4_源4
+CCTV-14 少儿,http://iptv.yjxfz.com:80/tv/play/4/08J8IAE395D96N7E/J52I40IDE4439AE2$IPV4_源5
+CCTV-14 少儿,http://iptv.yjxfz.com:80/tv/play/4/7955J128NID81ID4/J52I40IDE4439AE2$IPV4_源6
+CCTV-14 少儿,http://iptv.yjxfz.com:80/tv/play/4/72JIDIE0754J0974/J52I40IDE4439AE2$IPV4_源7
+CCTV-14 少儿,http://iptv.yjxfz.com:80/tv/play/4/D15979829256D55E/J52I40IDE4439AE2$IPV4_源8
+CCTV-14 少儿,http://iptv.yjxfz.com:80/tv/play/4/255ANJA622900301/J52I40IDE4439AE2$IPV4_源9
+CCTV-14 少儿,http://iptv.yjxfz.com:80/tv/play/4/1D6272I70D0E95JJ/J52I40IDE4439AE2$IPV4_源10
+CCTV-14 少儿,http://iptv.yjxfz.com:80/tv/play/4/I52D054JJAA89071/J52I40IDE4439AE2$IPV6_源1
+CCTV-14 少儿,http://iptv.yjxfz.com:80/tv/play/4/223I3939327E17I0/J52I40IDE4439AE2$IPV6_源2
+CCTV-14 少儿,http://iptv.yjxfz.com:80/tv/play/4/J2D1745EDN5DN190/J52I40IDE4439AE2$IPV6_源3
+CCTV-14 少儿,http://iptv.yjxfz.com:80/tv/play/4/2216582EN59E9I41/J52I40IDE4439AE2$IPV6_源4
+CCTV-14 少儿,http://iptv.yjxfz.com:80/tv/play/4/2AI3I48EN8E80I08/J52I40IDE4439AE2$IPV6_源5
+CCTV-15 音乐,http://iptv.yjxfz.com:80/tv/play/4/3A5JI0EEJII9E315/J52I40IDE4439AE2$IPV4_源1
+CCTV-15 音乐,http://iptv.yjxfz.com:80/tv/play/4/9D0E0D2JJI4N2A07/J52I40IDE4439AE2$IPV4_源2
+CCTV-15 音乐,http://iptv.yjxfz.com:80/tv/play/4/E9I36157A878829E/J52I40IDE4439AE2$IPV4_源3
+CCTV-15 音乐,http://iptv.yjxfz.com:80/tv/play/4/87IAD662DD3JN56D/J52I40IDE4439AE2$IPV4_源4
+CCTV-15 音乐,http://iptv.yjxfz.com:80/tv/play/4/A72725622DDN5E15/J52I40IDE4439AE2$IPV4_源5
+CCTV-15 音乐,http://iptv.yjxfz.com:80/tv/play/4/JJ7E705J9176DAN9/J52I40IDE4439AE2$IPV4_源6
+CCTV-15 音乐,http://iptv.yjxfz.com:80/tv/play/4/EJID15N14NENJ56A/J52I40IDE4439AE2$IPV4_源7
+CCTV-15 音乐,http://iptv.yjxfz.com:80/tv/play/4/507I02DN53239A93/J52I40IDE4439AE2$IPV4_源8
+CCTV-15 音乐,http://iptv.yjxfz.com:80/tv/play/4/9EED90I1JJ40N3IA/J52I40IDE4439AE2$IPV4_源9
+CCTV-15 音乐,http://iptv.yjxfz.com:80/tv/play/4/1610DNADJN5E71N0/J52I40IDE4439AE2$IPV4_源10
+CCTV-15 音乐,http://iptv.yjxfz.com:80/tv/play/4/87D074DD31687AI1/J52I40IDE4439AE2$IPV6_源1
+CCTV-15 音乐,http://iptv.yjxfz.com:80/tv/play/4/8162J35NN1NAND9A/J52I40IDE4439AE2$IPV6_源2
+CCTV-15 音乐,http://iptv.yjxfz.com:80/tv/play/4/4DJ1A3EA08E94I02/J52I40IDE4439AE2$IPV6_源3
+CCTV-15 音乐,http://iptv.yjxfz.com:80/tv/play/4/8A181EJI140120I7/J52I40IDE4439AE2$IPV6_源4
+CCTV-15 音乐,http://iptv.yjxfz.com:80/tv/play/4/IEN88I886N59A344/J52I40IDE4439AE2$IPV6_源5
+CCTV-16 奥林匹克,http://iptv.yjxfz.com:80/tv/play/4/N0IE2056I000J2N1/J52I40IDE4439AE2$IPV4_源1
+CCTV-16 奥林匹克,http://iptv.yjxfz.com:80/tv/play/4/48E5039912J2J480/J52I40IDE4439AE2$IPV4_源2
+CCTV-16 奥林匹克,http://iptv.yjxfz.com:80/tv/play/4/I31813A4I72IE87N/J52I40IDE4439AE2$IPV4_源3
+CCTV-16 奥林匹克,http://iptv.yjxfz.com:80/tv/play/4/EAA0JDJ89I0J6569/J52I40IDE4439AE2$IPV4_源4
+CCTV-16 奥林匹克,http://iptv.yjxfz.com:80/tv/play/4/J8ENA64N31JIJN22/J52I40IDE4439AE2$IPV4_源5
+CCTV-16 奥林匹克,http://iptv.yjxfz.com:80/tv/play/4/D155A007I63720II/J52I40IDE4439AE2$IPV4_源6
+CCTV-16 奥林匹克,http://iptv.yjxfz.com:80/tv/play/4/2902A2J08I91AJ5I/J52I40IDE4439AE2$IPV4_源7
+CCTV-16 奥林匹克,http://iptv.yjxfz.com:80/tv/play/4/69EN337D173D8439/J52I40IDE4439AE2$IPV4_源8
+CCTV-16 奥林匹克,http://iptv.yjxfz.com:80/tv/play/4/43523A358N8J464I/J52I40IDE4439AE2$IPV4_源9
+CCTV-16 奥林匹克,http://iptv.yjxfz.com:80/tv/play/4/6AEA0I59066916A9/J52I40IDE4439AE2$IPV4_源10
+CCTV-16 奥林匹克,http://iptv.yjxfz.com:80/tv/play/4/197J5I3JANA13E0J/J52I40IDE4439AE2$IPV6_源1
+CCTV-16 奥林匹克,http://iptv.yjxfz.com:80/tv/play/4/4318A3N11891I70J/J52I40IDE4439AE2$IPV6_源2
+CCTV-16 奥林匹克,http://iptv.yjxfz.com:80/tv/play/4/AIAN27EA64I0245E/J52I40IDE4439AE2$IPV6_源3
+CCTV-16 奥林匹克,http://iptv.yjxfz.com:80/tv/play/4/8902N395664DE030/J52I40IDE4439AE2$IPV6_源4
+CCTV-16 奥林匹克,http://iptv.yjxfz.com:80/tv/play/4/44NE05D3A0IJ6N47/J52I40IDE4439AE2$IPV6_源5
+CCTV-17 农业农村,http://iptv.yjxfz.com:80/tv/play/4/57726JI91D3J3337/J52I40IDE4439AE2$IPV4_源1
+CCTV-17 农业农村,http://iptv.yjxfz.com:80/tv/play/4/34060054IJ1JIEN5/J52I40IDE4439AE2$IPV4_源2
+CCTV-17 农业农村,http://iptv.yjxfz.com:80/tv/play/4/I2D60ADD27494J9D/J52I40IDE4439AE2$IPV4_源3
+CCTV-17 农业农村,http://iptv.yjxfz.com:80/tv/play/4/22257N9A1A00N315/J52I40IDE4439AE2$IPV4_源4
+CCTV-17 农业农村,http://iptv.yjxfz.com:80/tv/play/4/63D6A8J02J118DA8/J52I40IDE4439AE2$IPV4_源5
+CCTV-17 农业农村,http://iptv.yjxfz.com:80/tv/play/4/35D2IAE7I81D880A/J52I40IDE4439AE2$IPV4_源6
+CCTV-17 农业农村,http://iptv.yjxfz.com:80/tv/play/4/93A6394A1021001E/J52I40IDE4439AE2$IPV4_源7
+CCTV-17 农业农村,http://iptv.yjxfz.com:80/tv/play/4/J2A94I6D3NJNN87D/J52I40IDE4439AE2$IPV4_源8
+CCTV-17 农业农村,http://iptv.yjxfz.com:80/tv/play/4/34E99NJ01NE79D17/J52I40IDE4439AE2$IPV4_源9
+CCTV-17 农业农村,http://iptv.yjxfz.com:80/tv/play/4/J5098N1281AI9842/J52I40IDE4439AE2$IPV4_源10
+CCTV-17 农业农村,http://iptv.yjxfz.com:80/tv/play/4/E9E660D393E0I437/J52I40IDE4439AE2$IPV6_源1
+CCTV-17 农业农村,http://iptv.yjxfz.com:80/tv/play/4/0JD1922320D090IA/J52I40IDE4439AE2$IPV6_源2
+CCTV-17 农业农村,http://iptv.yjxfz.com:80/tv/play/4/DI684D925J0NJ911/J52I40IDE4439AE2$IPV6_源3
+CCTV-17 农业农村,http://iptv.yjxfz.com:80/tv/play/4/3NDJII03I9EEE3A6/J52I40IDE4439AE2$IPV6_源4
+CCTV-17 农业农村,http://iptv.yjxfz.com:80/tv/play/4/0N4053N54NDNA931/J52I40IDE4439AE2$IPV6_源5
+CCTV_世界地理,http://iptv.yjxfz.com:80/tv/play/4/D87A08A310D3J4A3/J52I40IDE4439AE2$IPV4_源1
+CCTV_世界地理,http://iptv.yjxfz.com:80/tv/play/4/IA5D0I37561201I1/J52I40IDE4439AE2$IPV4_源2
+CCTV_世界地理,http://iptv.yjxfz.com:80/tv/play/4/A3356ADIN527NE3E/J52I40IDE4439AE2$IPV4_源3
+CCTV_世界地理,http://iptv.yjxfz.com:80/tv/play/4/8INJ3128N9DEJA89/J52I40IDE4439AE2$IPV4_源4
+CCTV_世界地理,http://iptv.yjxfz.com:80/tv/play/4/EJN101JN9DD182NJ/J52I40IDE4439AE2$IPV4_源5
+CCTV_世界地理,http://iptv.yjxfz.com:80/tv/play/4/9118IA5EI34N01NA/J52I40IDE4439AE2$IPV4_源6
+CCTV_世界地理,http://iptv.yjxfz.com:80/tv/play/4/N33067A80E0IIE04/J52I40IDE4439AE2$IPV4_源7
+CCTV_世界地理,http://iptv.yjxfz.com:80/tv/play/4/703N3736N18JI347/J52I40IDE4439AE2$IPV4_源8
+CCTV_世界地理,http://iptv.yjxfz.com:80/tv/play/4/39E0ND3IN279JAID/J52I40IDE4439AE2$IPV4_源9
+CCTV_世界地理,http://iptv.yjxfz.com:80/tv/play/4/6883JN61048JE07J/J52I40IDE4439AE2$IPV4_源10
+CCTV_兵器科技,http://iptv.yjxfz.com:80/tv/play/4/E712J0712JJ94N97/J52I40IDE4439AE2$IPV4_源1
+CCTV_兵器科技,http://iptv.yjxfz.com:80/tv/play/4/3I74926NDIEJEE14/J52I40IDE4439AE2$IPV4_源2
+CCTV_兵器科技,http://iptv.yjxfz.com:80/tv/play/4/AEE6632A466EAAD2/J52I40IDE4439AE2$IPV4_源3
+CCTV_兵器科技,http://iptv.yjxfz.com:80/tv/play/4/99ENJA257NE01I28/J52I40IDE4439AE2$IPV4_源4
+CCTV_兵器科技,http://iptv.yjxfz.com:80/tv/play/4/3N5D3D477D0E4EJ2/J52I40IDE4439AE2$IPV4_源5
+CCTV_兵器科技,http://iptv.yjxfz.com:80/tv/play/4/15A85JJ497E03N9E/J52I40IDE4439AE2$IPV4_源6
+CCTV_兵器科技,http://iptv.yjxfz.com:80/tv/play/4/J995N52JEJ0647A3/J52I40IDE4439AE2$IPV4_源7
+CCTV_兵器科技,http://iptv.yjxfz.com:80/tv/play/4/67N44I0A28IAJ0D5/J52I40IDE4439AE2$IPV4_源8
+CCTV_兵器科技,http://iptv.yjxfz.com:80/tv/play/4/D1574N16E9IID0NN/J52I40IDE4439AE2$IPV4_源9
+CCTV_兵器科技,http://iptv.yjxfz.com:80/tv/play/4/60NE04NIE5N5DN0N/J52I40IDE4439AE2$IPV4_源10
+CCTV_央视文化精品,http://iptv.yjxfz.com:80/tv/play/4/0AD097J9157JE95N/J52I40IDE4439AE2$IPV4_源1
+CCTV_央视文化精品,http://iptv.yjxfz.com:80/tv/play/4/92N59205NAE70IED/J52I40IDE4439AE2$IPV4_源2
+CCTV_央视文化精品,http://iptv.yjxfz.com:80/tv/play/4/D798A5N6I645EA76/J52I40IDE4439AE2$IPV4_源3
+CCTV_央视文化精品,http://iptv.yjxfz.com:80/tv/play/4/595905IA2848D9J5/J52I40IDE4439AE2$IPV4_源4
+CCTV_央视文化精品,http://iptv.yjxfz.com:80/tv/play/4/70I5035D00ADD2E5/J52I40IDE4439AE2$IPV4_源5
+CCTV_怀旧剧场,http://iptv.yjxfz.com:80/tv/play/4/0E3JA0445D8D7NDN/J52I40IDE4439AE2$IPV4_源1
+CCTV_怀旧剧场,http://iptv.yjxfz.com:80/tv/play/4/92J2245I696E11A8/J52I40IDE4439AE2$IPV4_源2
+CCTV_怀旧剧场,http://iptv.yjxfz.com:80/tv/play/4/NAA7E462E6A2EN91/J52I40IDE4439AE2$IPV4_源3
+CCTV_怀旧剧场,http://iptv.yjxfz.com:80/tv/play/4/JIIEN113NN4D1445/J52I40IDE4439AE2$IPV4_源4
+CCTV_怀旧剧场,http://iptv.yjxfz.com:80/tv/play/4/DE42715AII0NEJ01/J52I40IDE4439AE2$IPV4_源5
+CCTV_怀旧剧场,http://iptv.yjxfz.com:80/tv/play/4/NII04J13J5426D77/J52I40IDE4439AE2$IPV4_源6
+CCTV_怀旧剧场,http://iptv.yjxfz.com:80/tv/play/4/33A08AA09342E552/J52I40IDE4439AE2$IPV4_源7
+CCTV_怀旧剧场,http://iptv.yjxfz.com:80/tv/play/4/E0502D43IE5NN5I3/J52I40IDE4439AE2$IPV4_源8
+CCTV_电视指南,http://iptv.yjxfz.com:80/tv/play/4/22IIEA5NE96D2E95/J52I40IDE4439AE2$IPV4_源1
+CCTV_电视指南,http://iptv.yjxfz.com:80/tv/play/4/N5N0D14D9I7482I5/J52I40IDE4439AE2$IPV4_源2
+CCTV_电视指南,http://iptv.yjxfz.com:80/tv/play/4/2AD08958J5I8A251/J52I40IDE4439AE2$IPV4_源3
+CCTV_电视指南,http://iptv.yjxfz.com:80/tv/play/4/178306054720AJ0N/J52I40IDE4439AE2$IPV4_源4
+CCTV_电视指南,http://iptv.yjxfz.com:80/tv/play/4/9772D2J74NJ93192/J52I40IDE4439AE2$IPV4_源5
+CCTV_电视指南,http://iptv.yjxfz.com:80/tv/play/4/76D39J2EJ349A2N4/J52I40IDE4439AE2$IPV4_源6
+CCTV_电视指南,http://iptv.yjxfz.com:80/tv/play/4/JI857N5DN52566I5/J52I40IDE4439AE2$IPV4_源7
+CCTV_电视指南,http://iptv.yjxfz.com:80/tv/play/4/I888EA89A289J1E1/J52I40IDE4439AE2$IPV4_源8
+CCTV_电视指南,http://iptv.yjxfz.com:80/tv/play/4/DI316AI294739693/J52I40IDE4439AE2$IPV4_源9
+CCTV_电视指南,http://iptv.yjxfz.com:80/tv/play/4/2J2ID1A7J3E51957/J52I40IDE4439AE2$IPV4_源10
+CCTV_第一剧场,http://iptv.yjxfz.com:80/tv/play/4/8N6NNA6N8JJ52A9A/J52I40IDE4439AE2$IPV4_源1
+CCTV_第一剧场,http://iptv.yjxfz.com:80/tv/play/4/3EE483DJE1N4194I/J52I40IDE4439AE2$IPV4_源2
+CCTV_第一剧场,http://iptv.yjxfz.com:80/tv/play/4/436E4A3NAA5N4DE2/J52I40IDE4439AE2$IPV4_源3
+CCTV_第一剧场,http://iptv.yjxfz.com:80/tv/play/4/1NAD03A958IJ2ED9/J52I40IDE4439AE2$IPV4_源4
+CCTV_第一剧场,http://iptv.yjxfz.com:80/tv/play/4/7I6I820NDN542583/J52I40IDE4439AE2$IPV4_源5
+CCTV_第一剧场,http://iptv.yjxfz.com:80/tv/play/4/A40A59863NE2N3E3/J52I40IDE4439AE2$IPV4_源6
+CCTV_第一剧场,http://iptv.yjxfz.com:80/tv/play/4/349J8IE0N9781J87/J52I40IDE4439AE2$IPV4_源7
+CCTV_第一剧场,http://iptv.yjxfz.com:80/tv/play/4/6A3ANIE47J1567EN/J52I40IDE4439AE2$IPV4_源8
+CCTV_第一剧场,http://iptv.yjxfz.com:80/tv/play/4/AD2769N106N44AA5/J52I40IDE4439AE2$IPV4_源9
+CCTV_第一剧场,http://iptv.yjxfz.com:80/tv/play/4/83IJD031N639AN62/J52I40IDE4439AE2$IPV4_源10
+CCTV_风云剧场,http://iptv.yjxfz.com:80/tv/play/4/E4IE846A52881J59/J52I40IDE4439AE2$IPV4_源1
+CCTV_风云剧场,http://iptv.yjxfz.com:80/tv/play/4/5J67J89198668N28/J52I40IDE4439AE2$IPV4_源2
+CCTV_风云剧场,http://iptv.yjxfz.com:80/tv/play/4/03N0I4NE9IJ8NID1/J52I40IDE4439AE2$IPV4_源3
+CCTV_风云剧场,http://iptv.yjxfz.com:80/tv/play/4/IJ258194066428J2/J52I40IDE4439AE2$IPV4_源4
+CCTV_风云剧场,http://iptv.yjxfz.com:80/tv/play/4/I924AEIJ692515A7/J52I40IDE4439AE2$IPV4_源5
+CCTV_风云剧场,http://iptv.yjxfz.com:80/tv/play/4/D63E61DE4888DJI1/J52I40IDE4439AE2$IPV4_源6
+CCTV_风云剧场,http://iptv.yjxfz.com:80/tv/play/4/7032D26EDJI59683/J52I40IDE4439AE2$IPV4_源7
+CCTV_风云剧场,http://iptv.yjxfz.com:80/tv/play/4/6D3343AA892EA033/J52I40IDE4439AE2$IPV4_源8
+CCTV_风云足球,http://iptv.yjxfz.com:80/tv/play/4/1I4NI5I6D422EN52/J52I40IDE4439AE2$IPV4_源1
+CCTV_风云足球,http://iptv.yjxfz.com:80/tv/play/4/2E656NA90IDEJ227/J52I40IDE4439AE2$IPV4_源2
+CCTV_风云足球,http://iptv.yjxfz.com:80/tv/play/4/JND234AA0246JE97/J52I40IDE4439AE2$IPV4_源3
+CCTV_风云足球,http://iptv.yjxfz.com:80/tv/play/4/91NN1E23JN4AD958/J52I40IDE4439AE2$IPV4_源4
+CCTV_风云足球,http://iptv.yjxfz.com:80/tv/play/4/79NED1EAEJN77I3E/J52I40IDE4439AE2$IPV4_源5
+CCTV_风云足球,http://iptv.yjxfz.com:80/tv/play/4/DJAIJJEJ57443A11/J52I40IDE4439AE2$IPV4_源6
+CCTV_风云足球,http://iptv.yjxfz.com:80/tv/play/4/2075418DI7D2320I/J52I40IDE4439AE2$IPV4_源7
+CCTV_风云足球,http://iptv.yjxfz.com:80/tv/play/4/3880721D1JE1002N/J52I40IDE4439AE2$IPV4_源8
+CCTV_风云足球,http://iptv.yjxfz.com:80/tv/play/4/8J2E88E7457I7838/J52I40IDE4439AE2$IPV4_源9
+CCTV_风云足球,http://iptv.yjxfz.com:80/tv/play/4/1ID902170DD967N0/J52I40IDE4439AE2$IPV4_源10
+CCTV_风云音乐,http://iptv.yjxfz.com:80/tv/play/4/AIA9I46E09818650/J52I40IDE4439AE2$IPV4_源1
+CCTV_风云音乐,http://iptv.yjxfz.com:80/tv/play/4/AE1ID745ANDN4A98/J52I40IDE4439AE2$IPV4_源2
+CCTV_风云音乐,http://iptv.yjxfz.com:80/tv/play/4/81E310N536E7I6J2/J52I40IDE4439AE2$IPV4_源3
+CCTV_风云音乐,http://iptv.yjxfz.com:80/tv/play/4/J644E079ID27039A/J52I40IDE4439AE2$IPV4_源4
+CCTV_风云音乐,http://iptv.yjxfz.com:80/tv/play/4/8N4J950N49E13A37/J52I40IDE4439AE2$IPV4_源5
+CCTV_风云音乐,http://iptv.yjxfz.com:80/tv/play/4/0E4NDJ30D2760291/J52I40IDE4439AE2$IPV4_源6
+CCTV_风云音乐,http://iptv.yjxfz.com:80/tv/play/4/72389E9I78DA042E/J52I40IDE4439AE2$IPV4_源7
+CCTV_高尔夫·网球,http://iptv.yjxfz.com:80/tv/play/4/JD59A972N7IA6054/J52I40IDE4439AE2$IPV4_源1
+CCTV_高尔夫·网球,http://iptv.yjxfz.com:80/tv/play/4/J8A7EJD044N9JAIA/J52I40IDE4439AE2$IPV4_源2
+CCTV_高尔夫·网球,http://iptv.yjxfz.com:80/tv/play/4/AJ0DA4DI03743824/J52I40IDE4439AE2$IPV4_源3
+CCTV_高尔夫·网球,http://iptv.yjxfz.com:80/tv/play/4/8521AN3AN8562A6N/J52I40IDE4439AE2$IPV4_源4
+CCTV_高尔夫·网球,http://iptv.yjxfz.com:80/tv/play/4/89AD1A0N4AIJ6J93/J52I40IDE4439AE2$IPV4_源5
+CCTV_高尔夫·网球,http://iptv.yjxfz.com:80/tv/play/4/0I67D7E63004D06I/J52I40IDE4439AE2$IPV4_源6
+CCTV_高尔夫·网球,http://iptv.yjxfz.com:80/tv/play/4/932165I9803A6965/J52I40IDE4439AE2$IPV4_源7
+CCTV_高尔夫·网球,http://iptv.yjxfz.com:80/tv/play/4/30N0E909A6026E7D/J52I40IDE4439AE2$IPV4_源8
+CCTV_高尔夫·网球,http://iptv.yjxfz.com:80/tv/play/4/A7061D9D3230738I/J52I40IDE4439AE2$IPV4_源9
+CCTV_高尔夫·网球,http://iptv.yjxfz.com:80/tv/play/4/I54I489585662E86/J52I40IDE4439AE2$IPV4_源10
+央视台球,http://iptv.yjxfz.com:80/tv/play/4/1NN98AJ46J55NI6N/J52I40IDE4439AE2$IPV4_源1
+央视台球,http://iptv.yjxfz.com:80/tv/play/4/265644N2J8J8II0I/J52I40IDE4439AE2$IPV4_源2
+央视台球,http://iptv.yjxfz.com:80/tv/play/4/J0863D9DE4N03I39/J52I40IDE4439AE2$IPV4_源3
+央视台球,http://iptv.yjxfz.com:80/tv/play/4/4IJ4ADE696E1I8N7/J52I40IDE4439AE2$IPV4_源4
+央视台球,http://iptv.yjxfz.com:80/tv/play/4/NIA2248D6N13J66D/J52I40IDE4439AE2$IPV4_源5
+央视台球,http://iptv.yjxfz.com:80/tv/play/4/2I39J8034J83DDD2/J52I40IDE4439AE2$IPV4_源6
+央视台球,http://iptv.yjxfz.com:80/tv/play/4/E6N706IN0975IDAA/J52I40IDE4439AE2$IPV4_源7
+央视台球,http://iptv.yjxfz.com:80/tv/play/4/I1DNI68750N28N23/J52I40IDE4439AE2$IPV4_源8
+央视台球,http://iptv.yjxfz.com:80/tv/play/4/ED33640A02DEIJN8/J52I40IDE4439AE2$IPV6_源1
+风云足球,http://iptv.yjxfz.com:80/tv/play/4/82NJ41841795260J/J52I40IDE4439AE2$IPV4_源1
+风云足球,http://iptv.yjxfz.com:80/tv/play/4/635DE06136608IIA/J52I40IDE4439AE2$IPV4_源2
+风云足球,http://iptv.yjxfz.com:80/tv/play/4/JD8A5AD10AJ02697/J52I40IDE4439AE2$IPV4_源3
+风云足球,http://iptv.yjxfz.com:80/tv/play/4/534NN6933A48AI9J/J52I40IDE4439AE2$IPV4_源4
+风云足球,http://iptv.yjxfz.com:80/tv/play/4/AJA23IID99A62A3I/J52I40IDE4439AE2$IPV4_源5
+风云足球,http://iptv.yjxfz.com:80/tv/play/4/I9JI478I882ED0AI/J52I40IDE4439AE2$IPV4_源6
+风云足球,http://iptv.yjxfz.com:80/tv/play/4/0299A6354EDJIAEA/J52I40IDE4439AE2$IPV4_源7
+风云足球,http://iptv.yjxfz.com:80/tv/play/4/887N9JNA7E07N4A2/J52I40IDE4439AE2$IPV4_源8
+风云足球,http://iptv.yjxfz.com:80/tv/play/4/J6338DJJI3450IE0/J52I40IDE4439AE2$IPV4_源9
+风云足球,http://iptv.yjxfz.com:80/tv/play/4/9N6I2607J013N0J3/J52I40IDE4439AE2$IPV4_源10
+风云足球,http://iptv.yjxfz.com:80/tv/play/4/3EEE18A4E181J3E0/J52I40IDE4439AE2$IPV6_源1
+三沙卫视,http://iptv.yjxfz.com:80/tv/play/4/8EN349070EJ7552A/J52I40IDE4439AE2$IPV4_源1
+三沙卫视,http://iptv.yjxfz.com:80/tv/play/4/244096I37III3J6N/J52I40IDE4439AE2$IPV4_源2
+三沙卫视,http://iptv.yjxfz.com:80/tv/play/4/10AI3I1252334JN1/J52I40IDE4439AE2$IPV6_源1
+上海东方卫视,http://iptv.yjxfz.com:80/tv/play/4/61J48NI06E5D0EJ6/J52I40IDE4439AE2$IPV4_源1
+上海东方卫视,http://iptv.yjxfz.com:80/tv/play/4/A4387I1I720N30AE/J52I40IDE4439AE2$IPV4_源2
+上海东方卫视,http://iptv.yjxfz.com:80/tv/play/4/A131J93IAIN7A899/J52I40IDE4439AE2$IPV4_源3
+上海东方卫视,http://iptv.yjxfz.com:80/tv/play/4/DAID49I38A2N0N9E/J52I40IDE4439AE2$IPV4_源4
+上海东方卫视,http://iptv.yjxfz.com:80/tv/play/4/N245I9A3580ED7I7/J52I40IDE4439AE2$IPV4_源5
+上海东方卫视,http://iptv.yjxfz.com:80/tv/play/4/4089N0I35A5D1595/J52I40IDE4439AE2$IPV4_源6
+上海东方卫视,http://iptv.yjxfz.com:80/tv/play/4/184D131DD5671191/J52I40IDE4439AE2$IPV4_源7
+上海东方卫视,http://iptv.yjxfz.com:80/tv/play/4/168A590A2256JJ2D/J52I40IDE4439AE2$IPV4_源8
+上海东方卫视,http://iptv.yjxfz.com:80/tv/play/4/E4A5702I17IJ06EI/J52I40IDE4439AE2$IPV4_源9
+上海东方卫视,http://iptv.yjxfz.com:80/tv/play/4/8ANA160120ID0DAE/J52I40IDE4439AE2$IPV4_源10
+上海东方卫视,http://iptv.yjxfz.com:80/tv/play/4/9A17DEIIJ4958384/J52I40IDE4439AE2$IPV6_源1
+上海东方卫视,http://iptv.yjxfz.com:80/tv/play/4/25A6E905EI98NANN/J52I40IDE4439AE2$IPV6_源2
+上海东方卫视,http://iptv.yjxfz.com:80/tv/play/4/414II64987EDD36N/J52I40IDE4439AE2$IPV6_源3
+上海东方卫视,http://iptv.yjxfz.com:80/tv/play/4/0E09JDE69DN8N1D0/J52I40IDE4439AE2$IPV6_源4
+上海东方卫视,http://iptv.yjxfz.com:80/tv/play/4/10NJI5D6I227E828/J52I40IDE4439AE2$IPV6_源5
+东南卫视,http://iptv.yjxfz.com:80/tv/play/4/43JA37AE85D708I4/J52I40IDE4439AE2$IPV4_源1
+东南卫视,http://iptv.yjxfz.com:80/tv/play/4/5JD819NED887E893/J52I40IDE4439AE2$IPV4_源2
+东南卫视,http://iptv.yjxfz.com:80/tv/play/4/827J66AD5AEN6D26/J52I40IDE4439AE2$IPV4_源3
+东南卫视,http://iptv.yjxfz.com:80/tv/play/4/N31676JI93924J7I/J52I40IDE4439AE2$IPV4_源4
+东南卫视,http://iptv.yjxfz.com:80/tv/play/4/39A803E09D5N80N8/J52I40IDE4439AE2$IPV4_源5
+东南卫视,http://iptv.yjxfz.com:80/tv/play/4/328E002D915J9AA8/J52I40IDE4439AE2$IPV4_源6
+东南卫视,http://iptv.yjxfz.com:80/tv/play/4/8JN0IDE0894JJI74/J52I40IDE4439AE2$IPV4_源7
+东南卫视,http://iptv.yjxfz.com:80/tv/play/4/9A7EIAA75N80AA46/J52I40IDE4439AE2$IPV4_源8
+东南卫视,http://iptv.yjxfz.com:80/tv/play/4/E4NI94A71NN1129N/J52I40IDE4439AE2$IPV4_源9
+东南卫视,http://iptv.yjxfz.com:80/tv/play/4/8DD49A1D751A4555/J52I40IDE4439AE2$IPV4_源10
+东南卫视,http://iptv.yjxfz.com:80/tv/play/4/E8361775850I9AN2/J52I40IDE4439AE2$IPV6_源1
+东南卫视,http://iptv.yjxfz.com:80/tv/play/4/6E95I08JJN50E24I/J52I40IDE4439AE2$IPV6_源2
+东南卫视,http://iptv.yjxfz.com:80/tv/play/4/E4J9J4EN19242701/J52I40IDE4439AE2$IPV6_源3
+东南卫视,http://iptv.yjxfz.com:80/tv/play/4/NEIA5D1322AIAJJ7/J52I40IDE4439AE2$IPV6_源4
+东南卫视,http://iptv.yjxfz.com:80/tv/play/4/8D0536JD0D363327/J52I40IDE4439AE2$IPV6_源5
+云南卫视,http://iptv.yjxfz.com:80/tv/play/4/6DA212D812ED1INJ/J52I40IDE4439AE2$IPV4_源1
+云南卫视,http://iptv.yjxfz.com:80/tv/play/4/25A0AIA00701825A/J52I40IDE4439AE2$IPV4_源2
+云南卫视,http://iptv.yjxfz.com:80/tv/play/4/63AJ871200N62139/J52I40IDE4439AE2$IPV4_源3
+云南卫视,http://iptv.yjxfz.com:80/tv/play/4/355A11136D05N550/J52I40IDE4439AE2$IPV4_源4
+云南卫视,http://iptv.yjxfz.com:80/tv/play/4/46I1EE7J64J5D983/J52I40IDE4439AE2$IPV4_源5
+云南卫视,http://iptv.yjxfz.com:80/tv/play/4/6J7769I11ED9N0NJ/J52I40IDE4439AE2$IPV4_源6
+云南卫视,http://iptv.yjxfz.com:80/tv/play/4/A4I6AIN51I49851A/J52I40IDE4439AE2$IPV4_源7
+云南卫视,http://iptv.yjxfz.com:80/tv/play/4/7J3400A1583ADEE8/J52I40IDE4439AE2$IPV4_源8
+云南卫视,http://iptv.yjxfz.com:80/tv/play/4/I04287A340J88D46/J52I40IDE4439AE2$IPV4_源9
+云南卫视,http://iptv.yjxfz.com:80/tv/play/4/1D91A029901EEI0J/J52I40IDE4439AE2$IPV4_源10
+云南卫视,http://iptv.yjxfz.com:80/tv/play/4/45J5580486565J09/J52I40IDE4439AE2$IPV6_源1
+云南卫视,http://iptv.yjxfz.com:80/tv/play/4/6188D93944E671A8/J52I40IDE4439AE2$IPV6_源2
+云南卫视,http://iptv.yjxfz.com:80/tv/play/4/8A48EA4066438941/J52I40IDE4439AE2$IPV6_源3
+云南卫视,http://iptv.yjxfz.com:80/tv/play/4/32EDE7243939A446/J52I40IDE4439AE2$IPV6_源4
+云南卫视,http://iptv.yjxfz.com:80/tv/play/4/03N85E727DA6DE4D/J52I40IDE4439AE2$IPV6_源5
+内蒙古卫视,http://iptv.yjxfz.com:80/tv/play/4/950A8I511911J785/J52I40IDE4439AE2$IPV4_源1
+内蒙古卫视,http://iptv.yjxfz.com:80/tv/play/4/16A5I506IE5441A5/J52I40IDE4439AE2$IPV4_源2
+内蒙古卫视,http://iptv.yjxfz.com:80/tv/play/4/9A78DJ56N441157A/J52I40IDE4439AE2$IPV4_源3
+内蒙古卫视,http://iptv.yjxfz.com:80/tv/play/4/J6A63IA39DJA026A/J52I40IDE4439AE2$IPV6_源1
+内蒙古卫视,http://iptv.yjxfz.com:80/tv/play/4/NA8AAA130239J770/J52I40IDE4439AE2$IPV6_源2
+内蒙古卫视,http://iptv.yjxfz.com:80/tv/play/4/360N5A59E9A97702/J52I40IDE4439AE2$IPV6_源3
+内蒙古卫视,http://iptv.yjxfz.com:80/tv/play/4/EIN67244JNN42E03/J52I40IDE4439AE2$IPV6_源4
+内蒙古卫视,http://iptv.yjxfz.com:80/tv/play/4/476573676973D0ND/J52I40IDE4439AE2$IPV6_源5
+北京卫视,http://iptv.yjxfz.com:80/tv/play/4/J37E5EAN92A73J25/J52I40IDE4439AE2$IPV4_源1
+北京卫视,http://iptv.yjxfz.com:80/tv/play/4/A1899905EN73NN76/J52I40IDE4439AE2$IPV4_源2
+北京卫视,http://iptv.yjxfz.com:80/tv/play/4/N8039A18J6ED5D49/J52I40IDE4439AE2$IPV4_源3
+北京卫视,http://iptv.yjxfz.com:80/tv/play/4/41E494I355D84ED6/J52I40IDE4439AE2$IPV4_源4
+北京卫视,http://iptv.yjxfz.com:80/tv/play/4/492IEI097DNA732D/J52I40IDE4439AE2$IPV4_源5
+北京卫视,http://iptv.yjxfz.com:80/tv/play/4/84477I23133A0ID7/J52I40IDE4439AE2$IPV4_源6
+北京卫视,http://iptv.yjxfz.com:80/tv/play/4/D66E3140J52E8DJ0/J52I40IDE4439AE2$IPV4_源7
+北京卫视,http://iptv.yjxfz.com:80/tv/play/4/I022EI58A9659I94/J52I40IDE4439AE2$IPV4_源8
+北京卫视,http://iptv.yjxfz.com:80/tv/play/4/7D0I8NNID1AN9AE2/J52I40IDE4439AE2$IPV4_源9
+北京卫视,http://iptv.yjxfz.com:80/tv/play/4/348212AD612N6A57/J52I40IDE4439AE2$IPV4_源10
+北京卫视,http://iptv.yjxfz.com:80/tv/play/4/7NE302284368D980/J52I40IDE4439AE2$IPV6_源1
+北京卫视,http://iptv.yjxfz.com:80/tv/play/4/NEJJ7J738J7952DE/J52I40IDE4439AE2$IPV6_源2
+北京卫视,http://iptv.yjxfz.com:80/tv/play/4/9NI252ADD0J65504/J52I40IDE4439AE2$IPV6_源3
+北京卫视,http://iptv.yjxfz.com:80/tv/play/4/A3710N3ANI5E5N8D/J52I40IDE4439AE2$IPV6_源4
+北京卫视,http://iptv.yjxfz.com:80/tv/play/4/2EN3A761AI130639/J52I40IDE4439AE2$IPV6_源5
+吉林卫视,http://iptv.yjxfz.com:80/tv/play/4/6ND5I97NI8NJ1NE7/J52I40IDE4439AE2$IPV4_源1
+吉林卫视,http://iptv.yjxfz.com:80/tv/play/4/EN2N897NNI10D155/J52I40IDE4439AE2$IPV4_源2
+吉林卫视,http://iptv.yjxfz.com:80/tv/play/4/I28E8EDN271EE1A9/J52I40IDE4439AE2$IPV4_源3
+吉林卫视,http://iptv.yjxfz.com:80/tv/play/4/91DEEI4376E29190/J52I40IDE4439AE2$IPV4_源4
+吉林卫视,http://iptv.yjxfz.com:80/tv/play/4/3AEN05J462DD3I84/J52I40IDE4439AE2$IPV4_源5
+吉林卫视,http://iptv.yjxfz.com:80/tv/play/4/2D788984AD511J04/J52I40IDE4439AE2$IPV4_源6
+吉林卫视,http://iptv.yjxfz.com:80/tv/play/4/39462271077D2DNE/J52I40IDE4439AE2$IPV4_源7
+吉林卫视,http://iptv.yjxfz.com:80/tv/play/4/27NNEN21D0J63N94/J52I40IDE4439AE2$IPV4_源8
+吉林卫视,http://iptv.yjxfz.com:80/tv/play/4/JJ74068ENN4EAII8/J52I40IDE4439AE2$IPV4_源9
+吉林卫视,http://iptv.yjxfz.com:80/tv/play/4/5A38N8I3J0509JEA/J52I40IDE4439AE2$IPV4_源10
+吉林卫视,http://iptv.yjxfz.com:80/tv/play/4/7J203E523E80J780/J52I40IDE4439AE2$IPV6_源1
+吉林卫视,http://iptv.yjxfz.com:80/tv/play/4/NI2I568NI61A842D/J52I40IDE4439AE2$IPV6_源2
+吉林卫视,http://iptv.yjxfz.com:80/tv/play/4/DD67J554DJ48J950/J52I40IDE4439AE2$IPV6_源3
+吉林卫视,http://iptv.yjxfz.com:80/tv/play/4/4073D968EJJD8J8D/J52I40IDE4439AE2$IPV6_源4
+吉林卫视,http://iptv.yjxfz.com:80/tv/play/4/D03N80N6EN8879DD/J52I40IDE4439AE2$IPV6_源5
+四川卫视,http://iptv.yjxfz.com:80/tv/play/4/A0D8954823182DE6/J52I40IDE4439AE2$IPV4_源1
+四川卫视,http://iptv.yjxfz.com:80/tv/play/4/1754N0I67E5J1327/J52I40IDE4439AE2$IPV4_源2
+四川卫视,http://iptv.yjxfz.com:80/tv/play/4/0A6569D5J08A4I95/J52I40IDE4439AE2$IPV4_源3
+四川卫视,http://iptv.yjxfz.com:80/tv/play/4/23D40D6822701909/J52I40IDE4439AE2$IPV4_源4
+四川卫视,http://iptv.yjxfz.com:80/tv/play/4/59D73A0I7A6668AN/J52I40IDE4439AE2$IPV4_源5
+四川卫视,http://iptv.yjxfz.com:80/tv/play/4/50A102J1A931JNI1/J52I40IDE4439AE2$IPV4_源6
+四川卫视,http://iptv.yjxfz.com:80/tv/play/4/52544J2188N1N04E/J52I40IDE4439AE2$IPV4_源7
+四川卫视,http://iptv.yjxfz.com:80/tv/play/4/00J14771I0IJ2D8J/J52I40IDE4439AE2$IPV4_源8
+四川卫视,http://iptv.yjxfz.com:80/tv/play/4/2INI9EJ627179D28/J52I40IDE4439AE2$IPV4_源9
+四川卫视,http://iptv.yjxfz.com:80/tv/play/4/553557EI4NDE00J8/J52I40IDE4439AE2$IPV4_源10
+四川卫视,http://iptv.yjxfz.com:80/tv/play/4/530E72A5115I9679/J52I40IDE4439AE2$IPV6_源1
+四川卫视,http://iptv.yjxfz.com:80/tv/play/4/749ID1NI558EJE76/J52I40IDE4439AE2$IPV6_源2
+四川卫视,http://iptv.yjxfz.com:80/tv/play/4/I2ED062713J06855/J52I40IDE4439AE2$IPV6_源3
+四川卫视,http://iptv.yjxfz.com:80/tv/play/4/67E3571N2D28D359/J52I40IDE4439AE2$IPV6_源4
+四川卫视,http://iptv.yjxfz.com:80/tv/play/4/8I59401J356E33D7/J52I40IDE4439AE2$IPV6_源5
+大湾区卫视,http://iptv.yjxfz.com:80/tv/play/4/2478E93E3A805DI8/J52I40IDE4439AE2$IPV4_源1
+大湾区卫视,http://iptv.yjxfz.com:80/tv/play/4/AAE3N31A89DND148/J52I40IDE4439AE2$IPV4_源2
+大湾区卫视,http://iptv.yjxfz.com:80/tv/play/4/2337EI2685261DJ7/J52I40IDE4439AE2$IPV4_源3
+大湾区卫视,http://iptv.yjxfz.com:80/tv/play/4/DN9JI71687AN7E7D/J52I40IDE4439AE2$IPV4_源4
+大湾区卫视,http://iptv.yjxfz.com:80/tv/play/4/4I594977IEAENJ40/J52I40IDE4439AE2$IPV4_源5
+大湾区卫视,http://iptv.yjxfz.com:80/tv/play/4/4N3781E131D846NJ/J52I40IDE4439AE2$IPV4_源6
+大湾区卫视,http://iptv.yjxfz.com:80/tv/play/4/1NE7134898E56D6J/J52I40IDE4439AE2$IPV6_源1
+天津卫视,http://iptv.yjxfz.com:80/tv/play/4/8EAD4A624974014I/J52I40IDE4439AE2$IPV4_源1
+天津卫视,http://iptv.yjxfz.com:80/tv/play/4/83216A9393N1ED38/J52I40IDE4439AE2$IPV4_源2
+天津卫视,http://iptv.yjxfz.com:80/tv/play/4/J719J5881617878J/J52I40IDE4439AE2$IPV4_源3
+天津卫视,http://iptv.yjxfz.com:80/tv/play/4/E8767A293E8303D1/J52I40IDE4439AE2$IPV4_源4
+天津卫视,http://iptv.yjxfz.com:80/tv/play/4/DN3J8D7J9DN7A926/J52I40IDE4439AE2$IPV4_源5
+天津卫视,http://iptv.yjxfz.com:80/tv/play/4/A7AN25E6I0A1DE9J/J52I40IDE4439AE2$IPV4_源6
+天津卫视,http://iptv.yjxfz.com:80/tv/play/4/42JJ1801I3E64557/J52I40IDE4439AE2$IPV4_源7
+天津卫视,http://iptv.yjxfz.com:80/tv/play/4/IA7318A9EJJ7J9AD/J52I40IDE4439AE2$IPV4_源8
+天津卫视,http://iptv.yjxfz.com:80/tv/play/4/22A870D97890AE75/J52I40IDE4439AE2$IPV4_源9
+天津卫视,http://iptv.yjxfz.com:80/tv/play/4/829N070D18JJDA6J/J52I40IDE4439AE2$IPV4_源10
+天津卫视,http://iptv.yjxfz.com:80/tv/play/4/AJJ55736NI24J73I/J52I40IDE4439AE2$IPV6_源1
+天津卫视,http://iptv.yjxfz.com:80/tv/play/4/1182A0DD1II3NNIJ/J52I40IDE4439AE2$IPV6_源2
+天津卫视,http://iptv.yjxfz.com:80/tv/play/4/42IJAI198N40681E/J52I40IDE4439AE2$IPV6_源3
+天津卫视,http://iptv.yjxfz.com:80/tv/play/4/73773EN0028E0D2I/J52I40IDE4439AE2$IPV6_源4
+天津卫视,http://iptv.yjxfz.com:80/tv/play/4/E90386E34277D740/J52I40IDE4439AE2$IPV6_源5
+宁夏卫视,http://iptv.yjxfz.com:80/tv/play/4/37DD13NJ5J3I635D/J52I40IDE4439AE2$IPV4_源1
+宁夏卫视,http://iptv.yjxfz.com:80/tv/play/4/JAJ539707EE4169N/J52I40IDE4439AE2$IPV4_源2
+宁夏卫视,http://iptv.yjxfz.com:80/tv/play/4/2109D250J0J0D67E/J52I40IDE4439AE2$IPV4_源3
+宁夏卫视,http://iptv.yjxfz.com:80/tv/play/4/6I09IE3N94N2D5EA/J52I40IDE4439AE2$IPV6_源1
+宁夏卫视,http://iptv.yjxfz.com:80/tv/play/4/0I0E2DE351A828A4/J52I40IDE4439AE2$IPV6_源2
+安徽卫视,http://iptv.yjxfz.com:80/tv/play/4/I927326A4JJ49859/J52I40IDE4439AE2$IPV4_源1
+安徽卫视,http://iptv.yjxfz.com:80/tv/play/4/316NE848E9EAE553/J52I40IDE4439AE2$IPV4_源2
+安徽卫视,http://iptv.yjxfz.com:80/tv/play/4/6I615754D96EJ32E/J52I40IDE4439AE2$IPV4_源3
+安徽卫视,http://iptv.yjxfz.com:80/tv/play/4/N986E3IE0D254N2I/J52I40IDE4439AE2$IPV4_源4
+安徽卫视,http://iptv.yjxfz.com:80/tv/play/4/JI174A8AE00IN276/J52I40IDE4439AE2$IPV4_源5
+安徽卫视,http://iptv.yjxfz.com:80/tv/play/4/A3JA7077N554N79E/J52I40IDE4439AE2$IPV4_源6
+安徽卫视,http://iptv.yjxfz.com:80/tv/play/4/D4I45DAJJ0JDD95N/J52I40IDE4439AE2$IPV4_源7
+安徽卫视,http://iptv.yjxfz.com:80/tv/play/4/ID346J11IA875047/J52I40IDE4439AE2$IPV4_源8
+安徽卫视,http://iptv.yjxfz.com:80/tv/play/4/71N498IAN927A249/J52I40IDE4439AE2$IPV4_源9
+安徽卫视,http://iptv.yjxfz.com:80/tv/play/4/IIJN5N1N43E6649D/J52I40IDE4439AE2$IPV4_源10
+安徽卫视,http://iptv.yjxfz.com:80/tv/play/4/50A304DJJ58E049I/J52I40IDE4439AE2$IPV6_源1
+安徽卫视,http://iptv.yjxfz.com:80/tv/play/4/521DE77612A5DI4A/J52I40IDE4439AE2$IPV6_源2
+安徽卫视,http://iptv.yjxfz.com:80/tv/play/4/01D60E74A081EI1J/J52I40IDE4439AE2$IPV6_源3
+安徽卫视,http://iptv.yjxfz.com:80/tv/play/4/0D5899JN73E5EDIE/J52I40IDE4439AE2$IPV6_源4
+安徽卫视,http://iptv.yjxfz.com:80/tv/play/4/04I0A71I801N4943/J52I40IDE4439AE2$IPV6_源5
+山东卫视,http://iptv.yjxfz.com:80/tv/play/4/16DI27J7N7705689/J52I40IDE4439AE2$IPV4_源1
+山东卫视,http://iptv.yjxfz.com:80/tv/play/4/52JA739N569N39DD/J52I40IDE4439AE2$IPV4_源2
+山东卫视,http://iptv.yjxfz.com:80/tv/play/4/050EJN08J27D9IJ8/J52I40IDE4439AE2$IPV4_源3
+山东卫视,http://iptv.yjxfz.com:80/tv/play/4/1211J372176D75ED/J52I40IDE4439AE2$IPV4_源4
+山东卫视,http://iptv.yjxfz.com:80/tv/play/4/N4AA87D60ANI5A71/J52I40IDE4439AE2$IPV4_源5
+山东卫视,http://iptv.yjxfz.com:80/tv/play/4/3N2IN3AE01E6NJ1N/J52I40IDE4439AE2$IPV4_源6
+山东卫视,http://iptv.yjxfz.com:80/tv/play/4/4569I55A42750860/J52I40IDE4439AE2$IPV4_源7
+山东卫视,http://iptv.yjxfz.com:80/tv/play/4/9D20579IA5E51271/J52I40IDE4439AE2$IPV4_源8
+山东卫视,http://iptv.yjxfz.com:80/tv/play/4/8A02N00680EJ6961/J52I40IDE4439AE2$IPV4_源9
+山东卫视,http://iptv.yjxfz.com:80/tv/play/4/DAN0543J1EJ21N7I/J52I40IDE4439AE2$IPV4_源10
+山东卫视,http://iptv.yjxfz.com:80/tv/play/4/4J4AD8DDD2D56D70/J52I40IDE4439AE2$IPV6_源1
+山东卫视,http://iptv.yjxfz.com:80/tv/play/4/EJENJ4N7N9835EAJ/J52I40IDE4439AE2$IPV6_源2
+山东卫视,http://iptv.yjxfz.com:80/tv/play/4/1A6INII338240E7I/J52I40IDE4439AE2$IPV6_源3
+山东卫视,http://iptv.yjxfz.com:80/tv/play/4/3636843J5N15E792/J52I40IDE4439AE2$IPV6_源4
+山东卫视,http://iptv.yjxfz.com:80/tv/play/4/5866JNJN8A61A50N/J52I40IDE4439AE2$IPV6_源5
+山西卫视,http://iptv.yjxfz.com:80/tv/play/4/A3705296AA137A01/J52I40IDE4439AE2$IPV4_源1
+山西卫视,http://iptv.yjxfz.com:80/tv/play/4/0D09553D5J704148/J52I40IDE4439AE2$IPV4_源2
+山西卫视,http://iptv.yjxfz.com:80/tv/play/4/0IN6279I11I09J47/J52I40IDE4439AE2$IPV4_源3
+山西卫视,http://iptv.yjxfz.com:80/tv/play/4/8A30A57146NAEJID/J52I40IDE4439AE2$IPV4_源4
+山西卫视,http://iptv.yjxfz.com:80/tv/play/4/E75IJ5DA75I7J1N9/J52I40IDE4439AE2$IPV4_源5
+山西卫视,http://iptv.yjxfz.com:80/tv/play/4/508I4E07A0J41A6I/J52I40IDE4439AE2$IPV4_源6
+山西卫视,http://iptv.yjxfz.com:80/tv/play/4/E1DAE5J3518EN17D/J52I40IDE4439AE2$IPV4_源7
+山西卫视,http://iptv.yjxfz.com:80/tv/play/4/24600J7JAD46122D/J52I40IDE4439AE2$IPV4_源8
+山西卫视,http://iptv.yjxfz.com:80/tv/play/4/968AN14035ENN156/J52I40IDE4439AE2$IPV4_源9
+山西卫视,http://iptv.yjxfz.com:80/tv/play/4/1936J5AIJ9196727/J52I40IDE4439AE2$IPV4_源10
+山西卫视,http://iptv.yjxfz.com:80/tv/play/4/067500865466NA00/J52I40IDE4439AE2$IPV6_源1
+山西卫视,http://iptv.yjxfz.com:80/tv/play/4/3NI06800E72N629I/J52I40IDE4439AE2$IPV6_源2
+山西卫视,http://iptv.yjxfz.com:80/tv/play/4/DII73285NJ7N7N51/J52I40IDE4439AE2$IPV6_源3
+山西卫视,http://iptv.yjxfz.com:80/tv/play/4/IND2JI08A0D89N60/J52I40IDE4439AE2$IPV6_源4
+山西卫视,http://iptv.yjxfz.com:80/tv/play/4/18192311A323D359/J52I40IDE4439AE2$IPV6_源5
+广东卫视,http://iptv.yjxfz.com:80/tv/play/4/9E08568J938A6J47/J52I40IDE4439AE2$IPV4_源1
+广东卫视,http://iptv.yjxfz.com:80/tv/play/4/A2556N67472432A6/J52I40IDE4439AE2$IPV4_源2
+广东卫视,http://iptv.yjxfz.com:80/tv/play/4/920NE075E323J730/J52I40IDE4439AE2$IPV4_源3
+广东卫视,http://iptv.yjxfz.com:80/tv/play/4/29E13A9N0N73N5D4/J52I40IDE4439AE2$IPV4_源4
+广东卫视,http://iptv.yjxfz.com:80/tv/play/4/JN7EDADJA3598962/J52I40IDE4439AE2$IPV4_源5
+广东卫视,http://iptv.yjxfz.com:80/tv/play/4/400I6AIJ133IDDDN/J52I40IDE4439AE2$IPV4_源6
+广东卫视,http://iptv.yjxfz.com:80/tv/play/4/JE9EA170595E0A49/J52I40IDE4439AE2$IPV4_源7
+广东卫视,http://iptv.yjxfz.com:80/tv/play/4/5JN1363J451I5I4A/J52I40IDE4439AE2$IPV4_源8
+广东卫视,http://iptv.yjxfz.com:80/tv/play/4/8404I860J4ADA661/J52I40IDE4439AE2$IPV4_源9
+广东卫视,http://iptv.yjxfz.com:80/tv/play/4/9ND03362E68AAA4A/J52I40IDE4439AE2$IPV4_源10
+广东卫视,http://iptv.yjxfz.com:80/tv/play/4/69143DI483N1IAD0/J52I40IDE4439AE2$IPV6_源1
+广东卫视,http://iptv.yjxfz.com:80/tv/play/4/979JN8515EJJ7J41/J52I40IDE4439AE2$IPV6_源2
+广东卫视,http://iptv.yjxfz.com:80/tv/play/4/0DAEJNE52419D674/J52I40IDE4439AE2$IPV6_源3
+广东卫视,http://iptv.yjxfz.com:80/tv/play/4/84EE56JDN18IDED2/J52I40IDE4439AE2$IPV6_源4
+广东卫视,http://iptv.yjxfz.com:80/tv/play/4/6IJN10051I32I22D/J52I40IDE4439AE2$IPV6_源5
+广西卫视,http://iptv.yjxfz.com:80/tv/play/4/749JJ1D39NA48213/J52I40IDE4439AE2$IPV4_源1
+广西卫视,http://iptv.yjxfz.com:80/tv/play/4/8289JIIINJ5N5NJI/J52I40IDE4439AE2$IPV4_源2
+广西卫视,http://iptv.yjxfz.com:80/tv/play/4/EDEEN3ENID51N946/J52I40IDE4439AE2$IPV4_源3
+广西卫视,http://iptv.yjxfz.com:80/tv/play/4/8D2747EN581571NN/J52I40IDE4439AE2$IPV4_源4
+广西卫视,http://iptv.yjxfz.com:80/tv/play/4/18A99768E163024J/J52I40IDE4439AE2$IPV4_源5
+广西卫视,http://iptv.yjxfz.com:80/tv/play/4/J48A1N3952E56A7E/J52I40IDE4439AE2$IPV4_源6
+广西卫视,http://iptv.yjxfz.com:80/tv/play/4/87EAI0A038833254/J52I40IDE4439AE2$IPV4_源7
+广西卫视,http://iptv.yjxfz.com:80/tv/play/4/6D1417E9EEJAE0IJ/J52I40IDE4439AE2$IPV4_源8
+广西卫视,http://iptv.yjxfz.com:80/tv/play/4/780591J6E0N1I02N/J52I40IDE4439AE2$IPV4_源9
+广西卫视,http://iptv.yjxfz.com:80/tv/play/4/84591528184NEE6J/J52I40IDE4439AE2$IPV4_源10
+广西卫视,http://iptv.yjxfz.com:80/tv/play/4/723N29E31D88J726/J52I40IDE4439AE2$IPV6_源1
+广西卫视,http://iptv.yjxfz.com:80/tv/play/4/E249IE068629J41N/J52I40IDE4439AE2$IPV6_源2
+广西卫视,http://iptv.yjxfz.com:80/tv/play/4/51AI4946J40A62ND/J52I40IDE4439AE2$IPV6_源3
+广西卫视,http://iptv.yjxfz.com:80/tv/play/4/906E0DIJ4049N7E1/J52I40IDE4439AE2$IPV6_源4
+广西卫视,http://iptv.yjxfz.com:80/tv/play/4/9JA8419JE0D8D0E2/J52I40IDE4439AE2$IPV6_源5
+新疆卫视,http://iptv.yjxfz.com:80/tv/play/4/1NE568716DAD9DN7/J52I40IDE4439AE2$IPV4_源1
+新疆卫视,http://iptv.yjxfz.com:80/tv/play/4/I92N1JN8E75DJ546/J52I40IDE4439AE2$IPV4_源2
+新疆卫视,http://iptv.yjxfz.com:80/tv/play/4/EED9042E56DDA233/J52I40IDE4439AE2$IPV4_源3
+新疆卫视,http://iptv.yjxfz.com:80/tv/play/4/273JI3A4720AIA32/J52I40IDE4439AE2$IPV4_源4
+新疆卫视,http://iptv.yjxfz.com:80/tv/play/4/805EAJ4D27A336N4/J52I40IDE4439AE2$IPV6_源1
+新疆卫视,http://iptv.yjxfz.com:80/tv/play/4/39082EEED2N0D96E/J52I40IDE4439AE2$IPV6_源2
+新疆卫视,http://iptv.yjxfz.com:80/tv/play/4/A91ANN98425DD172/J52I40IDE4439AE2$IPV6_源3
+江苏卫视,http://iptv.yjxfz.com:80/tv/play/4/JJ16IA7DI404EJJ5/J52I40IDE4439AE2$IPV4_源1
+江苏卫视,http://iptv.yjxfz.com:80/tv/play/4/D99JN4INIE786907/J52I40IDE4439AE2$IPV4_源2
+江苏卫视,http://iptv.yjxfz.com:80/tv/play/4/J9E54J77244439ID/J52I40IDE4439AE2$IPV4_源3
+江苏卫视,http://iptv.yjxfz.com:80/tv/play/4/42A7E2I0431N1937/J52I40IDE4439AE2$IPV4_源4
+江苏卫视,http://iptv.yjxfz.com:80/tv/play/4/J6N7E9346580380N/J52I40IDE4439AE2$IPV4_源5
+江苏卫视,http://iptv.yjxfz.com:80/tv/play/4/AJ7A1E0598A0DEAE/J52I40IDE4439AE2$IPV4_源6
+江苏卫视,http://iptv.yjxfz.com:80/tv/play/4/E07E9I6A4DN70D80/J52I40IDE4439AE2$IPV4_源7
+江苏卫视,http://iptv.yjxfz.com:80/tv/play/4/E076A5I24IIE7A78/J52I40IDE4439AE2$IPV4_源8
+江苏卫视,http://iptv.yjxfz.com:80/tv/play/4/AAD2710N70808JI6/J52I40IDE4439AE2$IPV4_源9
+江苏卫视,http://iptv.yjxfz.com:80/tv/play/4/7607JN1DE25DNI46/J52I40IDE4439AE2$IPV4_源10
+江苏卫视,http://iptv.yjxfz.com:80/tv/play/4/8ND6069J260DAJA5/J52I40IDE4439AE2$IPV6_源1
+江苏卫视,http://iptv.yjxfz.com:80/tv/play/4/4IENE634N9635E65/J52I40IDE4439AE2$IPV6_源2
+江苏卫视,http://iptv.yjxfz.com:80/tv/play/4/I0923AIE2E1I77ED/J52I40IDE4439AE2$IPV6_源3
+江苏卫视,http://iptv.yjxfz.com:80/tv/play/4/4A7466N707ENJ1N4/J52I40IDE4439AE2$IPV6_源4
+江苏卫视,http://iptv.yjxfz.com:80/tv/play/4/4J517316I4AEIA0J/J52I40IDE4439AE2$IPV6_源5
+江西卫视,http://iptv.yjxfz.com:80/tv/play/4/4240440E2E0D6658/J52I40IDE4439AE2$IPV4_源1
+江西卫视,http://iptv.yjxfz.com:80/tv/play/4/D1N32A36820A1E38/J52I40IDE4439AE2$IPV4_源2
+江西卫视,http://iptv.yjxfz.com:80/tv/play/4/D4IE95D14I6E1673/J52I40IDE4439AE2$IPV4_源3
+江西卫视,http://iptv.yjxfz.com:80/tv/play/4/6A15A317JJJ521J6/J52I40IDE4439AE2$IPV4_源4
+江西卫视,http://iptv.yjxfz.com:80/tv/play/4/D5A932J4EJ6EN66A/J52I40IDE4439AE2$IPV4_源5
+江西卫视,http://iptv.yjxfz.com:80/tv/play/4/E0N287675AA22JN1/J52I40IDE4439AE2$IPV4_源6
+江西卫视,http://iptv.yjxfz.com:80/tv/play/4/N5EA6JNI22N9NA2N/J52I40IDE4439AE2$IPV4_源7
+江西卫视,http://iptv.yjxfz.com:80/tv/play/4/49JE07781N0JI753/J52I40IDE4439AE2$IPV4_源8
+江西卫视,http://iptv.yjxfz.com:80/tv/play/4/ENEA34DNNN8AADJI/J52I40IDE4439AE2$IPV4_源9
+江西卫视,http://iptv.yjxfz.com:80/tv/play/4/6E94889A9NE0I076/J52I40IDE4439AE2$IPV4_源10
+江西卫视,http://iptv.yjxfz.com:80/tv/play/4/73674J908432NAN9/J52I40IDE4439AE2$IPV6_源1
+江西卫视,http://iptv.yjxfz.com:80/tv/play/4/5I1E630JDA8N45N8/J52I40IDE4439AE2$IPV6_源2
+江西卫视,http://iptv.yjxfz.com:80/tv/play/4/0N0E26E002987824/J52I40IDE4439AE2$IPV6_源3
+江西卫视,http://iptv.yjxfz.com:80/tv/play/4/D2D4N78J769EI689/J52I40IDE4439AE2$IPV6_源4
+江西卫视,http://iptv.yjxfz.com:80/tv/play/4/I089AEID664IEJNI/J52I40IDE4439AE2$IPV6_源5
+河北卫视,http://iptv.yjxfz.com:80/tv/play/4/J94NA975602JDE78/J52I40IDE4439AE2$IPV4_源1
+河北卫视,http://iptv.yjxfz.com:80/tv/play/4/6D77A58AI5NJ2E08/J52I40IDE4439AE2$IPV4_源2
+河北卫视,http://iptv.yjxfz.com:80/tv/play/4/745E14396431I3IN/J52I40IDE4439AE2$IPV4_源3
+河北卫视,http://iptv.yjxfz.com:80/tv/play/4/2697277415AAN9D9/J52I40IDE4439AE2$IPV4_源4
+河北卫视,http://iptv.yjxfz.com:80/tv/play/4/1E97A538N4A5I00J/J52I40IDE4439AE2$IPV4_源5
+河北卫视,http://iptv.yjxfz.com:80/tv/play/4/9JE082I89AI23I80/J52I40IDE4439AE2$IPV4_源6
+河北卫视,http://iptv.yjxfz.com:80/tv/play/4/NA2D9A3949N72263/J52I40IDE4439AE2$IPV4_源7
+河北卫视,http://iptv.yjxfz.com:80/tv/play/4/1E0N8J45A72EAE1J/J52I40IDE4439AE2$IPV4_源8
+河北卫视,http://iptv.yjxfz.com:80/tv/play/4/0NAJ866A0736IIJI/J52I40IDE4439AE2$IPV4_源9
+河北卫视,http://iptv.yjxfz.com:80/tv/play/4/7N4945DIA0IIN588/J52I40IDE4439AE2$IPV4_源10
+河北卫视,http://iptv.yjxfz.com:80/tv/play/4/479D22N06897I9DJ/J52I40IDE4439AE2$IPV6_源1
+河北卫视,http://iptv.yjxfz.com:80/tv/play/4/9I312649E0J84D94/J52I40IDE4439AE2$IPV6_源2
+河北卫视,http://iptv.yjxfz.com:80/tv/play/4/0594E165A06N4JN3/J52I40IDE4439AE2$IPV6_源3
+河北卫视,http://iptv.yjxfz.com:80/tv/play/4/483JAAN0563AINI5/J52I40IDE4439AE2$IPV6_源4
+河北卫视,http://iptv.yjxfz.com:80/tv/play/4/03195093JA076830/J52I40IDE4439AE2$IPV6_源5
+河南卫视,http://iptv.yjxfz.com:80/tv/play/4/N431DI85D07AIJ77/J52I40IDE4439AE2$IPV4_源1
+河南卫视,http://iptv.yjxfz.com:80/tv/play/4/E5D717N758751E72/J52I40IDE4439AE2$IPV4_源2
+河南卫视,http://iptv.yjxfz.com:80/tv/play/4/J9N65J7982237I43/J52I40IDE4439AE2$IPV4_源3
+河南卫视,http://iptv.yjxfz.com:80/tv/play/4/8D9674EI9IA3865D/J52I40IDE4439AE2$IPV4_源4
+河南卫视,http://iptv.yjxfz.com:80/tv/play/4/75A0679N903D94JN/J52I40IDE4439AE2$IPV4_源5
+河南卫视,http://iptv.yjxfz.com:80/tv/play/4/DJJ92445E8149D59/J52I40IDE4439AE2$IPV4_源6
+河南卫视,http://iptv.yjxfz.com:80/tv/play/4/5AEJ6I484066A1AE/J52I40IDE4439AE2$IPV4_源7
+河南卫视,http://iptv.yjxfz.com:80/tv/play/4/5EAJE5858941691I/J52I40IDE4439AE2$IPV4_源8
+河南卫视,http://iptv.yjxfz.com:80/tv/play/4/9D2948272D165294/J52I40IDE4439AE2$IPV4_源9
+河南卫视,http://iptv.yjxfz.com:80/tv/play/4/4DDJ9055JEIJ51AD/J52I40IDE4439AE2$IPV4_源10
+河南卫视,http://iptv.yjxfz.com:80/tv/play/4/EE09N710I534248D/J52I40IDE4439AE2$IPV6_源1
+河南卫视,http://iptv.yjxfz.com:80/tv/play/4/928377IJ9E84I31D/J52I40IDE4439AE2$IPV6_源2
+河南卫视,http://iptv.yjxfz.com:80/tv/play/4/EN1I022D457A4155/J52I40IDE4439AE2$IPV6_源3
+河南卫视,http://iptv.yjxfz.com:80/tv/play/4/D11IJ37INDJNA9J5/J52I40IDE4439AE2$IPV6_源4
+河南卫视,http://iptv.yjxfz.com:80/tv/play/4/I163J410E8A51I95/J52I40IDE4439AE2$IPV6_源5
+浙江卫视,http://iptv.yjxfz.com:80/tv/play/4/219840D67JA11JIN/J52I40IDE4439AE2$IPV4_源1
+浙江卫视,http://iptv.yjxfz.com:80/tv/play/4/6I66JJDI435J6945/J52I40IDE4439AE2$IPV4_源2
+浙江卫视,http://iptv.yjxfz.com:80/tv/play/4/06IAI34A3I485N8N/J52I40IDE4439AE2$IPV4_源3
+浙江卫视,http://iptv.yjxfz.com:80/tv/play/4/A4N798N3D4902A19/J52I40IDE4439AE2$IPV4_源4
+浙江卫视,http://iptv.yjxfz.com:80/tv/play/4/8I22I2DA395IE588/J52I40IDE4439AE2$IPV4_源5
+浙江卫视,http://iptv.yjxfz.com:80/tv/play/4/1AJJA7DE366J7I0I/J52I40IDE4439AE2$IPV4_源6
+浙江卫视,http://iptv.yjxfz.com:80/tv/play/4/4J03A8240A755AN6/J52I40IDE4439AE2$IPV4_源7
+浙江卫视,http://iptv.yjxfz.com:80/tv/play/4/I165AA63J20IJI2J/J52I40IDE4439AE2$IPV4_源8
+浙江卫视,http://iptv.yjxfz.com:80/tv/play/4/EJEA30AE70IA9EIN/J52I40IDE4439AE2$IPV4_源9
+浙江卫视,http://iptv.yjxfz.com:80/tv/play/4/056D8I897J810598/J52I40IDE4439AE2$IPV4_源10
+浙江卫视,http://iptv.yjxfz.com:80/tv/play/4/J0AN184D4N20A7NI/J52I40IDE4439AE2$IPV6_源1
+浙江卫视,http://iptv.yjxfz.com:80/tv/play/4/J3A8942800N2DD51/J52I40IDE4439AE2$IPV6_源2
+浙江卫视,http://iptv.yjxfz.com:80/tv/play/4/78653N98A6258D0A/J52I40IDE4439AE2$IPV6_源3
+浙江卫视,http://iptv.yjxfz.com:80/tv/play/4/2DDJ2186499013A3/J52I40IDE4439AE2$IPV6_源4
+浙江卫视,http://iptv.yjxfz.com:80/tv/play/4/NAN8JEE0ND205A35/J52I40IDE4439AE2$IPV6_源5
+海南卫视,http://iptv.yjxfz.com:80/tv/play/4/49E060D6N7D1JEND/J52I40IDE4439AE2$IPV4_源1
+海南卫视,http://iptv.yjxfz.com:80/tv/play/4/3A3370802333654E/J52I40IDE4439AE2$IPV4_源2
+海南卫视,http://iptv.yjxfz.com:80/tv/play/4/A9JA34430II1D61A/J52I40IDE4439AE2$IPV4_源3
+海南卫视,http://iptv.yjxfz.com:80/tv/play/4/4N7N15A6DAD47446/J52I40IDE4439AE2$IPV4_源4
+海南卫视,http://iptv.yjxfz.com:80/tv/play/4/29J3I69903IIJD3E/J52I40IDE4439AE2$IPV4_源5
+海南卫视,http://iptv.yjxfz.com:80/tv/play/4/J4J8II100967387I/J52I40IDE4439AE2$IPV4_源6
+海南卫视,http://iptv.yjxfz.com:80/tv/play/4/941IN87J7503AAAJ/J52I40IDE4439AE2$IPV4_源7
+海南卫视,http://iptv.yjxfz.com:80/tv/play/4/D54I479JN7J20153/J52I40IDE4439AE2$IPV4_源8
+海南卫视,http://iptv.yjxfz.com:80/tv/play/4/6NEJA1E5N353N349/J52I40IDE4439AE2$IPV4_源9
+海南卫视,http://iptv.yjxfz.com:80/tv/play/4/1877850A46EJJ05E/J52I40IDE4439AE2$IPV4_源10
+海南卫视,http://iptv.yjxfz.com:80/tv/play/4/1I483659D7147A4J/J52I40IDE4439AE2$IPV6_源1
+海南卫视,http://iptv.yjxfz.com:80/tv/play/4/752I10NJJ0ANJ2EA/J52I40IDE4439AE2$IPV6_源2
+海南卫视,http://iptv.yjxfz.com:80/tv/play/4/815ENE40JA6694D2/J52I40IDE4439AE2$IPV6_源3
+海南卫视,http://iptv.yjxfz.com:80/tv/play/4/3E592D7E873073EJ/J52I40IDE4439AE2$IPV6_源4
+海南卫视,http://iptv.yjxfz.com:80/tv/play/4/02D5E807294EA027/J52I40IDE4439AE2$IPV6_源5
+深圳卫视,http://iptv.yjxfz.com:80/tv/play/4/9E28I0JIDE0EN29J/J52I40IDE4439AE2$IPV4_源1
+深圳卫视,http://iptv.yjxfz.com:80/tv/play/4/6N72231069AJ0DA7/J52I40IDE4439AE2$IPV4_源2
+深圳卫视,http://iptv.yjxfz.com:80/tv/play/4/3534EJA606INE4D8/J52I40IDE4439AE2$IPV4_源3
+深圳卫视,http://iptv.yjxfz.com:80/tv/play/4/5J46AD75D0DA8404/J52I40IDE4439AE2$IPV4_源4
+深圳卫视,http://iptv.yjxfz.com:80/tv/play/4/A3N0740IJI2538J4/J52I40IDE4439AE2$IPV4_源5
+深圳卫视,http://iptv.yjxfz.com:80/tv/play/4/I5J6A14DEN2458DI/J52I40IDE4439AE2$IPV4_源6
+深圳卫视,http://iptv.yjxfz.com:80/tv/play/4/5A154732E3603IDI/J52I40IDE4439AE2$IPV4_源7
+深圳卫视,http://iptv.yjxfz.com:80/tv/play/4/3792NJEDI035J006/J52I40IDE4439AE2$IPV4_源8
+深圳卫视,http://iptv.yjxfz.com:80/tv/play/4/D825A8DA9572J9I3/J52I40IDE4439AE2$IPV4_源9
+深圳卫视,http://iptv.yjxfz.com:80/tv/play/4/3ED4I6NIJ7014DA1/J52I40IDE4439AE2$IPV4_源10
+深圳卫视,http://iptv.yjxfz.com:80/tv/play/4/I5N67I0D08J2DEJN/J52I40IDE4439AE2$IPV6_源1
+深圳卫视,http://iptv.yjxfz.com:80/tv/play/4/7EI61D1564086N3E/J52I40IDE4439AE2$IPV6_源2
+深圳卫视,http://iptv.yjxfz.com:80/tv/play/4/20833I67D515D9JJ/J52I40IDE4439AE2$IPV6_源3
+深圳卫视,http://iptv.yjxfz.com:80/tv/play/4/45IE5JE79EDE49A7/J52I40IDE4439AE2$IPV6_源4
+深圳卫视,http://iptv.yjxfz.com:80/tv/play/4/42312090451II4A9/J52I40IDE4439AE2$IPV6_源5
+湖北卫视,http://iptv.yjxfz.com:80/tv/play/4/AAJDJI0DN1NIEJ4D/J52I40IDE4439AE2$IPV4_源1
+湖北卫视,http://iptv.yjxfz.com:80/tv/play/4/EEE6IA58D3D671DD/J52I40IDE4439AE2$IPV4_源2
+湖北卫视,http://iptv.yjxfz.com:80/tv/play/4/2I097DNNIJA1D5D1/J52I40IDE4439AE2$IPV4_源3
+湖北卫视,http://iptv.yjxfz.com:80/tv/play/4/IE4D6E2N46IEA56D/J52I40IDE4439AE2$IPV4_源4
+湖北卫视,http://iptv.yjxfz.com:80/tv/play/4/JD74E1088I3923J2/J52I40IDE4439AE2$IPV4_源5
+湖北卫视,http://iptv.yjxfz.com:80/tv/play/4/N1I19DD265D489I1/J52I40IDE4439AE2$IPV4_源6
+湖北卫视,http://iptv.yjxfz.com:80/tv/play/4/I824525757DI92A8/J52I40IDE4439AE2$IPV4_源7
+湖北卫视,http://iptv.yjxfz.com:80/tv/play/4/J44D2JD27J37NEA8/J52I40IDE4439AE2$IPV4_源8
+湖北卫视,http://iptv.yjxfz.com:80/tv/play/4/676N7593E57N7E17/J52I40IDE4439AE2$IPV4_源9
+湖北卫视,http://iptv.yjxfz.com:80/tv/play/4/E1590JI68AAA1805/J52I40IDE4439AE2$IPV4_源10
+湖北卫视,http://iptv.yjxfz.com:80/tv/play/4/1671E22E4D381IJ9/J52I40IDE4439AE2$IPV6_源1
+湖北卫视,http://iptv.yjxfz.com:80/tv/play/4/A968A3D2746NEDN2/J52I40IDE4439AE2$IPV6_源2
+湖北卫视,http://iptv.yjxfz.com:80/tv/play/4/30N7262D5798089E/J52I40IDE4439AE2$IPV6_源3
+湖北卫视,http://iptv.yjxfz.com:80/tv/play/4/1892JE6768064J18/J52I40IDE4439AE2$IPV6_源4
+湖北卫视,http://iptv.yjxfz.com:80/tv/play/4/9EE193A55092NI2E/J52I40IDE4439AE2$IPV6_源5
+湖南卫视,http://iptv.yjxfz.com:80/tv/play/4/I87345IJ898E78EJ/J52I40IDE4439AE2$IPV4_源1
+湖南卫视,http://iptv.yjxfz.com:80/tv/play/4/3AD26750D38E97I0/J52I40IDE4439AE2$IPV4_源2
+湖南卫视,http://iptv.yjxfz.com:80/tv/play/4/4A6JD9598891J6IJ/J52I40IDE4439AE2$IPV4_源3
+湖南卫视,http://iptv.yjxfz.com:80/tv/play/4/2NEA2N1D705N2984/J52I40IDE4439AE2$IPV4_源4
+湖南卫视,http://iptv.yjxfz.com:80/tv/play/4/6E92ENE1970AE7E6/J52I40IDE4439AE2$IPV4_源5
+湖南卫视,http://iptv.yjxfz.com:80/tv/play/4/8I52I695I8A88J1N/J52I40IDE4439AE2$IPV4_源6
+湖南卫视,http://iptv.yjxfz.com:80/tv/play/4/D016A618D192E34A/J52I40IDE4439AE2$IPV4_源7
+湖南卫视,http://iptv.yjxfz.com:80/tv/play/4/1I93938IE488D2A7/J52I40IDE4439AE2$IPV4_源8
+湖南卫视,http://iptv.yjxfz.com:80/tv/play/4/91I757J09938N63A/J52I40IDE4439AE2$IPV4_源9
+湖南卫视,http://iptv.yjxfz.com:80/tv/play/4/0A8E0D5N6D01J03J/J52I40IDE4439AE2$IPV4_源10
+湖南卫视,http://iptv.yjxfz.com:80/tv/play/4/0I20900124D16E2I/J52I40IDE4439AE2$IPV6_源1
+湖南卫视,http://iptv.yjxfz.com:80/tv/play/4/28JD9E1N063JNA46/J52I40IDE4439AE2$IPV6_源2
+湖南卫视,http://iptv.yjxfz.com:80/tv/play/4/N533N030J7AN93A3/J52I40IDE4439AE2$IPV6_源3
+湖南卫视,http://iptv.yjxfz.com:80/tv/play/4/E044JE10N12ADJ1N/J52I40IDE4439AE2$IPV6_源4
+湖南卫视,http://iptv.yjxfz.com:80/tv/play/4/47IE9ED7E7942491/J52I40IDE4439AE2$IPV6_源5
+甘肃卫视,http://iptv.yjxfz.com:80/tv/play/4/D81N9J488677IA7A/J52I40IDE4439AE2$IPV4_源1
+甘肃卫视,http://iptv.yjxfz.com:80/tv/play/4/88I969J9886A503D/J52I40IDE4439AE2$IPV4_源2
+甘肃卫视,http://iptv.yjxfz.com:80/tv/play/4/8409A43AD9380424/J52I40IDE4439AE2$IPV4_源3
+甘肃卫视,http://iptv.yjxfz.com:80/tv/play/4/62I4A3175I0D42A8/J52I40IDE4439AE2$IPV4_源4
+甘肃卫视,http://iptv.yjxfz.com:80/tv/play/4/I030A3263811D496/J52I40IDE4439AE2$IPV4_源5
+甘肃卫视,http://iptv.yjxfz.com:80/tv/play/4/51J0J0A2538I50DI/J52I40IDE4439AE2$IPV4_源6
+甘肃卫视,http://iptv.yjxfz.com:80/tv/play/4/DDDJ664NIJE3J4E2/J52I40IDE4439AE2$IPV4_源7
+甘肃卫视,http://iptv.yjxfz.com:80/tv/play/4/56017J3J608483N5/J52I40IDE4439AE2$IPV4_源8
+甘肃卫视,http://iptv.yjxfz.com:80/tv/play/4/IA49EI4E98J4DI22/J52I40IDE4439AE2$IPV4_源9
+甘肃卫视,http://iptv.yjxfz.com:80/tv/play/4/AADN6I11A943295N/J52I40IDE4439AE2$IPV4_源10
+甘肃卫视,http://iptv.yjxfz.com:80/tv/play/4/57N2D51410D29I18/J52I40IDE4439AE2$IPV6_源1
+甘肃卫视,http://iptv.yjxfz.com:80/tv/play/4/D682A792AI859AEJ/J52I40IDE4439AE2$IPV6_源2
+甘肃卫视,http://iptv.yjxfz.com:80/tv/play/4/0NA89A5A9I3JE738/J52I40IDE4439AE2$IPV6_源3
+甘肃卫视,http://iptv.yjxfz.com:80/tv/play/4/4I96EA616985NID1/J52I40IDE4439AE2$IPV6_源4
+甘肃卫视,http://iptv.yjxfz.com:80/tv/play/4/EID329852E387070/J52I40IDE4439AE2$IPV6_源5
+福建东南卫视,http://iptv.yjxfz.com:80/tv/play/4/N81A7J84960DNNI0/J52I40IDE4439AE2$IPV4_源1
+福建东南卫视,http://iptv.yjxfz.com:80/tv/play/4/A56D5DE07239169D/J52I40IDE4439AE2$IPV4_源2
+西藏卫视,http://iptv.yjxfz.com:80/tv/play/4/A4A80J0686E4D127/J52I40IDE4439AE2$IPV4_源1
+西藏卫视,http://iptv.yjxfz.com:80/tv/play/4/362A71DDE091I00I/J52I40IDE4439AE2$IPV4_源2
+西藏卫视,http://iptv.yjxfz.com:80/tv/play/4/IEA299J9AEEN438A/J52I40IDE4439AE2$IPV4_源3
+西藏卫视,http://iptv.yjxfz.com:80/tv/play/4/682996A8D3N3J88E/J52I40IDE4439AE2$IPV4_源4
+西藏卫视,http://iptv.yjxfz.com:80/tv/play/4/ED0N41A5D8JDAD7A/J52I40IDE4439AE2$IPV4_源5
+西藏卫视,http://iptv.yjxfz.com:80/tv/play/4/I15114DE6ND2I209/J52I40IDE4439AE2$IPV4_源6
+西藏卫视,http://iptv.yjxfz.com:80/tv/play/4/6523N6IN5D6I3426/J52I40IDE4439AE2$IPV4_源7
+西藏卫视,http://iptv.yjxfz.com:80/tv/play/4/AD4N39JD6E583J57/J52I40IDE4439AE2$IPV4_源8
+西藏卫视,http://iptv.yjxfz.com:80/tv/play/4/EA7JD18453N85816/J52I40IDE4439AE2$IPV4_源9
+西藏卫视,http://iptv.yjxfz.com:80/tv/play/4/4E1N33E166903D38/J52I40IDE4439AE2$IPV6_源1
+西藏卫视,http://iptv.yjxfz.com:80/tv/play/4/4NI4NA45J4A906JJ/J52I40IDE4439AE2$IPV6_源2
+西藏卫视,http://iptv.yjxfz.com:80/tv/play/4/910N0656I1EAAE2D/J52I40IDE4439AE2$IPV6_源3
+西藏卫视,http://iptv.yjxfz.com:80/tv/play/4/3EDN0DA084DE185D/J52I40IDE4439AE2$IPV6_源4
+西藏卫视,http://iptv.yjxfz.com:80/tv/play/4/008I95A2005II348/J52I40IDE4439AE2$IPV6_源5
+贵州卫视,http://iptv.yjxfz.com:80/tv/play/4/E2706E018E50I29E/J52I40IDE4439AE2$IPV4_源1
+贵州卫视,http://iptv.yjxfz.com:80/tv/play/4/95I1D5JJDAD6J315/J52I40IDE4439AE2$IPV4_源2
+贵州卫视,http://iptv.yjxfz.com:80/tv/play/4/92J4N8EAAJE0JE54/J52I40IDE4439AE2$IPV4_源3
+贵州卫视,http://iptv.yjxfz.com:80/tv/play/4/00EJ80J714E24J07/J52I40IDE4439AE2$IPV4_源4
+贵州卫视,http://iptv.yjxfz.com:80/tv/play/4/J701N9E37158224A/J52I40IDE4439AE2$IPV4_源5
+贵州卫视,http://iptv.yjxfz.com:80/tv/play/4/130DJ12IEN5D05DI/J52I40IDE4439AE2$IPV4_源6
+贵州卫视,http://iptv.yjxfz.com:80/tv/play/4/79EE24653694EN3J/J52I40IDE4439AE2$IPV4_源7
+贵州卫视,http://iptv.yjxfz.com:80/tv/play/4/9D6A117503JD14DA/J52I40IDE4439AE2$IPV4_源8
+贵州卫视,http://iptv.yjxfz.com:80/tv/play/4/340JEA56EE6NID88/J52I40IDE4439AE2$IPV4_源9
+贵州卫视,http://iptv.yjxfz.com:80/tv/play/4/4J816AED238129D4/J52I40IDE4439AE2$IPV4_源10
+贵州卫视,http://iptv.yjxfz.com:80/tv/play/4/158224J1DJ59N99A/J52I40IDE4439AE2$IPV6_源1
+贵州卫视,http://iptv.yjxfz.com:80/tv/play/4/JD3IEAD42N2733D8/J52I40IDE4439AE2$IPV6_源2
+贵州卫视,http://iptv.yjxfz.com:80/tv/play/4/7240I6360DN82853/J52I40IDE4439AE2$IPV6_源3
+贵州卫视,http://iptv.yjxfz.com:80/tv/play/4/70NI6J9193103N82/J52I40IDE4439AE2$IPV6_源4
+贵州卫视,http://iptv.yjxfz.com:80/tv/play/4/99E05NJ73J9E9E64/J52I40IDE4439AE2$IPV6_源5
+辽宁卫视,http://iptv.yjxfz.com:80/tv/play/4/D48337A8021J7345/J52I40IDE4439AE2$IPV4_源1
+辽宁卫视,http://iptv.yjxfz.com:80/tv/play/4/486EIADNN8JJ700I/J52I40IDE4439AE2$IPV4_源2
+辽宁卫视,http://iptv.yjxfz.com:80/tv/play/4/3NDN1IE004370108/J52I40IDE4439AE2$IPV4_源3
+辽宁卫视,http://iptv.yjxfz.com:80/tv/play/4/JIJ21837D237I65J/J52I40IDE4439AE2$IPV4_源4
+辽宁卫视,http://iptv.yjxfz.com:80/tv/play/4/A4I4I1AJI6I45075/J52I40IDE4439AE2$IPV4_源5
+辽宁卫视,http://iptv.yjxfz.com:80/tv/play/4/DE92E8D89A8N9DN6/J52I40IDE4439AE2$IPV4_源6
+辽宁卫视,http://iptv.yjxfz.com:80/tv/play/4/D3288A55I9A46343/J52I40IDE4439AE2$IPV4_源7
+辽宁卫视,http://iptv.yjxfz.com:80/tv/play/4/124NA128485DJ783/J52I40IDE4439AE2$IPV4_源8
+辽宁卫视,http://iptv.yjxfz.com:80/tv/play/4/A0578D79NDE65A22/J52I40IDE4439AE2$IPV4_源9
+辽宁卫视,http://iptv.yjxfz.com:80/tv/play/4/9984D4JE1NDEI127/J52I40IDE4439AE2$IPV4_源10
+辽宁卫视,http://iptv.yjxfz.com:80/tv/play/4/8NA76AAE90376D62/J52I40IDE4439AE2$IPV6_源1
+辽宁卫视,http://iptv.yjxfz.com:80/tv/play/4/JAJ8E5E32J8DE5J4/J52I40IDE4439AE2$IPV6_源2
+辽宁卫视,http://iptv.yjxfz.com:80/tv/play/4/N8I1A257N0NN089I/J52I40IDE4439AE2$IPV6_源3
+辽宁卫视,http://iptv.yjxfz.com:80/tv/play/4/38277N284N53I27A/J52I40IDE4439AE2$IPV6_源4
+辽宁卫视,http://iptv.yjxfz.com:80/tv/play/4/9EN83JA237NE5525/J52I40IDE4439AE2$IPV6_源5
+重庆卫视,http://iptv.yjxfz.com:80/tv/play/4/439D97J708I50626/J52I40IDE4439AE2$IPV4_源1
+重庆卫视,http://iptv.yjxfz.com:80/tv/play/4/E580JN36E1DN30A5/J52I40IDE4439AE2$IPV4_源2
+重庆卫视,http://iptv.yjxfz.com:80/tv/play/4/5AA069DNJ78AE2E5/J52I40IDE4439AE2$IPV4_源3
+重庆卫视,http://iptv.yjxfz.com:80/tv/play/4/9NENI01N49NDJ375/J52I40IDE4439AE2$IPV4_源4
+重庆卫视,http://iptv.yjxfz.com:80/tv/play/4/97N80IE8N2I78N10/J52I40IDE4439AE2$IPV4_源5
+重庆卫视,http://iptv.yjxfz.com:80/tv/play/4/087775J5225EN682/J52I40IDE4439AE2$IPV4_源6
+重庆卫视,http://iptv.yjxfz.com:80/tv/play/4/J62J264I7AEE5IEA/J52I40IDE4439AE2$IPV4_源7
+重庆卫视,http://iptv.yjxfz.com:80/tv/play/4/1D0N6I0NN50E85N9/J52I40IDE4439AE2$IPV4_源8
+重庆卫视,http://iptv.yjxfz.com:80/tv/play/4/23790D20021II0J0/J52I40IDE4439AE2$IPV4_源9
+重庆卫视,http://iptv.yjxfz.com:80/tv/play/4/D86778N9NA77D10I/J52I40IDE4439AE2$IPV4_源10
+重庆卫视,http://iptv.yjxfz.com:80/tv/play/4/NDAD6E8J7E3ND48N/J52I40IDE4439AE2$IPV6_源1
+重庆卫视,http://iptv.yjxfz.com:80/tv/play/4/78NJ738NI86I870A/J52I40IDE4439AE2$IPV6_源2
+重庆卫视,http://iptv.yjxfz.com:80/tv/play/4/NA24NE8D3N90416I/J52I40IDE4439AE2$IPV6_源3
+重庆卫视,http://iptv.yjxfz.com:80/tv/play/4/E0N8JN3EJAIJ772N/J52I40IDE4439AE2$IPV6_源4
+重庆卫视,http://iptv.yjxfz.com:80/tv/play/4/25I012AI9E2N679I/J52I40IDE4439AE2$IPV6_源5
+陕西卫视,http://iptv.yjxfz.com:80/tv/play/4/EAE82940N3183448/J52I40IDE4439AE2$IPV4_源1
+陕西卫视,http://iptv.yjxfz.com:80/tv/play/4/I20EIJD6IJDAED27/J52I40IDE4439AE2$IPV4_源2
+陕西卫视,http://iptv.yjxfz.com:80/tv/play/4/IIIA5E1N9EEEI74D/J52I40IDE4439AE2$IPV4_源3
+陕西卫视,http://iptv.yjxfz.com:80/tv/play/4/3E75398843408437/J52I40IDE4439AE2$IPV4_源4
+陕西卫视,http://iptv.yjxfz.com:80/tv/play/4/N81N54J9I2675804/J52I40IDE4439AE2$IPV4_源5
+陕西卫视,http://iptv.yjxfz.com:80/tv/play/4/3E30A0EA78I7557A/J52I40IDE4439AE2$IPV4_源6
+陕西卫视,http://iptv.yjxfz.com:80/tv/play/4/A3J721372DI67E92/J52I40IDE4439AE2$IPV4_源7
+陕西卫视,http://iptv.yjxfz.com:80/tv/play/4/ID7J4200A9786D46/J52I40IDE4439AE2$IPV4_源8
+陕西卫视,http://iptv.yjxfz.com:80/tv/play/4/18AND56D3D853301/J52I40IDE4439AE2$IPV4_源9
+陕西卫视,http://iptv.yjxfz.com:80/tv/play/4/J58EN0A80712063A/J52I40IDE4439AE2$IPV4_源10
+陕西卫视,http://iptv.yjxfz.com:80/tv/play/4/E93J15D8N65A95EN/J52I40IDE4439AE2$IPV6_源1
+陕西卫视,http://iptv.yjxfz.com:80/tv/play/4/5ND89A0670IN634A/J52I40IDE4439AE2$IPV6_源2
+陕西卫视,http://iptv.yjxfz.com:80/tv/play/4/9A4372DE5685J71J/J52I40IDE4439AE2$IPV6_源3
+陕西卫视,http://iptv.yjxfz.com:80/tv/play/4/77620I90J76D3250/J52I40IDE4439AE2$IPV6_源4
+青海卫视,http://iptv.yjxfz.com:80/tv/play/4/6J4J755627J3I510/J52I40IDE4439AE2$IPV4_源1
+青海卫视,http://iptv.yjxfz.com:80/tv/play/4/5519233J0E0J900J/J52I40IDE4439AE2$IPV4_源2
+青海卫视,http://iptv.yjxfz.com:80/tv/play/4/195A84N8N8319D61/J52I40IDE4439AE2$IPV4_源3
+青海卫视,http://iptv.yjxfz.com:80/tv/play/4/46707DI8773N6DA4/J52I40IDE4439AE2$IPV4_源4
+青海卫视,http://iptv.yjxfz.com:80/tv/play/4/I7461J70A0319468/J52I40IDE4439AE2$IPV4_源5
+青海卫视,http://iptv.yjxfz.com:80/tv/play/4/0J0E3045J1J2J3N7/J52I40IDE4439AE2$IPV4_源6
+青海卫视,http://iptv.yjxfz.com:80/tv/play/4/3812A8D39DE10D03/J52I40IDE4439AE2$IPV4_源7
+青海卫视,http://iptv.yjxfz.com:80/tv/play/4/D0I900E951D63634/J52I40IDE4439AE2$IPV4_源8
+青海卫视,http://iptv.yjxfz.com:80/tv/play/4/03586DJ597D6J8J0/J52I40IDE4439AE2$IPV4_源9
+青海卫视,http://iptv.yjxfz.com:80/tv/play/4/1E3N9IJA58ED442I/J52I40IDE4439AE2$IPV4_源10
+青海卫视,http://iptv.yjxfz.com:80/tv/play/4/91IDE4IJD00J67J7/J52I40IDE4439AE2$IPV6_源1
+青海卫视,http://iptv.yjxfz.com:80/tv/play/4/E38D8I93D2J16380/J52I40IDE4439AE2$IPV6_源2
+青海卫视,http://iptv.yjxfz.com:80/tv/play/4/195AA83IDD35108N/J52I40IDE4439AE2$IPV6_源3
+青海卫视,http://iptv.yjxfz.com:80/tv/play/4/ADJ3DI28D20A784A/J52I40IDE4439AE2$IPV6_源4
+青海卫视,http://iptv.yjxfz.com:80/tv/play/4/30J8D56JJA72EE07/J52I40IDE4439AE2$IPV6_源5
+黑龙江卫视,http://iptv.yjxfz.com:80/tv/play/4/8074DJJ725A3II84/J52I40IDE4439AE2$IPV4_源1
+黑龙江卫视,http://iptv.yjxfz.com:80/tv/play/4/JJ4715IE13N5D012/J52I40IDE4439AE2$IPV4_源2
+黑龙江卫视,http://iptv.yjxfz.com:80/tv/play/4/023EAADDI2A10N65/J52I40IDE4439AE2$IPV4_源3
+黑龙江卫视,http://iptv.yjxfz.com:80/tv/play/4/41EJ3I7825I1D93J/J52I40IDE4439AE2$IPV4_源4
+黑龙江卫视,http://iptv.yjxfz.com:80/tv/play/4/02841D6001NI6JJ5/J52I40IDE4439AE2$IPV4_源5
+黑龙江卫视,http://iptv.yjxfz.com:80/tv/play/4/J52162A98A2112D1/J52I40IDE4439AE2$IPV4_源6
+黑龙江卫视,http://iptv.yjxfz.com:80/tv/play/4/168447AJ56E016JN/J52I40IDE4439AE2$IPV4_源7
+黑龙江卫视,http://iptv.yjxfz.com:80/tv/play/4/I47979631ND04062/J52I40IDE4439AE2$IPV4_源8
+黑龙江卫视,http://iptv.yjxfz.com:80/tv/play/4/4D15E7EE81A60EIE/J52I40IDE4439AE2$IPV4_源9
+黑龙江卫视,http://iptv.yjxfz.com:80/tv/play/4/76365A61E6997J67/J52I40IDE4439AE2$IPV4_源10
+黑龙江卫视,http://iptv.yjxfz.com:80/tv/play/4/5JDA683I14N6D885/J52I40IDE4439AE2$IPV6_源1
+黑龙江卫视,http://iptv.yjxfz.com:80/tv/play/4/88J5N0D7DI6D11J0/J52I40IDE4439AE2$IPV6_源2
+黑龙江卫视,http://iptv.yjxfz.com:80/tv/play/4/JII8A29NNI745NDJ/J52I40IDE4439AE2$IPV6_源3
+黑龙江卫视,http://iptv.yjxfz.com:80/tv/play/4/A9A0544019DA3938/J52I40IDE4439AE2$IPV6_源4
+黑龙江卫视,http://iptv.yjxfz.com:80/tv/play/4/A70J087IE7E8D683/J52I40IDE4439AE2$IPV6_源5
