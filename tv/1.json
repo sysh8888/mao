@@ -49,6 +49,20 @@
             "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
       }
       },
+	
+	         {
+        "key": "csp_XBPQ_FOFO影院",
+        "name": "🌤┃FOFO影院┃XB",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "ext": { 
+            "分类url": "https://fofoyy.tv/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+            "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+      }
+      },
 	  {
         "key": "csp_XBPQ_那兔视频",
         "name": "🌤┃那兔影院┃XB",
@@ -122,26 +136,32 @@
 			}
 		}, 
 		{ "key": "荐片", "name": "🎬┃荐片┃影视", "api": "csp_Jianpian", 
-		"jar":"http://happy.xn--z7x900a.com/jar/PandaQ240805.jar;md5;7f69a60f49cba319a30896e6681c798a",
+		"jar":"http://1.95.79.193/PandaQ240908.jar;md5;bef2ec33400b610bb5f18ee90b427947",
 		"type": 3, "playerType": "2", "ext": "http://api2.rinhome.com" },
 		{ "key": "csp_LiteApple", "name": "🍎┃苹果┃影视", "type": 3, 
-		"jar":"http://happy.xn--z7x900a.com/jar/PandaQ240805.jar;md5;7f69a60f49cba319a30896e6681c798a",
+		"jar":"http://1.95.79.193/PandaQ240908.jar;md5;bef2ec33400b610bb5f18ee90b427947",
 		"playerType": "2", "api": "csp_LiteApple", "searchable": 1, "quickSearch": 1, "filterable": 1 }, 
 		{ "key": "nangua", "name": "🎃┃南瓜┃影视", "type": 3,
-"jar":"http://happy.xn--z7x900a.com/jar/PandaQ240805.jar;md5;7f69a60f49cba319a30896e6681c798a",
+"jar":"http://1.95.79.193/PandaQ240908.jar;md5;bef2ec33400b610bb5f18ee90b427947",
 		"playerType": "2", "api": "http://js.xn--z7x900a.com/js/ng_open.js" }, 
-{ "key": "csp_Panda_玩偶哥哥", "name": "👲┃玩偶┃扫码", "api": "csp_Wogg", "type": 3, "searchable": 1, "playerType": 2, "timeout": 30, "changeable": 0, "ext": "http://127.0.0.1:9978/file/fatcat/token.txt" },
-{ "key": "csp_Duopan", "name": "🖍︎┃蜡笔┃影视", "type": 3,
-"jar":"http://happy.xn--z7x900a.com/jar/PandaQ240805.jar;md5;7f69a60f49cba319a30896e6681c798a",
-"api": "csp_Duopan", "playerType": 2, "filterable": 1, "ext": "https://duopan.fun/" }, 
+{ "key": "csp_Panda_玩偶哥哥", "name": "👲┃玩偶┃扫码", "api": "csp_Wogg", "type": 3, "searchable": 1, "playerType": 2, "timeout": 30, "changeable": 0,
+"jar":"http://1.95.79.193/PandaQ240908.jar;md5;bef2ec33400b610bb5f18ee90b427947",
+"ext": "http://127.0.0.1:9978/file/fatcat/token.txt" },
+{ "key": "csp_Duopan", "name": "🖍︎┃蜡笔┃扫码", "type": 3,
+"jar":"http://1.95.79.193/PandaQ240908.jar;md5;bef2ec33400b610bb5f18ee90b427947",
+"api": "csp_Duopan", "playerType": 2, "filterable": 1, "ext": { "site_urls": [ "https://duopan.fun", "http://labipan.com", "https://mihdr.top" ] } }, 
 { "key": "新视觉", "name": "🐦┃视觉┃影视", "type": 3, 
-"jar":"http://happy.xn--z7x900a.com/jar/PandaQ240805.jar;md5;7f69a60f49cba319a30896e6681c798a",
+"jar":"http://1.95.79.193/PandaQ240908.jar;md5;bef2ec33400b610bb5f18ee90b427947",
 "api": "csp_Xinsj", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext":"https://www.3ayy.com" }, 
  { "key": "config", "name": "🐼┃配置┃中心", "type": 3, 
- "jar":"http://happy.xn--z7x900a.com/jar/PandaQ240805.jar;md5;7f69a60f49cba319a30896e6681c798a",
+"jar":"http://1.95.79.193/PandaQ240908.jar;md5;bef2ec33400b610bb5f18ee90b427947",
  "api": "csp_Config", "playerType": 2 },
 		{"key": "XBPQ_麻衣影院","name":"🌤┃麻衣影院|XB","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 			"ext": {"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"}
+		},
+		{"key": "XBPQ_酷云影视","name":"🌤┃酷云影院|XB","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+			"ext": {"分类url":"https://sc1080.top/index.php/vod/show/id/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
+			"分类":"电影$1#电视剧$2#动漫$4#综艺$3"}
 		},
 		{"key": "XBPQ_耐看影院","name":"🌤┃耐看影院|XB","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 			"ext": {"简介":"请勿相信影片中的广告，以免上当受骗。+line-height: 20px;\"><p>&&</p>",
