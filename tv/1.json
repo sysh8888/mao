@@ -398,7 +398,15 @@
           "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
           "ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/tv/js/js/瓜子影视.js"
       },
-
+		    {
+          "key": "KIMI",
+          "name": "🎬┃kimi┃JS",
+          "type": 3,
+		        "searchable": 1,
+      "quickSearch": 1,
+          "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
+          "ext": "./js/js/kimi.js"
+      },
 	  	    {
           "key": "泥视频",
           "name": "🎬┃泥视频┃JS",
