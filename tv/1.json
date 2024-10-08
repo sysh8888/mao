@@ -198,6 +198,9 @@
 { "key": "csp_Duopan", "name": "🖍︎┃蜡笔┃扫码", "type": 3,
 "jar":"http://1.95.79.193/PandaQ240908.jar;md5;bef2ec33400b610bb5f18ee90b427947",
 "api": "csp_Duopan", "playerType": 2, "filterable": 1, "ext": { "site_urls": [ "https://duopan.fun", "http://labipan.com", "https://mihdr.top" ] } }, 
+ {"key":"csp_多多","name":"🖍︎┃多多┃扫码",
+ "jar":"http://1.95.79.193/PandaQ240908.jar;md5;bef2ec33400b610bb5f18ee90b427947",
+ "type":3,"api":"csp_Duopan","playerType":2,"filterable":1,"ext":{ "site_urls": ["https://tv.yydsys.top/"] } }, 
  { "key": "config", "name": "🐼┃配置┃中心", "type": 3, 
 "jar":"http://1.95.79.193/PandaQ240908.jar;md5;bef2ec33400b610bb5f18ee90b427947",
  "api": "csp_Config", "playerType": 2 },
@@ -324,6 +327,7 @@
                 "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$34"
             }
         },
+
 					 {
             "key": "csp_XBPQ_4KAV",
             "name": "🌟┃4K┃XB",
