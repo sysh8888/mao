@@ -46,6 +46,7 @@
             "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
       }
       },
+
 	  {
         "key": "csp_XBPQ_那兔视频",
         "name": "🌤┃那兔影院┃XB",
@@ -105,13 +106,13 @@
   "分类url": "https://www.subaibaiys.com/{cateId}/page/{catePg}",
   "数组": "<li>&&</li>",
   "副标题": "class=\"jidi\"><span>&&</span>",
-  "搜索模式": "1",
-  "搜索url": "/search?q={wd}",
-  "搜索数组": "<li>&&</li>",
-  "搜索图片": "data-original=\"&&\"",
-  "搜索标题": "alt=\"&&\"",
-  "搜索副标题": "jidi\"><span>&&</span>",
-  "搜索链接": "href=\"&&\"",
+"搜索模式": "1",
+            "搜索url": "/search?q={wd}",
+            "搜索数组": "<li>&&</li>",
+            "搜索图片": "data-original=\"&&\"",
+            "搜索标题": "alt=\"&&\"",
+            "搜索副标题": "jidi\"><span>&&</span>",
+            "搜索链接": "href=\"&&\"",
   "影片年代": "年份：&&</li>",
   "影片地区": "地区：&&</li>",
   "影片类型": "类型：&&</li>",
@@ -189,9 +190,6 @@
 		{ "key": "csp_LiteApple", "name": "🍎┃苹果┃影视", "type": 3, 
 		"jar":"http://1.95.79.193/PandaQ240908.jar;md5;bef2ec33400b610bb5f18ee90b427947",
 		"playerType": "2", "api": "csp_LiteApple", "searchable": 1, "quickSearch": 1, "filterable": 1 }, 
-		{ "key": "nangua", "name": "🎃┃南瓜┃影视", "type": 3,
-"jar":"http://1.95.79.193/PandaQ240908.jar;md5;bef2ec33400b610bb5f18ee90b427947",
-		"playerType": "2", "api": "http://js.xn--z7x900a.com/js/ng_open.js" }, 
 { "key": "csp_Panda_玩偶哥哥", "name": "👲┃玩偶┃扫码", "api": "csp_Wogg", "type": 3, "searchable": 1, "playerType": 2, "timeout": 30, "changeable": 0,
 "jar":"http://1.95.79.193/PandaQ240908.jar;md5;bef2ec33400b610bb5f18ee90b427947",
 "ext": "http://wogg.xxooo.cf/" },
@@ -327,42 +325,6 @@
                 "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$34"
             }
         },
-
-					 {
-            "key": "csp_XBPQ_4KAV",
-            "name": "🌟┃4K┃XB",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {"嗅探词": ".m3u8#.mp4",
-				"分类url": "https://4k-av.com/{cateId}{class}/page-{catePg}.html",
-				"分类": "电影&剧集",
-				"分类值": "movie&tv",
-				"数组": "tags\">&&</a>",
-				"标题": "alt=\"&&海报",
-				"图片": "src=\"&&\"",
-				"副标题": "标签:&&</label>",
-				"链接": "href=\"&&\"",
-				"影片年代": "年份:&&</a>",
-				"影片地区": "片长:&&</label>",
-				"影片类型": "标签:&&</div>",
-				"状态": "videodetail\">&&</label>",
-				"简介": "cnline\">&&</p>",
-				"播放二次截取": "infomain\">&&reidnull[替换:href>>rtlist\"><img<span>第1集</span>src#poster.jpg>>\"</li></ul>]",
-				"播放数组": "rtlist\">&&</ul>",
-				"播放列表": "<img&&</li>[替换:screenshot.jpg>>空]",
-				"播放标题": "<span*>&&</span>",
-				"播放链接": "src=\"&&\"",
-				"搜索url": "/s?q={wd}",
-				"搜索模式": "1",
-				"搜索标题": "title=\"&&/",
-				"搜索图片": "src=\"&&\"",
-				"搜索副标题": "标签:&&</label>",
-				"搜索链接": "href=\"&&\""
-            }
-        },
 		  {
       "key": "csp_xbpq_qx",
       "name": "🌤┃七喜|XB",
@@ -390,22 +352,13 @@
       }
     },
 		    {
-          "key": "瓜子影视",
-          "name": "🎬┃瓜子┃JS",
-          "type": 3,
-		        "searchable": 1,
-      "quickSearch": 1,
-          "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
-          "ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/tv/js/js/瓜子影视.js"
-      },
-		    {
           "key": "KIMI",
           "name": "🎬┃kimi┃JS",
           "type": 3,
 		        "searchable": 1,
       "quickSearch": 1,
           "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
-          "ext": "./js/js/kimi.js"
+          "ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/tv/js/js/kimi.js"
       },
 	  	    {
           "key": "泥视频",
@@ -423,7 +376,7 @@
 		"searchable": 1,
       "quickSearch": 1,
           "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
-          "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/ddys.js"
+          "ext": "https://fastly.jsdelivr.net/gh/xiaoqiapi/yingshi/lib/diduan.js"
       }, 
 	  	{
 	"key": "hipy_js_fxzcz2",
@@ -432,7 +385,16 @@
       "quickSearch": 1,
 	"type": 3,
          "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
-	"ext": "./js/js/cz.js"
+	"ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/tv/js/js/厂长.js"
+},
+	  	{
+	"key": "hipy_js_南瓜",
+	"name": "💖┃南瓜┃JS",
+	 "searchable": 1,
+      "quickSearch": 1,
+	"type": 3,
+         "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
+	"ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/tv/js/js/南瓜.js"
 },
 	    {
       "key": "csp_XBPQ_韩剧7",
@@ -466,6 +428,19 @@
       "搜索链接": "href=\"&&\""
      }
     }, 
+		  	         {
+        "key": "csp_XBPQ_黑墙影视",
+        "name": "🌤┃黑墙影视┃XB",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "ext": { 
+            "分类url": "https://blackwallvideo.online/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+            "分类": "电影$100#电视剧$200#综艺$500#动漫$300"
+      }
+      },
     {
       "key": "csp_XBPQ_4kjuyuan",
       "name": "💫┃4K剧院┃XB",
@@ -589,7 +564,7 @@
         },
 		        {
             "key": "csp_XBPQ_即看影视",
-            "name": "3⃣️即看┃超清┃XB",
+            "name": "既看┃超清┃XB",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -629,6 +604,36 @@
                 "分类": "电影$1#连续剧$2#动漫$4#综艺$3#儿童$58#短剧$53"
             }
         },
+    {
+      "key": "超前点播",
+      "name": "🥀超前|XB",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+            "主页url": "https://bzhanyy.com/",
+            "简介": "<div class=\"summary detailsTxt\"*>&&<div",
+            "导演": "暂无",
+            "主演": "演员：&&</p>",
+            "影片状态": "状态：&&</p>",
+            "影片类型": "scroll-content\">-->&&<!--</div>-->[替换:-->>空]",
+            "数组": "_top\"&&</a>",
+            "标题": "title=*>&&</div>",
+            "副标题": "movie-rating cor4\">&&</div>",
+            "搜索模式": "1",
+            "搜索url": "/index.php/vod/search.html?wd={wd}",
+            "搜索数组": "_top\"&&/div></div><div",
+            "搜索标题": "title=*>&&</div>",
+            "搜索图片": "data-original=\"&&\"",
+            "搜索副标题": "movie-rating cor4\">&&<",
+            "线路数组": "titleName cr3&&/a>",
+            "线路标题": "+>&&<",
+            "分类url": "https://bzhanyy.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html;;ak",
+            "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+    }
+    },
 		        {
             "key": "csp_XBPQ_文采",
             "name": "🧿文采┃xb",
