@@ -396,6 +396,24 @@
          "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
 	"ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/tv/js/js/南瓜.js"
 },
+	  	{
+	"key": "hipy_js_喵物次元",
+	"name": "💖┃喵物动漫┃JS",
+	 "searchable": 1,
+      "quickSearch": 1,
+	"type": 3,
+         "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
+	"ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/tv/js/js/喵物次元.js"
+},
+	  	{
+	"key": "hipy_js_迅雷8",
+	"name": "💖┃迅雷8[BT]┃JS",
+	 "searchable": 1,
+      "quickSearch": 1,
+	"type": 3,
+         "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
+	"ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/tv/js/js/迅雷8.js"
+},
 	    {
       "key": "csp_XBPQ_韩剧7",
       "name": "💫┃韩剧网┃XB",
