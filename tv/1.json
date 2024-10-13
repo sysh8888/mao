@@ -348,7 +348,7 @@
           "type": 3,
 		        "searchable": 1,
       "quickSearch": 1,
-          "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
+          "api": "https://gitee.com/lujun189/ceshi/raw/master/1/libs/drpy2.min.js",
           "ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/tv/js/js/kimi.js"
       },
 	  	    {
@@ -357,7 +357,7 @@
           "type": 3,
 	"searchable": 1,
       "quickSearch": 1,
-          "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
+          "api": "https://gitee.com/lujun189/ceshi/raw/master/1/libs/drpy2.min.js",
           "ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/tv/js/js/泥视频.js"
       }, 
 	    {
@@ -366,7 +366,7 @@
           "type": 3,
 		"searchable": 1,
       "quickSearch": 1,
-          "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
+          "api": "https://gitee.com/lujun189/ceshi/raw/master/1/libs/drpy2.min.js",
           "ext": "https://fastly.jsdelivr.net/gh/xiaoqiapi/yingshi/lib/diduan.js"
       }, 
 	  	{
@@ -375,7 +375,7 @@
 	 "searchable": 1,
       "quickSearch": 1,
 	"type": 3,
-         "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
+         "api": "https://gitee.com/lujun189/ceshi/raw/master/1/libs/drpy2.min.js",
 	"ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/tv/js/js/厂长.js"
 },
 	  	{
@@ -384,7 +384,7 @@
 	 "searchable": 1,
       "quickSearch": 1,
 	"type": 3,
-         "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
+         "api": "https://gitee.com/lujun189/ceshi/raw/master/1/libs/drpy2.min.js",
 	"ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/tv/js/js/南瓜.js"
 },
 	  	{
@@ -393,7 +393,7 @@
 	 "searchable": 1,
       "quickSearch": 1,
 	"type": 3,
-         "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
+         "api": "https://gitee.com/lujun189/ceshi/raw/master/1/libs/drpy2.min.js",
 	"ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/tv/js/js/喵物次元.js"
 },
 	  	{
@@ -402,7 +402,7 @@
 	 "searchable": 1,
       "quickSearch": 1,
 	"type": 3,
-         "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
+         "api": "https://gitee.com/lujun189/ceshi/raw/master/1/libs/drpy2.min.js",
 	"ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/tv/js/js/天龙.js"
 },
 	    {
@@ -740,10 +740,10 @@
               }
           },
 		  {"key":"drpy_js_磁力熊","name":"⛳┃磁力熊┃JS","type":3,
-		   "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
+		   "api": "https://gitee.com/lujun189/ceshi/raw/master/1/libs/drpy2.min.js",
 		  "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/磁力熊%5B磁%5D.js",
 		  "quickSearch":1, "changeable":1, "timeout":60},
-
+{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"https://gitee.com/lujun189/ceshi/raw/master/1/libs/alist.min.js","ext":"https://raw.liucn.cc/box/libs/js/alist.json"},
       { "key":"zy_360","name":"🐧┃360┃采集","type":1,"api":"https://360zy.com/api.php/provide/vod/", "playUrl": "", "searchable": 1,"quickSearch": 1, "filterable":1 }
     ],
      "parses": [
