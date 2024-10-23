@@ -345,11 +345,6 @@ Y+剧场,http://[2409:8087:2813:20:300::11]/hwltc.tv.cdn.zj.chinamobile.com/PLTV
 农业致富,http://[2409:8087:2813:20:100::33]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236233/1/index.m3u8
 金牌综艺,http://[2409:8087:2813:20:100::1f]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236282/1/index.m3u8
 精品体育,http://[2409:8087:2813:20:100::38]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236300/1/index.m3u8
-欢笑剧场4K,http://[2409:8087:2813:20:300::1a]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230782/1/index.m3u8?fmt=ts2hls
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-CCTV4K,http://[2409:8087:2813:20:100::28]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/index.m3u8?fmt=ts2hls
-CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-求索4K,http://[2409:8087:2813:20:100::26]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232776/1/index.m3u8?fmt=ts2hls
 3D,http://[2409:8087:2813:20:100::11]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228578/1/index.m3u8?fmt=ts2hls
 CCTV1,http://[2409:8087:2813:20:300::19]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/42329859.smil/index.m3u8?fmt=ts2hls&laiyuan=浙江
 CCTV1,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -492,11 +487,28 @@ CETV-4,http://[2409:8087:2800:20::20]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888
 爱动漫,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
 劲爆体育,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
 哒啵电竞,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281
+🏰4k超高清,#genre#
+欢笑剧场4K,http://[2409:8087:2813:20:300::1a]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230782/1/index.m3u8?fmt=ts2hls
+CCTV4K,http://[2409:8087:2813:20:100::28]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/index.m3u8?fmt=ts2hls
+CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+求索4K,http://[2409:8087:2813:20:100::26]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232776/1/index.m3u8?fmt=ts2hls
+4KUHD,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
+4KUHD,http://gslbservzqhsw.itv.cmvideo.cn/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
+FASHION 4K,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
+FASHION 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+CCTV16 4K,http://gslbservzqhsw.itv.cmvideo.cn/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
+CCTV16 4K,http://60.178.149.113:4022/udp/233.50.201.63:5140
+LOVE 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8?blog.ntnas.top
+北京纪实科教 8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 🏰影视娱乐(测试),#genre#
 经典小品,http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 音乐轮播,http://tc-tct.douyucdn2.cn/dyliveflv3/17732rtara.flv?wsAuth=444b28368bc6cf374a8f22734242cdec&token=cpn-androidmpro-0-17732-2c028a7d8b69ac4c6a43608933105351f464f9543343a70c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=f73077d85e523eb95b6ce1ea3581b46b&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18db3c111c4e3c14350afd2dcaf43d0ef60&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 第五人格,http://tc-tct.douyucdn2.cn/dyliveflv1a/3226194r73pCQamR_2000.flv?wsAuth=50ba16bb9998ec281101f2a5d8975be6&token=cpn-androidmpro-0-3226194-1c055b38aa29e2877292a9ffa392a948c894567c5e4b79ff&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
+CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
+CHC动作电影,http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
+CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
 冰冰电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=74374
 冰冰电影,http://159.75.85.63:35455/douyu/74374
 冰冰电影,http://www.goodiptv.club/douyu/74374
@@ -716,3 +728,65 @@ CETV-4,http://[2409:8087:2800:20::20]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888
 黑莓电影,http://iptv.yjxfz.com:80/tv/play/4/43J2538591AD1J95/J52I40IDE4439AE2$IPV6_源3
 黑莓电影,http://iptv.yjxfz.com:80/tv/play/4/1551804J11AE1EA0/J52I40IDE4439AE2$IPV6_源4
 黑莓电影,http://iptv.yjxfz.com:80/tv/play/4/15A9DA9310D49587/J52I40IDE4439AE2$IPV6_源5
+国内惊悚,http://allinone.netsite.cc/douyu/218859
+国外惊悚,http://allinone.netsite.cc/douyu/96577
+斗鱼电影1,http://allinone.netsite.cc/douyu/747764
+斗鱼电影2,http://allinone.netsite.cc/douyu/6140589
+斗鱼电影3,http://allinone.netsite.cc/douyu/36337
+斗鱼电影5,http://allinone.netsite.cc/douyu/323876
+榜单电影,http://allinone.netsite.cc/douyu/8770422
+电影_星爷,http://cfss.cc/cdn/hy/11342412.flv
+电影_英叔,http://cfss.cc/cdn/hy/11342421.flv
+电影_发哥,http://cfss.cc/cdn/hy/11342387.flv
+电影_成龙,http://cfss.cc/cdn/hy/11342386.flv
+电影_王晶,http://cfss.cc/cdn/hy/11602058.flv
+电影_沈腾,http://cfss.cc/cdn/hy/11601968.flv
+电影_黄渤,http://cfss.cc/cdn/hy/11352876.flv
+电影_强森,http://cfss.cc/cdn/hy/21059581.flv
+电影_漫威,http://cfss.cc/cdn/hy/11602034.flv
+电影_宇宙,http://cfss.cc/cdn/hy/11342428.flv
+电影_怪兽,http://cfss.cc/cdn/hy/21059577.flv
+电影_贺岁,http://cfss.cc/cdn/hy/11601971.flv
+电影_玄幻,http://cfss.cc/cdn/hy/11342414.flv
+电影_谍战,http://cfss.cc/cdn/hy/21059585.flv
+电影_战争,http://cfss.cc/cdn/hy/21059592.flv
+电影_喜剧,http://cfss.cc/cdn/hy/11352877.flv
+电影_港片,http://cfss.cc/cdn/hy/11602043.flv
+电影_国产,http://cfss.cc/cdn/hy/11352973.flv
+电影_周星星,http://cfss.cc/cdn/hy/11336587.flv
+电影_李连杰,http://cfss.cc/cdn/hy/11342390.flv
+电影_洪金宝,http://cfss.cc/cdn/hy/11279251.flv
+电影_梁家辉,http://cfss.cc/cdn/hy/11342429.flv
+电影_许冠英,http://cfss.cc/cdn/hy/11601972.flv
+电影_刘德华,http://cfss.cc/cdn/hy/11342424.flv
+电影_斯坦森,http://cfss.cc/cdn/hy/21059588.flv
+电影_蜘蛛侠,http://cfss.cc/cdn/hy/21059599.flv
+电影_贺岁片,http://cfss.cc/cdn/hy/11601986.flv
+电影_功夫片,http://cfss.cc/cdn/hy/11352941.flv
+电影_黑帮片,http://cfss.cc/cdn/hy/11336719.flv
+电影_丧尸片,http://cfss.cc/cdn/hy/21059578.flv
+电影_灾难片,http://cfss.cc/cdn/hy/11602075.flv
+电影_谍战片,http://cfss.cc/cdn/hy/21059587.flv
+电影_战争片,http://cfss.cc/cdn/hy/21059574.flv
+电影_古装片,http://cfss.cc/cdn/hy/11336590.flv
+电影_高分动作,http://cfss.cc/cdn/hy/11352884.flv
+电影_动作电影,http://cfss.cc/cdn/hy/11602077.flv
+电影_搞笑喜剧,http://cfss.cc/cdn/hy/11342423.flv
+电影_喜剧专场,http://cfss.cc/cdn/hy/11602044.flv
+电影_欢笑影院,http://cfss.cc/cdn/hy/11352894.flv
+电影_不挤影院,http://cfss.cc/cdn/hy/11352897.flv
+电影_国产悬疑,http://cfss.cc/cdn/hy/11342395.flv
+电影_快意江湖,http://cfss.cc/cdn/hy/11342435.flv
+电影_黑帮斗争,http://cfss.cc/cdn/hy/11342419.flv
+电影_古墓系列,http://cfss.cc/cdn/hy/11352913.flv
+电影_嫣然影厅,http://cfss.cc/cdn/hy/11601977.flv
+电影_女神系列,http://cfss.cc/cdn/hy/11336571.flv
+电影_经典女神,http://cfss.cc/cdn/hy/11352909.flv
+电影_经典港片,http://cfss.cc/cdn/hy/11352965.flv
+电影_喜乐影院,http://cfss.cc/cdn/hy/21059580.flv
+电影_蘑菇影厅,http://cfss.cc/cdn/hy/11601981.flv
+电影_搞笑恐怖,http://cfss.cc/cdn/hy/11601960.flv
+电影_死神来了,http://cfss.cc/cdn/hy/11352903.flv
+电影_变形金刚,http://cfss.cc/cdn/hy/21059596.flv
+电影_怪兽系列,http://cfss.cc/cdn/hy/21059554.flv
+搞笑_陈翔六点半,http://cfss.cc/cdn/hy/11274154.flv
