@@ -1,6 +1,6 @@
 var rule = {
   title: 'KimiVod',
-  host: 'https://kimivod.com/vod/show/id/2/page/2.html',
+  host: 'https://kimivod.com',
   url: '/vod/show/id/fyclass/page/fypage.html',
   searchUrl: '/vodsearch.html?wd=**',
   searchable: 2,quickSearch: 0,filterable: 0,
@@ -12,8 +12,8 @@ class_url: '2&1&4&3&39&6&7&8&9&10&11&12&26&32&22&23&24&25&21&20&13&14&15&16&28&2
   let html=request(input);
   input=html.match(/vid\s*=\s*["'](.*?)["']/)[1];
   `,
-  推荐: '*',
-  一级: '.grid .s6.m3;a&&title;img&&data-src;.white-text.small-text&&Text;a&&href',
+  推荐:'*',
+  一级: '.grid.container_list .s6;a&&title;img&&data-src;.white-text.small-text&&Text;a&&href',
   二级: {
     title: 'h1&&Text',
     img: 'img&&data-src',
@@ -22,5 +22,5 @@ class_url: '2&1&4&3&39&6&7&8&9&10&11&12&26&32&22&23&24&25&21&20&13&14&15&16&28&2
     tabs: '.tabs span',
     lists: '.playno:eq(#id) a'
   },
-  搜索: '*',
+  搜索:'.thumb;.title&&Text;.myui-vodlist__thumb&&data-original;.text-right&&Text;.myui-vodlist__thumb&&href;.pic-tag-top&&Text',
 }
