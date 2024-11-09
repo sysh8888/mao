@@ -263,6 +263,18 @@
 	"ext": "https://gitee.com/lujun189/ceshi/raw/master/1/js/%E7%95%85%E6%A2%A6%5B%E4%BC%98%5D.js"
 },
 	    {
+      "key": "csp_XBPQ_火车太堵",
+      "name": "💫┃火车太堵┃XB",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {"分类":"电影$20#电视剧$21#动漫$22#综艺$23#短剧$24",
+	  "分类url": "https://dylstv.com/vod/show/id/{cateId}/page/{catePg}.html"
+     }
+    }, 
+	    {
       "key": "csp_XBPQ_韩剧7",
       "name": "💫┃韩剧网┃XB",
       "type": 3,
