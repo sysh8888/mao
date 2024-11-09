@@ -29,7 +29,7 @@ var rule = {
         tab_text:'.source-item-label:eq(1)&&Text',
         lists: '.episode-list:eq(#id) a',
     },
-    搜索: '.search-result-list&&a;.title&&Text;*;.search-result-item-header&&Text;a&&href;.desc&&Text',
+    搜索: '.search-result-item;.search-result-item-main&&.title:eq(1)&&Text;*;.tags&&span:eq(-1)&&Text;.search-result-item&&href;.desc&&Text',
     图片替换: 'https://www.ncat1.app=>https://vres.miximixi.me',
     预处理: $js.toString(() => {
         let html = request(rule.host);
