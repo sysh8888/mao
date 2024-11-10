@@ -22,5 +22,5 @@ class_url: '2&1&4&3&39&6&7&8&9&10&11&12&26&32&22&23&24&25&21&20&13&14&15&16&28&2
     tabs: '.tabs span',
     lists: '.playno:eq(#id) a'
   },
-  搜索:'.thumb;.title&&Text;.myui-vodlist__thumb&&data-original;.text-right&&Text;.myui-vodlist__thumb&&href;.pic-tag-top&&Text',
+  搜索:'.thumb;a&&title;.myui-vodlist__thumb&&data-original;.text-right&&Text;.myui-vodlist__thumb&&href;.pic-tag-top&&Text',
 }
