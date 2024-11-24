@@ -84,28 +84,18 @@
 			}
 		},
 		{
-			"key": "csp_XBPQ_好看的",
-			"name": "🌤┃好看的┃XB",
+			"key": "csp_XBPQ_03影院",
+			"name": "🌤┃03影院┃XB",
 			"type": 3,
 			"api": "csp_XBPQ",
 			 "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-			"ext": {"请求头": "手机",
-				"发布页": "https://www.nmdvd.com/",
-				"二次截取": "</i>海报</a></h4></div>&&<div class=\"footer",
-				"数组": "<li>&&</li>",
+			"ext": {
+				"数组": "m-pic-l pic-height-a&&</h4>",
 				"图片": "src=\"&&\"",
-				"标题": "title=\"&&\"",
-				"副标题": "<font>&&</font>",
-				"搜索url": "https://www.wwgz.cn/vod-search-pg-{pg}-wd-{wd}.html",
-				"搜索二次截取": "</i>海报</a></h4></div>&&<div class=\"footer",
-				"搜索数组": "<li>&&</li>",
-				"搜索图片": "src=\"&&\"",
-				"搜索标题": "title=\"&&\"",
-				"搜索副标题": "<font>&&</font>",
-				"分类url": "https://www.wwgz.cn/vod-type-id-{cateId}-pg-{catePg}.html",
-				"分类": "电影$1#电视剧$2#综艺$3#动漫$4#记录$26"
+				"分类url": "https://www.03yy.live/type/index{cateId}-{catePg}.html",
+				"分类": "电影$1#电视剧$2#综艺$3#动漫$4"
 			}
 		},
 		{
