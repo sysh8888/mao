@@ -12,28 +12,14 @@
 		"logo": "http://diyp4.112114.xyz/logo/{name}.png"
 	}],
 	"sites": [{
-			"key": "csp_XBPQ_虎牙.",
-			"name": "🌤┃直播┃虎牙",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": {
-				"嗅探词": ".m3u8#.mp4#.flv#.mp3#.m4a",
-				"直接播放": "1",
-				"请求头": "手机",
-				"分类": "电影$2067#动画$6861#综艺$1011#古装$4201#TVB$4061#悬疑$2087#军旅$2083#搞笑$2085#都市$2089",
-				"分类url": "https://live.huya.com/liveHttpUI/getTmpLiveList?iTmpId={cateId}&iPageNo=1&iPageSize=120&iLibId=2227&iGid=2135",
-				"数组": "vList[]",
-				"图片": "sScreenshot",
-				"标题": "sRoomName",
-				"副标题": "sNick",
-				"链接": "lProfileRoom",
-				"播放请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/60",
-				"链接前缀": "http://m.huya.com/"
-			}
-		},
+				"key": "hipy_js_豆瓣",
+				"name": "💖┃豆瓣[搜索]┃JS",
+				"searchable": 1,
+				"quickSearch": 1,
+				"type": 3,
+				"api": "https://gitee.com/lujun189/ceshi/raw/master/1/libs/drpy2.min.js",
+				"ext": "https://gitee.com/lujun189/ceshi/raw/master/1/js/%E8%B1%86%E7%93%A3.js"
+			},
 		{
 			"key": "csp_XBPQ_FOFO影院",
 			"name": "🌤┃FOFO影院┃XB",
@@ -150,7 +136,7 @@
 				"key": "配置",
 				"name": "⚙️网盘┃配置4K扫码",
 				"type": 3,
-				"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732155296962/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23",
+				"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734155068522/1214wudi.jar;md5;e3373285325c90d62408e42710d8d066",
 				 "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
@@ -160,7 +146,7 @@
 				"key": "csp_LiteApple",
 				"name": "🍎苹果┃JAR",
 				"type": 3,
-				"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732155296962/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23",
+				"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734155068522/1214wudi.jar;md5;e3373285325c90d62408e42710d8d066",
 				"searchable": 1,
 				"changeable": 1,
 				"api": "csp_LiteApple",
@@ -173,50 +159,71 @@
 				"name": "🧸玩偶4K┃扫码",
 				"api": "csp_Wogg",
 				"type": 3,
-				"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732155296962/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23",
+				"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734155068522/1214wudi.jar;md5;e3373285325c90d62408e42710d8d066",
 				 "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
 				"playerType": 2,
 				"timeout": 30,
 				"changeable": 0,
-				"ext": {
-					"site_urls": [
-						"https://wogg.xxooo.cf/",
-						"https://www.wogg.bf/",
-						"https://www.wogg.net/"
-					]
+			"ext": {
+				"site_urls": [
+					"http://woggpan.333232.xyz/",
+					"http://wogg.xxooo.cf/",
+					"http://woggapi.888484.xyz/",
+					"http://www.wogg.net"
+				],
+				"threadinfo": {
+					"chunksize": 450,
+					"threads": 10
 				}
-			},
+			}
+		},
 			{
 				"key": "csp_zhizhen",
 				"name": "🌹至臻4K┃扫码",
 				"type": 3,
 				"api": "csp_Duopan",
-				"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732155296962/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23",
+				"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734155068522/1214wudi.jar;md5;e3373285325c90d62408e42710d8d066",
 				"changeable": 0,
 				 "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
 				"ext": {
-					"site_urls": [
-						"http://mpanso.com",
-						"http://mihdr.top"
-					]
+				"site_urls": [
+					"https://mihdr.top",
+					"http://www.xhww.net",
+					"http://xhww.net",
+					"https://xiaomiai.site"
+				],
+				"url_key": "Duopan",
+				"threadinfo": {
+					"chunksize": 250,
+					"threads": 10
 				}
-			},
+			}
+		},
 			    {
       "key": "csp_xiaomi",
       "name": "🌹UC网盘┃扫码4K",
       "type": 3,
-      "api": "csp_Duopan",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732155296962/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23",
-				"changeable": 0,
-				 "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-      "ext": "http://www.mucpan.cc"
-    },
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734155068522/1214wudi.jar;md5;e3373285325c90d62408e42710d8d066",
+"api": "csp_MiUc",
+			"changeable": 0,
+			"filterable": 1,
+			"ext": {
+				"site_urls": [
+					"http://www.mucpan.cc",
+					"http://ucmi.fun",
+					"http://www.ucmi.fun"
+				],
+				"url_key": "MiUc",
+				"threadinfo": {
+					"chunksize": 450,
+					"threads": 10
+				}
+			}
+		},
 			{
 				"key": "米搜",
 				"name": "🌾米搜┃扫码4K",
@@ -224,7 +231,7 @@
 				 "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-				"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732155296962/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23",
+				"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734155068522/1214wudi.jar;md5;e3373285325c90d62408e42710d8d066",
 				"api": "csp_MiSou",
 				"changeable": 0
 			},
@@ -238,6 +245,30 @@
 				"filterable": 1,
 				"ext": "https://gitee.com/lujun189/ceshi/raw/master/1/js/%E5%8F%AF%E5%8F%AF.js"
 			},
+					{
+			"key": "guoguo",
+			"name": "🥭芒果4K┃JS",
+			"type": 3,
+			"api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"changeable": 0,
+			"ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
+		},
+				{
+			"key": "hipy_js_腾云驾雾[官]",
+			"name": "🐧腾讯1080P┃JS",
+			"type": 3,
+			"api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"changeable": 0,
+			"ext": "https://gitee.com/smallmi1007/mimi/raw/master/tm.js"
+		},
 			{
 				"key": "csp_xbpq_qx",
 				"name": "🌤┃七喜|XB",
@@ -376,6 +407,15 @@
 				"filterable": 1,
 				"order_num": 0,
 				"ext": "http://js.xn--z7x900a.com/js/ddys.js"
+			},
+			{
+				"key": "JS_360",
+				"name": "🎬┃360官方[解析]┃JS",
+				"type": 3,
+				"searchable": 1,
+				"quickSearch": 1,
+				"api": "https://gitee.com/lujun189/ceshi/raw/master/1/libs/drpy2.min.js",
+				"ext": "https://gitee.com/lujun189/ceshi/raw/master/1/js/360.js"
 			},
 			{
 				"key": "csp_XBPQ_火车太堵",
@@ -713,6 +753,64 @@
 				"type": 3,
 				"url": "Web"
 			},
+			{
+			"name": "解析1",
+			"type": 1,
+			"url": "https://www.mpanso.com/muou/qilin.php?url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"优酷",
+					"sohu",
+					"搜狐",
+					"letv",
+					"乐视",
+					"mgtv",
+					"芒果",
+					"tnmb",
+					"seven",
+					"bilibili",
+					"1905"
+				],
+				"header": {
+					"User-Agent": "okhttp/4.9.1"
+				}
+			}
+		},
+		{
+			"name": "1080解析",
+			"type": 1,
+			"url": "https://zy.qiaoji8.com/gouzi.php?url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"优酷",
+					"sohu",
+					"搜狐",
+					"letv",
+					"乐视",
+					"mgtv",
+					"芒果",
+					"tnmb",
+					"seven",
+					"bilibili",
+					"1905"
+				],
+				"header": {
+					"User-Agent": "okhttp/4.9.1"
+				}
+			}
+		},
 			{
 				"name": "解析",
 				"type": 0,
