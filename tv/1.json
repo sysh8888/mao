@@ -56,20 +56,6 @@
         },
 
 		{
-			"key": "csp_XBPQ_大鱼",
-			"name": "🌤┃大鱼影院┃XB",
-			"type": 3,
-			"api": "csp_XBPQ",
-			 "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-			"ext": {
-				"简介": "description\" content=\"&&\"",
-				"分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$20",
-				"分类url": "https://dayuya.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"
-			}
-		},
-		{
 			"key": "csp_XBPQ_03影院",
 			"name": "🌤┃03影院┃XB",
 			"type": 3,
@@ -224,6 +210,25 @@
 				}
 			}
 		},
+					    {
+      "key": "csp_闪电UC",
+      "name": "🌹UC闪电┃扫码4K",
+      "type": 3,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734155068522/1214wudi.jar;md5;e3373285325c90d62408e42710d8d066",
+"api": "csp_MiUc",
+			"changeable": 0,
+			"filterable": 1,
+			"ext": {
+				"site_urls": [
+					"http://feimaouc.cloud:666", "http://feimao.tech:666"
+				],
+				"url_key": "MiUc",
+				"threadinfo": {
+					"chunksize": 450,
+					"threads": 10
+				}
+			}
+		},
 			{
 				"key": "米搜",
 				"name": "🌾米搜┃扫码4K",
@@ -235,6 +240,15 @@
 				"api": "csp_MiSou",
 				"changeable": 0
 			},
+				{
+			"key": "csp_SuBaiBai",
+			"name": "☁️白白┃1080P",
+			"type": 3,
+			"api": "csp_SuBaiBai",
+			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734155068522/1214wudi.jar;md5;e3373285325c90d62408e42710d8d066",
+			"playerType": 2,
+			"ext": "https://subaibai.com/"
+		},
 			{
 				"key": "XBPQ_可乐影视",
 				"name": "🌼可乐影视┃JS",
@@ -245,6 +259,7 @@
 				"filterable": 1,
 				"ext": "https://gitee.com/lujun189/ceshi/raw/master/1/js/%E5%8F%AF%E5%8F%AF.js"
 			},
+		
 					{
 			"key": "guoguo",
 			"name": "🥭芒果4K┃JS",
@@ -347,15 +362,6 @@
 				"type": 3,
 				"api": "https://gitee.com/lujun189/ceshi/raw/master/1/libs/drpy2.min.js",
 				"ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/tv/js/js/厂长.js"
-			},
-			{
-				"key": "hipy_js_南瓜",
-				"name": "💖┃南瓜┃JS",
-				"searchable": 1,
-				"quickSearch": 1,
-				"type": 3,
-				"api": "https://gitee.com/lujun189/ceshi/raw/master/1/libs/drpy2.min.js",
-				"ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/tv/js/js/南瓜.js"
 			},
 			{
 				"key": "hipy_js_熊猫",
@@ -635,7 +641,20 @@
 					"分类": "国产$guochan#韩剧$hanju#港剧$gangju#美剧$meiju#日剧$riju#台剧$taibei#泰剧$taiju#短剧$duanju#动作片$dongzuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#战争片$zhanzheng#剧情片$juqing#动漫$dongman#综艺$zongyi"
 				}
 			},
+{
+			"key": "csp_XBPQ_西瓜影视",
+			"name": "🌤┃西瓜影院┃XB",
+			"type": 3,
+			"api": "csp_XBPQ",
+			 "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+			"ext": {
 
+				"分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+				"分类url": "https://www.ledlmw.com/show-{cateId}-{catePg}-.html"
+			}
+		},
 			{
 				"key": "csp_XBPQ_CY影视",
 				"name": "🌤┃CY影视┃XB",
@@ -748,41 +767,28 @@
 				"filterable": 1
 			}
 		],
-		"parses": [{
-				"name": "Web聚合",
-				"type": 3,
-				"url": "Web"
+		"parses": [
+			{
+				"name": "线路㊏",
+				"type": 0,
+				"url": "https://www.yemu.xyz/?url="
 			},
 			{
-			"name": "解析1",
-			"type": 1,
-			"url": "https://www.mpanso.com/muou/qilin.php?url=",
-			"ext": {
-				"flag": [
-					"qq",
-					"腾讯",
-					"qiyi",
-					"爱奇艺",
-					"奇艺",
-					"youku",
-					"优酷",
-					"sohu",
-					"搜狐",
-					"letv",
-					"乐视",
-					"mgtv",
-					"芒果",
-					"tnmb",
-					"seven",
-					"bilibili",
-					"1905"
-				],
-				"header": {
-					"User-Agent": "okhttp/4.9.1"
+				"name": "线路㊐",
+				"type": 0,
+				"url": "http://jx.playerjy.com/?url="
+			},
+			{
+				"name": "线路Ⓐ",
+				"type": 0,
+				"url": "https://jx.xmflv.com/?url=",
+				"ext": {
+					"header": {
+						"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+					}
 				}
-			}
-		},
-		{
+			},
+{
 			"name": "1080解析",
 			"type": 1,
 			"url": "https://zy.qiaoji8.com/gouzi.php?url=",
@@ -811,66 +817,6 @@
 				}
 			}
 		},
-			{
-				"name": "解析",
-				"type": 0,
-				"url": "http://qn6z7b.yun.42jx.com/jx/jx.php?url="
-			},
-			{
-				"name": "P2P加速",
-				"type": 0,
-				"url": "https://webp2p.augok.com/player/?url="
-			},
-			    {
-      "name": "4K解析",
-      "type": 1,
-      "url": "https://jx.xiaofengtv.com/jx.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
-			{
-				"name": "线路㊏",
-				"type": 0,
-				"url": "https://www.yemu.xyz/?url="
-			},
-			{
-				"name": "线路㊐",
-				"type": 0,
-				"url": "http://jx.playerjy.com/?url="
-			},
-			{
-				"name": "线路Ⓐ",
-				"type": 0,
-				"url": "https://jx.xmflv.com/?url=",
-				"ext": {
-					"header": {
-						"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-					}
-				}
-			},
-
 			{
 				"name": "线路Ⓒ",
 				"type": 0,
