@@ -10,7 +10,8 @@
 		"playerType": 1,
 		"epg": "http://diyp4.112114.xyz/?ch={name}&date={date}",
 		"logo": "http://diyp4.112114.xyz/logo/{name}.png"
-	}],
+	}
+	],
 	"sites": [{
 			"key": "豆瓣",
 			"name": "🌈豆瓣┃[搜索]",
