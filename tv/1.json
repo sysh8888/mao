@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/20250116.jar;md5;5d55d1e0bf4079bc9591d2ce641a9959",
+	"spider": "./jar/20250119.jar;md5;bcbb8e59d3125612721142763fb8f8d7",
 	"wallpaper": "https://picsum.photos/1280/720/?blur=5",
 	"warningText": "欢迎使用7080接口",
 	"lives": [{
@@ -128,16 +128,19 @@
 				}
 			}
 		},
-			{
-			"key": "瓜子",
-			"name": "🍉瓜子┃1080P",
-			"type": 3,
-			"api": "csp_Gz360",
+		{
+			"key": "csp_minuo",
+			"name": "🍚米诺┃1080P",
 			"searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-			"order_num": 0,
-			"changeable": 0
+			"quickSearch": 1,
+			"type": 3,
+			"api": "csp_MiTo",
+			"ext": {
+				"url": "http://mito.minotv.cn/",
+				"dataKey": "aassddwwxxllsx1x",
+				"playKey": "bbssqdbbssll25sx",
+				"version": "2.2.0"
+			}
 		},
 {
 			"key": "csp_SuBaiBai",
@@ -150,16 +153,16 @@
 			"ext": "https://www.subaibaiys.com/"
 		},
 			{
-            "key": "guoguo1",
+            "key": "wencai",
             "name": "🥭文采┃1080P",
             "type": 3,
-            "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
+            "api": "csp_Jpys",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
             "changeable": 0,
-            "ext": "https://gitee.com/smallmi1007/mimi/raw/master/wencai.js"
+            "ext": "https://www.hkybqufgh.com"
         },
 		{
 			"key": "csp_Xlys",
@@ -226,6 +229,15 @@
             "filterable": 1,
 			"api": "csp_MiTuApp",
 			"ext": "sHR2rlsfjI4L3t4RXQMkn+pzOh0GsJJgcwHHxDs8FcBDGD81qAZtun78VAJxzshCbStdXIlQiksUvc2b5fXyuxJO9KBNp5LzL/pYLLOs1V3R3WOh90eVpJGxxXWEZtoq+F7Cq4CbQ3J1TTXahpYpeXXeevwPopQutGBNaxYkdBgBL6rCgov0BCUWOXriRXNndZJYNJohfwIzBP+iTuz6C8FWXazDuKfwSS4BfeyQuGM="
+		},
+				{
+			"key": "csp_yumi",
+			"name": "🌽玉米┃1080P",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"api": "csp_MiTuApp",
+			"ext": "s1/kf8dfHZAgs5H4ledT0kZQrMUCI8rXw7epGjycfCXLihZ62DdR64D5LaZb2mflUmuSse7ltUts45Cnv0V0m+Q9p5c1FTbv5/VwYS81iZQ9iPiuVzdhDJiT4OVqzO9EcNMTbM+1exEw9intRaaLaMowD73KzX67Lirwk1OCQ8YkKMiLo1yfBhjQxArXGH4Ssyej7fNkVkhwbnzjqyhQ4Hqp3TjYKadLoxHfqROzhLY="
 		},
 	{
 			"key": "csp_电影",
@@ -523,8 +535,8 @@
 				"quickSearch": 1,
 				"filterable": 0,
 				"jar":"./jar/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423",
-				"ext": {"倒序": "1",
-                "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
+				"ext": {"倒序": "1","请求头": "手机",
+                "嗅探词": ".m3u8#.mp4",
                 "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0",
                 "分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
                 "数组二次截取": "class=\"v_list\">&&</ul>",
@@ -532,13 +544,36 @@
                 "标题": "title=\"&&\"",
                 "副标题": "v_note\"&&</div",
 				"播放二次截取": "class=\"play_list&&</ul>",
-				"播放数组": "<li&&</li>",
-                "跳转播放链接": "<iframe*src=\"&&\"",
-                "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
-                "三次跳转播放链接": "\"url\"*\"&&\""
+				"播放数组": "<li&&</li>"
             }
 			},
-
+		{
+				"key": "csp_XBPQ_影视天堂",
+				"name": "💨┃影视天堂┃XB",
+				"type": 3,
+				"api": "csp_XBPQ",
+				"searchable": 1,
+				"quickSearch": 1,
+				"filterable": 0,
+				"jar":"./jar/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423",
+				"ext": {
+                "嗅探词": ".m3u8#.mp4",
+                "分类url": "https://ystt.tv/library/index/c/{cateId}/t/all/y/all/s/2/page/{catePg}",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5",
+                "数组": "<a class=\"video-card&&</li>",
+                "标题": "title=\"&&\"",
+				"图片": "data-src=\"&&\"","链接": "href=\"&&\"",
+                "副标题": "text-white\">&&</span>",
+				"搜索url": "https://ystt.tv/search/index/type/1/keyword/{wd}",
+				"搜索二次截取": "<div class=\"flex items-start&&</ul>",
+				"搜索数组": "<li>&&</li>",
+"搜索图片": "data-src=\"&&\"","搜索链接":"href=\"&&\"","搜索标题": "title=\"&&\"",
+				"播放数组": "flex-wrap video-episodes&&</ul>",
+				"播放列表": "<a&&/a>",
+				"播放标题": ">&&<",
+                "播放链接":"href=\"&&\""
+            }
+			},
 			{
 				"key": "csp_APP_零一",
 				"name": "⛳┃零一┃APP",
@@ -799,7 +834,8 @@
 {"name":"農民嗅探","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},
 {"name":"七新嗅探","hosts":["api.52wyb.com"],"regex":["m3u8?pt=m3u8"]},
 {"name":"夜市點擊","hosts":["yeslivetv.com"],"script":["document.getElementsByClassName('vjs-big-play-button')[0].click()"]},
-{"name":"毛驢點擊","hosts":["www.maolvys.com"],"script":["document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"]}
+{"name":"毛驢點擊","hosts":["www.maolvys.com"],"script":["document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"]},
+{"name":"♻️饭团点击","hosts":["fantuan"],"script":["document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();"]}
 ],
 "ads":["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]
 	}
