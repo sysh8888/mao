@@ -647,7 +647,7 @@ CCTV16 4K,http://39.134.136.161:6610/000000001000/5000000008000023254/index.m3u8
 欢笑剧场4K 12M,http://39.134.136.161:6610/000000001000/5000000007000010001/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000007000010001
 4K影院,http://39.134.136.161:6610/000000001000/6000000003000004748/index.m3u8?livemode=1&stbId=1213&channel-id=wasusyt&Contentid=6000000003000004748
 北京纪实科教 8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-📽️其他影视(测试),#genre#
+📽️影视娱乐(测试),#genre#
 经典小品,http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 音乐轮播,http://tc-tct.douyucdn2.cn/dyliveflv3/17732rtara.flv?wsAuth=444b28368bc6cf374a8f22734242cdec&token=cpn-androidmpro-0-17732-2c028a7d8b69ac4c6a43608933105351f464f9543343a70c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=f73077d85e523eb95b6ce1ea3581b46b&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18db3c111c4e3c14350afd2dcaf43d0ef60&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
@@ -666,6 +666,7 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 欧美大片1,http://tc-tct.douyucdn2.cn/dyliveflv1/20415rnWbjg6Ex1K_2000.flv?wsAuth=b3efb4d6df0c3325558d752c95a8a77d&token=cpn-androidmpro-0-20415-b6774b3b3249db17349df734a8ca221d500cceae85c8d596&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 延禧攻略,http://223.85.105.11/test-txdwk.flv.huya.com/src/1099531840940-1099531840940-86814878328684544-2199063805336-10057-A-0-1.m3u8
 新三国,http://223.85.105.11/test-txdwk.flv.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1.m3u8
+贺岁喜剧,http://223.85.105.11/test-txdwk.flv.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.m3u8
 新水浒传,http://223.85.105.11/test-txdwk.flv.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1.m3u8
 林正英电影,http://223.85.105.11/test-txdwk.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
 奇幻电影里探险,http://223.85.105.11/test-txdwk.flv.huya.com/src/1099531752775-1099531752775-86436212537032704-2199063629006-10057-A-0-1.m3u8
@@ -695,9 +696,13 @@ CHC动作电影,http://182.40.120.191/test-txdwk.flv.huya.com/src/1524439840-152
 神探狄仁杰第三部,http://223.85.105.11/test-txdwk.flv.huya.com/src/1394575548-1394575548-5989656370461278208-2789274552-10057-A-0-1.m3u8
 陈情令,http://182.40.120.195/test-txdwk.flv.huya.com/src/1239543150218-1239543150218-11134998938774405120-2479086423892-10057-A-0-1.m3u8
 亮剑,http://182.40.120.191/test-txdwk.flv.huya.com/src/1239543153972-1239543153972-11135015062081634304-2479086431400-10057-A-0-1.m3u8
+经典小品2,http://223.85.105.11/test-txdwk.flv.huya.com/src/1239543150709-1239543150709-11135001047603347456-2479086424874-10057-A-0-1.m3u8
 七龙珠,http://223.85.105.11/test-txdwk.flv.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.m3u8
+铁齿铜牙纪晓岚,http://223.85.105.11/test-txdwk.flv.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1.m3u8
 猫和老鼠,http://182.40.120.180/test-txdwk.flv.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.m3u8
 蜡笔小新,http://182.40.120.230/test-txdwk.flv.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1.m3u8
+喜人奇妙夜,http://223.85.105.11/test-txdwk.flv.huya.com/src/1239543153943-1239543153943-11135014937527582720-2479086431342-10057-A-0-1.m3u8
+国产动画电影,http://182.40.120.180/test-txdwk.flv.huya.com/src/1239543153935-1239543153935-11135014903167844352-2479086431326-10057-A-0-1.m3u8
 冰冰电影,http://w.7080.wang/cs/douyu.php?id=74374
 成龙,http://w.7080.wang/cs/douyu.php?id=3379942
 华语电影,http://w.7080.wang/cs/douyu.php?id=85894
