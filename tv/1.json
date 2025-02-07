@@ -1,6 +1,7 @@
 {
-	"spider": "./jar/20250124.jar;md5;11e7f4b3a83620a0b1c31eb7f609aa10",
+	"spider": "./jar/20250207.jar;md5;a21873a6b978627f12aa58f57b26b9b0",
 	"wallpaper": "https://picsum.photos/1280/720/?blur=5",
+	"logo":"https://picx.zhimg.com/80/v2-7078b916abfcaf7b554854addfbb27a5_qhd.jpg",
 	"warningText": "欢迎使用7080接口",
 	"lives": [{
 		"name": "直播",
@@ -855,7 +856,7 @@
 				"url": "http://www.wpsseo.cn/jiexi/?jx="
 			}
 		],
-		"flags":["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"],
+		"flags":["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩","mg","YOUK"],
 "doh":[
 {"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
 {"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},
