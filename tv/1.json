@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/20250207.jar;md5;a21873a6b978627f12aa58f57b26b9b0",
+	"spider": "./jar/20250212.jar;md5;b0cfff328a31396accdf2388d5cc2cb0",
 	"wallpaper": "https://picsum.photos/1280/720/?blur=5",
 	"logo":"https://picx.zhimg.com/80/v2-7078b916abfcaf7b554854addfbb27a5_qhd.jpg",
 	"warningText": "欢迎使用7080接口",
@@ -28,20 +28,6 @@
 			"playerType": "1",
 			"ext": "http://api2.rinhome.com"
 		},
-		{
-			"key": "csp_minuo",
-			"name": "🍚米诺┃1080P",
-			"searchable": 1,
-			"quickSearch": 1,
-			"type": 3,
-			"api": "csp_MiTo",
-			"ext": {
-				"url": "http://mito.minotv.cn/",
-				"dataKey": "aassddwwxxllsx1x",
-				"playKey": "bbssqdbbssll25sx",
-				"version": "2.2.0"
-			}
-		},
 {
 			"key": "csp_SuBaiBai",
 			"name": "☁️白白┃1080P",
@@ -65,6 +51,32 @@
 			"ext": "https://www.hkybqufgh.com"
 		},
 		{
+            "key": "csp_AppNG",
+            "name": "🎃南瓜┃1080P",
+            "type": 3,
+            "api": "csp_AppNG"
+        },
+		{
+          "key": "csp_AppXY",
+          "name": "✈️上头┃短剧",
+          "type": 3,
+          "api": "csp_AppXY"
+        },
+        {
+            "key": "小猫",
+            "name": "🐱小猫┃1080P",
+            "type": 3,
+            "quickSearch": 0,
+            "api": "csp_MiTuApp",
+            "ext": "sHR2rlsfjI4L3t4RXQMkn1xFjIix0m8Cj9X8OUrGrK4fl4xu1EDS3cPpLFW/FctyWeOV755l/zvJzsf4Rq5dH82tGLii5o2Wvz3PcDGX7hgkjVxwZEyPqNUMRYFbQpmgyLVzYt4LYN1N1hC91NEscnCu4djQ0sa9TGuk4FO9yXzddgCJ2lWF9cJPVFd9ro6QI83NqCw0yBUcmhyF6YeEF4vM0+Q34Ku2OHQ2EQM2Kuo="
+        },
+		 {
+            "key": "csp_Lkdy",
+            "name": "🏔来看┃1080P",
+            "type": 3,
+            "api": "csp_Lkdy"
+        },
+		{
 			"key": "csp_Xlys",
 			"name": "🍤哔嘀┃1080P",
 			"api": "csp_Xlys",
@@ -73,10 +85,10 @@
 			"playerType": 2
 		},
 			{
-			"key": "csp_Wetv",
+			"key": "csp_沉落",
 			"name": "🚗尘落┃1080P",
 			"type": 3,
-			"api": "csp_Wetv"
+			"api": "csp_Lgyy"
 		},
 	{
 			"key": "csp_Wwys",
@@ -161,7 +173,7 @@
 			"api": "csp_MiTuApp",
 			"ext": "s1/kf8dfHZAgs5H4ledT0kZQrMUCI8rXw7epGjycfCXLihZ62DdR64D5LaZb2mflUmuSse7ltUts45Cnv0V0m+Q9p5c1FTbv5/VwYS81iZQ9iPiuVzdhDJiT4OVqzO9EcNMTbM+1exEw9intRaaLaMowD73KzX67Lirwk1OCQ8YkKMiLo1yfBhjQxArXGH4Ssyej7fNkVkhwbnzjqyhQ4Hqp3TjYKadLoxHfqROzhLY="
 		},
-	{
+{
 			"key": "csp_电影",
 			"name": "🎬电影┃1080P",
 			"type": 3,
@@ -178,14 +190,14 @@
             "api": "csp_MiTuApp",
             "ext": "sHR2rlsfjI4L3t4RXQMkn9Eir6RzAIaQXa7PAZzZhsYO7tEfOCUAO2ipKyX1sxqAYggPt4M4DNHWCnz414Yfuh19nNi3k0dkJGtsOqEQzKCgcf9wGo4XmYWuIzgVworYxXRSYBQb2oLBmTl1W7hxxhfer8LsRYZB6ALfwu2bInzh3EENDkFkaHYb1olDPUR1EqpMaZLpMW0oSOW9zzMF5WIDfKUOvd7q2bKD4uZ8/oc="
         },
-		{
+	{
 			"key": "csp_麻花",
 			"name": "🥙麻花┃1080P",
 			"type": 3,
 			"searchable": 1,
 			"quickSearch": 1,
-			"api": "csp_MiTuApp",
-			"ext": "sHR2rlsfjI4L3t4RXQMkn8ivSF5g8jXfhsjvizFR8ljN3AOVzpH9pr9GtPv0p/pnhxACPxmzklGulcZ5QfkGRCf6Rs7SjJmolZldAYa939+CUP8xvcjHb492E8waghkGxrtWlTiEC9t4dl/TaQf07LDUAJHsnAKfXpKlbKLXQWnAB8CtibGEXY01QAOeG3k4IaLl5w+AZDEEMHPNX5zL4bnOOk1PYBVZKZWV+DzWC9I="
+			"api": "csp_YuDi",
+			"ext": "sHR2rlsfjI4L3t4RXQMkn64XzcQ7xvStB8jMisBReTIxM41ceZBHTzUgk3r/HwfaQHDZorN0nnVVuvE2MPKn8MPxE7ylJqasRuICMIOVVttRnHTeArnRbQHtOtv9F+MUHJKlwhy6U0meUqFlwIn7psnaR3hGPEBEsJYJsPp76XBU5Prcv6yXYl+buEHnrog7tDJv0Oruu3XbWiSeYcmXyu0bWlgyI7I+ExxK+yX2Fm4="
 		},
 					{
 				"key": "csp_LiteApple",
@@ -309,18 +321,6 @@
 			"searchable": 1,
 			"api": "csp_XiaoYi",
 			"changeable": 0
-		},
-		    {
-			"key": "追剧",
-			"name": "📺追剧┃1080P",
-			"type": 3,
-			"api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"changeable": 0,
-			"ext": "https://gitee.com/smallmi1007/mimi/raw/master/wencai.js"
 		},
 			{
 				"key": "XBPQ_布雷影视",
