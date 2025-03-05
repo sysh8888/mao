@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/PandaQ250212.jar;md5;2ce1c06d0582d9dca3496f00a37ade6c",
+	"spider": "./jar/PandaQ250227.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311",
 	"wallpaper": "https://picsum.photos/1280/720/?blur=5",
 	"logo":"https://picx.zhimg.com/80/v2-7078b916abfcaf7b554854addfbb27a5_qhd.jpg",
 	"warningText": "欢迎使用7080接口",
@@ -20,44 +20,57 @@
       "api": "csp_Douban",
       "searchable": 0
     },
-	  {
-      "key": "csp_SuBaiBai",
-      "name": "🏳️┃素白┃影视",
+	 {
+      "key": "潮流",
+      "name": "🏜┃潮流┃影视",
       "type": 3,
-      "api": "csp_SuBaiBai",
-      "ext": "http://subaibai.com"
+      "api": "csp_AppRJ",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"
     },
     {
-      "key": "csp_Jpyy",
+      "key": "梦回",
+      "name": "🏈┃梦回┃影视",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"
+    },
+    {
+      "key": "星辉",
+      "name": "🦢┃星辉┃影视",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
+    },
+    {
+      "key": "csp_Lgyy",
+      "name": "✨️️┃流光┃影视",
+      "type": 3,
+      "api": "csp_Lgyy"
+    },
+     {
+      "key": "csp_Jpys",
       "name": "🥇️┃金牌┃影视",
       "type": 3,
-      "api": "csp_Jpyy"
+      "api": "csp_Jpys"
     },
-    {
-      "key": "csp_Nongm",
+	    {
+      "key": "csp_Wwys",
       "name": "🌾️┃农民┃影视",
       "type": 3,
-      "api": "csp_Nongm",
-      "ext": "https://wwgz.cn"
+      "api": "csp_Wwys",
+      "ext": "https://www.wwgz.cn"
     },
     {
-      "key": "csp_AppRZ",
-      "name": "🕵️┃忍者┃影视",
+      "key": "csp_Siren",
+      "name": "🎉️┃私人┃影城",
       "type": 3,
-      "api": "csp_AppRZ",
-      "ext": "http://rzys.xyz/"
+      "api": "csp_Siren"
     },
-	{
+	  {
       "key": "csp_Lkdy",
       "name": "🏔️┃来看┃影视",
       "type": 3,
       "api": "csp_Lkdy"
-    },
-    {
-      "key": "csp_Lggys",
-      "name": "💗️┃攻阁┃影视",
-      "type": 3,
-      "api": "csp_Lggys"
     },
     {
       "key": "csp_Tvyb",
@@ -69,7 +82,8 @@
       "key": "csp_Kanke",
       "name": "🛳️┃看客┃影视",
       "type": 3,
-      "api": "csp_Kanke"
+      "api": "csp_Kanke",
+      "ext": "http://www.guaziys.com"
     },
     {
       "key": "csp_Qiyou",
@@ -101,34 +115,25 @@
       "api": "csp_Quanwk",
       "ext": "https://www.91qkw.com"
     },
-
     {
       "key": "csp_J",
       "name": "🌎┃饺子┃外剧",
       "type": 3,
-	        "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "api": "csp_Jiaozi",
       "playerType": 2
     },
-	   {
+    {
       "key": "csp_SaoHuo",
       "name": "🔥┃火火┃影视",
       "type": 3,
-	        "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "api": "csp_SaoHuo",
-      "playerType": 2
+      "playerType": 2,
+      "ext":"https://shdy5.us"
     },
     {
       "key": "csp_Gz360",
       "name": "🍉┃瓜子┃影视",
       "type": 3,
-	        "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "api": "csp_Gz360",
       "playerType": 2
     },
@@ -141,7 +146,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
     {
       "key": "厂长",
       "name": "🏭┃厂长┃影视",
@@ -152,6 +156,12 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.czzyvideo.com"
+    },
+    {
+      "key": "csp_AppXY",
+      "name": "🎀️┃星牙┃短剧",
+      "type": 3,
+      "api": "csp_AppXY"
     },
     {
       "key": "csp_SP360",
@@ -255,7 +265,7 @@
 					"影片状态": "状态：</span>&&</p>",
 					"影片类型": "类型：</span>&&</a>",
 					"图片": "data-original=\"&&\"",
-					"线路标题": "/>&&<",
+					"线路标题": "/>&&<[替换:视频>>点播]",
 					"线路数组": "<h3 class=\"title\">&&/h3>",
 					"播放数组": "<ul class=\"stui-content__playlist&&</ul>",
 					"播放列表": "<a&&</a>",
@@ -279,7 +289,7 @@
 "标题": "title=\"&&\"",
 "副标题": "<span>&&</span>",
 "链接": "href=\"&&\"",
-"播放数组": "class=\"scroll-content\">&&</div>",
+"播放数组": "class=\"sort-item&&</div>",
 				"分类url": "https://www.liic.cc/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
 				"分类": "电影$1#连续剧$2#综艺$3#动漫$4#短剧$5"
 			}
@@ -330,7 +340,7 @@
 					"播放列表": "<a&&</a>",
 					"播放标题": "<span>&&</span>",
 "播放链接": "href=\"&&\"",
-					"分类url": "https://xiuer.pro/vod/show/id/{cateId}/page/{catePg}/",
+					"分类url": "https://xiuer.pro/show/{cateId}/page/{catePg}/",
 					"分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
 				}
 			},
@@ -348,7 +358,7 @@
     "影片状态":"状态：&&</p>",
     "搜索url":"/search.php;post;searchword={wd}",
     "线路数组":"<h3&&/h3>",
-    "线路标题":"src=*>&&<",
+    "线路标题":"src=*>&&<[替换:视频>>点播]",
 	"播放数组": "<ul class=\"stui-content__playlist&&</ul>",
 					"播放列表": "<a&&</a>",
 					"播放标题": "title=\"&&\"",
