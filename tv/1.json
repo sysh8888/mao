@@ -41,6 +41,27 @@
       "api": "csp_AppRJ",
       "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
     },
+	{
+			"key": "天天",
+			"name": "🦢天天┃1080P",
+			"type": 3,
+			"api": "csp_AppRJ",
+			"ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
+		},
+		{
+			"key": "热热",
+			"name": "🏜热热┃1080P",
+			"type": 3,
+			"api": "csp_AppRJ",
+			"ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"
+		},
+		{
+			"key": "追剧",
+			"name": "🏈追剧┃1080P",
+			"type": 3,
+			"api": "csp_AppRJ",
+			"ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"
+		},
     {
       "key": "csp_Lgyy",
       "name": "✨️️┃流光┃影视",
