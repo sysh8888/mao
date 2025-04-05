@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/PandaQ250227.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311",
+	"spider": "./jar/feimao250403.jar;md5;5a0f3bef8b15b9bd2be978359fd5f4cd",
 	"wallpaper": "https://picsum.photos/1280/720/?blur=5",
 	"logo":"https://picx.zhimg.com/80/v2-7078b916abfcaf7b554854addfbb27a5_qhd.jpg",
 	"warningText": "欢迎使用7080接口",
@@ -68,6 +68,13 @@
       "type": 3,
       "api": "csp_Lgyy"
     },
+	{
+      "key": "菲儿",
+      "name": "🍁┃菲菲┃影视",
+      "type": 3,
+      "api": "csp_AppFerr",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn/M3t4AXAKTrZj3tfhm1t/gMT3dOrHqIzUNqLUEOIDMvllTbX6e1hMhB2mfpOaCmHNOL1yBB3SmxNyqXlai90EIpdnwOOgCR9Z+YwCTj6ySjzJ2VBiH3eXeOGcavcNeVRA=="
+    },
      {
       "key": "csp_Jpys",
       "name": "🥇️┃金牌┃影视",
@@ -80,6 +87,12 @@
       "type": 3,
       "api": "csp_Wwys",
       "ext": "https://www.wwgz.cn"
+    },
+	 {
+      "key": "csp_Apphip",
+      "name": "🌼┃️嗨皮┃影视",
+      "type": 3,
+      "api": "csp_Apphip"
     },
     {
       "key": "csp_Siren",
@@ -198,7 +211,7 @@
       "api": "csp_Dm84"
     },
 			{
-				"key": "XBPQ_布雷影视",
+				"key": "JS_布雷影视",
 				"name": "🌼布雷影视┃JS",
 				"type": 3,
 				"api": "https://gitee.com/lujun189/ceshi/raw/master/1/libs/drpy2.min.js",
@@ -571,6 +584,7 @@
 				"分类": "电影$1#电视剧$2#综艺$3#动漫$4"
 			}
 		},
+		
 		   {
       "key": "config",
       "name": "🐼┃网盘配置┃中心",
@@ -621,77 +635,8 @@
 		{"key":"木耳","name":"🍄┃猫木耳┃资源","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod/","searchable":1,"filterable":1,"changeable":1,"timeout":10,"categories":["剧情片","动作片","冒险片","同性片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","灾难片","爱情片","犯罪片","科幻片","歌舞片","战争片","经典片","动画电影","网络电影","其他片","国产剧","港剧","韩剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","国产综艺","港台综艺","韩国综艺","日本综艺","欧美综艺","新马泰综艺","其他综艺","古装短剧","虐恋短剧","逆袭短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","欧美动漫","日本动漫","韩国动漫","国产动漫","港台动漫"],"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/125.0.0.0Safari/537.36"}},
 		{"key":"iKun资源","name":"🍄┃iKun资源┃资源","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/","searchable":1,"filterable":1,"changeable":1,"timeout":10,"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/125.0.0.0Safari/537.36"}},
 {"key":"暴風资源","name":"🍄┃暴風┃资源","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"filterable":1,"changeable":1,"timeout":10,"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/125.0.0.0Safari/537.36"}},
-{"key":"索尼资源","name":"🍄┃索尼┃资源","type":1,"api":"https://suoniapi.com/api.php/provide/vod/","searchable":1,"filterable":1,"changeable":1,"timeout":10,"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/125.0.0.0Safari/537.36"}},
-			{
-				"key": "csp_XBPQ_6V电影",
-				"name": "⛳┃6V磁力下载┃xb",
-				"type": 3,
-				"api": "csp_XBPQ",
-				"playerType": "1",
-				"ext": {
-					"数组": "post box row fixed-hight&&info_category info_ico",
-					"图片": "img src=\"&&\"",
-					"标题": "title=\"&&\"",
-					"链接": "href=\"&&\"",
-					"链接前缀": "",
-					"链接后缀": "",
-					"副标题": "info_date info_ico\">&&<++磁力链接",
-					"搜索url": "https://www.66ss.org/e/search/index.php;post;show=title&tempid=1&tbname=article&mid=1&dopost=search&keyboard={wd}",
-					"搜索数组": "post box row fixed-hight&&</li>",
-					"搜索图片": "<img src=\"&&\"",
-					"搜索标题": "title=\"&&\"",
-					"搜索链接": "href=\"&&\"",
-					"搜索副标题": "info_date info_ico\">&&<",
-					"影片类型": "类型：&&</li>",
-					"影片年代": "年份：&&</a>",
-					"影片地区": "地区：&&</a>",
-					"影片状态": "状态：&&</li>",
-					"导演": "导演：&&</li>",
-					"主演": "主演：&&</li>",
-					"简介": "介</p><p>&&</p><p>",
-					"嗅探词": ".m3u8#m3u8?#.mp4#mp4?#ixigua#.czspp#.flv#.mp3#.m4a#?item/video#is_play_url=1#play/?#qianpailive",
-					"播放数组": "<table cellspacing=&&</p>",
-					"播放列表": "<a&&/a>",
-					"播放标题": ">&&<",
-					"播放链接": "href=\"&&\"",
-					"分类url": "https://www.66ss.org/{cateId}/index_{catePg}.html[https://www.66ss.org/{cateId}]",
-					"分类": "喜剧片$xijupian#动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#纪录片$jilupian#动画片$donghuapian#电视剧$dianshiju#综艺$ZongYi"
-				}
-			},
-						{
-				"key": "csp_XBPQ_85磁力下载",
-				"name": "⛳┃85磁力下载┃xb",
-				"type": 3,
-				"api": "csp_XBPQ",
-				"playerType": "1",
-				"ext": {
-					"数组": "<li class=\"post-list&&</li>",
-					"图片": "data-original=\"&&\"",
-					"标题": "alt=\"&&\"",
-					"链接": "href=\"&&\"",
-					"链接前缀": "",
-					"链接后缀": "",
-					"副标题": "发布时间：&&<",
-					"搜索url": "https://85128.net/search.php?q={wd}&page={pg}",
-					"搜索数组": "<li class=\"post-list&&</li>",
-					"搜索图片": "src=\"&&\"",
-					"搜索标题": "title=\"&&\"",
-					"搜索链接": "href=\"&&\"",
-					"搜索副标题": "发布时间：&&<",
-					"线路标题": "磁力",
-					"影片地区": "产　　地　&&<",
-					"导演": "导　　演&&<",
-					"主演": "演　　员&&</",
-					"简介": "简　　介<br/>&&<",
-					"播放数组": "【下载地址】&&</tbody></table>[替换:<a target=\"_blank>><c target=\"_blank]",
-					"播放列表": "<a&&/a>",
-					"播放标题": ">&&<",
-					"播放链接": "href=\"&&\"",
-					"分类url": "https://www.85128.net/category-{cateId}_{catePg}.html",
-					"分类": "喜剧片$2#动作片$1#爱情片$4#科幻片$12#恐怖片$6#剧情片$3#战争片$5#纪录片$21#动慢$7#华语电视剧$11#综艺$18"
-				}
-			}
-			
+{"key":"索尼资源","name":"🍄┃索尼┃资源","type":1,"api":"https://suoniapi.com/api.php/provide/vod/","searchable":1,"filterable":1,"changeable":1,"timeout":10,"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/125.0.0.0Safari/537.36"}}
+	
 		],
 		"parses": [
 
