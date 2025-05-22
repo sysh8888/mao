@@ -1,4 +1,3 @@
-
 {
 	"spider": "./jar/feimao20250420.jar;md5;e853983962fe330f0aa8e242e7ac6c1c",
 	"wallpaper": "https://picsum.photos/1280/720/?blur=5",
@@ -20,13 +19,6 @@
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
-    },
-	 {
-      "key": "潮流",
-      "name": "🏜┃潮流┃影视",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"
     },
     {
       "key": "梦回",
@@ -50,25 +42,12 @@
 			"ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
 		},
 		{
-			"key": "热热",
-			"name": "🏜热热┃1080P",
-			"type": 3,
-			"api": "csp_AppRJ",
-			"ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"
-		},
-		{
 			"key": "追剧",
 			"name": "🏈追剧┃1080P",
 			"type": 3,
 			"api": "csp_AppRJ",
 			"ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"
 		},
-    {
-      "key": "csp_Lgyy",
-      "name": "✨️️┃流光┃影视",
-      "type": 3,
-      "api": "csp_Lgyy"
-    },
 	{
       "key": "菲儿",
       "name": "🍁┃菲菲┃影视",
@@ -89,12 +68,6 @@
       "api": "csp_Wwys",
       "ext": "https://www.wwgz.cn"
     },
-	 {
-      "key": "csp_Apphip",
-      "name": "🌼┃️嗨皮┃影视",
-      "type": 3,
-      "api": "csp_Apphip"
-    },
     {
       "key": "csp_Siren",
       "name": "🎉️┃私人┃影城",
@@ -114,13 +87,6 @@
       "api": "csp_Tvyb"
     },
     {
-      "key": "csp_Kanke",
-      "name": "🛳️┃看客┃影视",
-      "type": 3,
-      "api": "csp_Kanke",
-      "ext": "http://www.guaziys.com"
-    },
-    {
       "key": "csp_Qiyou",
       "name": "🥝┃奇优┃影视",
       "type": 3,
@@ -134,14 +100,6 @@
       "type": 3,
       "playerType": "2",
       "ext": "http://api2.rinhome.com"
-    },
-    {
-      "key": "csp_Fantuan",
-      "name": "🍙┃饭团┃影视",
-      "type": 3,
-      "api": "csp_Fantuan",
-      "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-      "ext": "https://www.fantuan.vip"
     },
     {
       "key": "csp_Quanwk",
@@ -182,17 +140,6 @@
       "filterable": 1
     },
     {
-      "key": "厂长",
-      "name": "🏭┃厂长┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.czzyvideo.com"
-    },
-    {
       "key": "csp_AppXY",
       "name": "🎀️┃星牙┃短剧",
       "type": 3,
@@ -204,89 +151,6 @@
       "type": 3,
       "api": "csp_SP360"
     },
- {
-      "key": "晴天",
-      "name": "☀️晴天┃1080P",
-      "type": 3,
-      "api": "csp_AppGet",
-	  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746696855220/mi0508.txt;md5;a9dc1bef9aa294ab1f13bfbf1029c82b",
-      "ext": "sHR2rlsfjI4L3t4RXQMknxZ67tu9z+phb0aSTvZQgyA6q0xr5CADU+Ci4NlKxGdylKHER46Cs4iIIIx6DdbWw0Sng/Z0F+jfaucg9epO4FUb/E7RG8NezsS+R4Dvsb4o50UjQG9bvlSBY9p/s5XD9KtJNMrH5tj1EbC6eEwZ4KOT7oCjM7uBxZRVhTmijQCvcoza/h46Fz6BrnGO68PxIg=="
-    },
-    {
-      "key": "悠悠",
-      "name": "🏆悠悠┃1080P",
-      "type": 3,
-      "api": "csp_AppGet",
-	  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746696855220/mi0508.txt;md5;a9dc1bef9aa294ab1f13bfbf1029c82b",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn/SuTAP3sPRQGBWuLvcmqKyisRVD3dX3O6Gp6eI50QK/b1ljvOYBDl+JqRwVQfcUQSM8vrh+mlBcTrvwF+gVaAWsvNW8jQQZf0K3/I/qJXQPUWmGE4fM0JKlDhFBVtEDYzfWMzOu40lTr/+guo8bJ6smivOCC7uQ2MArjDOj/vOScvoWqmIM2eesFSyClC/Qp9bCMZd4OOyCoe9MTI3RaBZE/IObZ0dMZZ6JgS5S5yal"
-    },
-    {
-      "key": "彼岸",
-      "name": "🏖比岸┃1080P",
-      "type": 3,
-      "api": "csp_AppGet",
-	  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746696855220/mi0508.txt;md5;a9dc1bef9aa294ab1f13bfbf1029c82b",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn0ZmfVTKTXBPRcz0emJNw7pive6/WM9lust5Mt+RF4YRlDNEqLNoLHMx2qn+8fd0eeM4V2kMkA0AtjiEOHJ8KkF1wXdkUnKYxfPeZzUR9DPL4ibrDZHcqEiciYyRtFbBPJ6wn4UwyK3sRMYvcp88bKXb1kZFtpPzbXRluHIQ+0V8YcKK00L4/rQRn30RHCf5UA=="
-    },
-    {
-      "key": "再看",
-      "name": "🔭再看┃1080P",
-      "type": 3,
-      "api": "csp_AppGet",
-	  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746696855220/mi0508.txt;md5;a9dc1bef9aa294ab1f13bfbf1029c82b",
-      "ext": "sHR2rlsfjI4L3t4RXQMknz+i4ffRorIRZjjcJiBr38z7bvJQDA/gj8tVTCLdlHvgssqNDyUkkSbMM+DLFI84xCpUE24hJxHHQxh/6e5bg7jQ0uWTdELk4IH4xxKtfyyKWbccPYruj7hX+lPSpaWNjk1ibLuC4+KKQSKp68VHdSOka6yGYqgO2DLVooXxfsgtQ79Hg5Uc8KtD5/Oa6cAfcQ=="
-    },
-	{
-      "key": "光速",
-      "name": "☁️云端┃1080P",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-	  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746696855220/mi0508.txt;md5;a9dc1bef9aa294ab1f13bfbf1029c82b",
-      "ext": "sHR2rlsfjI4L3t4RXQMknxNA7c6hcC3VanmE12u0Xu3CTtFtxRELPpvYrBPoXSST9rM4/zqxtg1ZlYdAfbBcu8j2ixF3Zl35t0r1NRL4FKDRtJIzUE6I7MVJAA2Q7brwZK+MVlV3Ya12XCFMmiAzIuP0q31Q3cWJWeBlJ/HkevUD3YrCzVx/d7ctov8ddn/OUS1xjTCIpJ+asEfpCWB+DTxkjbl8kfze+MSaichpJzQDMK2bWUphsOPryk49lVX7Gnm5A77V9sipi2ia5fPcYACDcbL9VXi31e2BvqNcvmE="
-    },
-    {
-      "key": "咕咕",
-      "name": "🛹番剧┃1080P",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-	  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746696855220/mi0508.txt;md5;a9dc1bef9aa294ab1f13bfbf1029c82b",
-      "ext": "sHR2rlsfjI4L3t4RXQMknxpaIJpWVf3QzJplZjkP8PMRCMAhDX6EuvKn3nmHvaAsNUZGiKejIkSYz7ryONX2fTpbNlJxpW1MZZY7Zt3lbwTJw/1s2QIhPpqxOmR/0EWAwYNShA0Asl0C1lkcmCbV6PsNna5kYEh7as/WabRCm9KrPTGJu6URWhPGeAaWchMgMYJlwNXFIeA2neoQGplg4A=="
-    },
-    {
-      "key": "人人",
-      "name": "⛄️人人┃1080P",
-      "type": 3,
-      "api": "csp_AppGet",
-	  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746696855220/mi0508.txt;md5;a9dc1bef9aa294ab1f13bfbf1029c82b",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn5lWAFk63MKp99BaRaCwGwVoPMXpUrRhJupGqVQN8zzRhc0PCuL4mVzuh+KN84Fro7WINX8x2KJlpNKTLBLPlTuVfsg1mblMWUa4ZqZVqz8bk6MbJPrt3r0jg7nCMVsUaeYm/CFBu4z4N5c4sNExHQ44DdF44W2s6KWUWZpSkfRb2WJdy5v0GcpIoQuxWUsh9EnK9D3N3m64NCPyEyiwAVg="
-    },
-    {
-      "key": "电影",
-      "name": "🎬电影┃1080P",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-	  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746696855220/mi0508.txt;md5;a9dc1bef9aa294ab1f13bfbf1029c82b",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn0xaBCNcSQUCvczzn7zWpJd7PJ5uE10QNLrWWS17wAYgUMrJ+kztENaDom6MWpmmvbZdw38U+pT14qEwywuRW7eny/HInm+UXxpCyI8e5D7Y4kc2n0QBkeQ2Tk5Y0atLMuupC2ZGF68+oMVeX0Px9e9ODSiSspzQH/Rg1Sz5CHp0GKozVTjPIZHhO159i7A1HwZ+kk77Eh0E7AnBTt6qVBX5G+murD+CKjMLYo6MMmsE"
-    },
-    {
-      "key": "享趣",
-      "name": "🔎享趣┃1080P",
-      "type": 3,
-      "api": "csp_AppGet",
-	  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746696855220/mi0508.txt;md5;a9dc1bef9aa294ab1f13bfbf1029c82b",
-      "ext": "sHR2rlsfjI4L3t4RXQMknzdNfEmX+jzXPZb/mKHyGEy2TNjdEVXKnEaZcfRUBxi7/nuHzmnprt8K+u6bJZhSGnE60tMgmxrHuYgcW7vPq9rk2vuaIUDPSHUm/i4T6w079JPylMWG75rjEhWmZO6BNHpX+SyayDRv9fun7Lu6t0sxMhXSR3ErwCmwbxtmx0SI"
-    },
-  {
-      "key": "影探",
-      "name": "🔱影探|JAR[4k]",
-      "type": 3,
-      "api": "csp_ApplvDV2",
-      "jar": "http://103.45.162.207:25252/tvbox/custom_spider.jar",
-      "ext": "0###WH5hCFZ2WEJ1BH1CVFxmQVt+Xw1QamUGdVt9TXkAcUNYZQZPVHp2QmBucU95S3pecARbCFF6dgJ1TwpQVnp1AVtlBktQalsBXX5qTWwAA0JgbnFIeQBbQWNxZQxlAXVcWlh9VFYCW19pYnZVbGp1Q1hhYgF4ZnZDdHJyVVFfW19jYQpuVl9ADQ=="
-    },
 	    {
       "key": "QD4K",
       "name": "🐷猪猪┃QD4K",
@@ -294,46 +158,6 @@
       "api": "csp_AppYsV2",
       "playerType": 2,
       "ext": "http://172.83.156.150:1010/api.php/app/"
-    },
-    {
-      "key": "drpyS_剧探[V2]",
-      "name": "🔱剧探┃APP[4k]",
-      "type": 4,
-      "api": "https://zhxy.eu.org/api/剧探[V2]",
-      "searchable": 2,
-      "filterable": 1,
-      "quickSearch": 1,
-      "ext": ""
-    },
-     {
-      "key": "drpy2_毒蛇[优]",
-      "name": "❤️毒蛇┃[优质]",
-      "type": 3,
-      "api": "https://cnb.cool/zhyadc/YsBox/-/git/raw/main/drpy_libs/drpy2.min.js",
-      "searchable": 2,
-      "filterable": 1,
-      "quickSearch": 0,
-      "ext": "https://zhxy.eu.org/js/毒蛇[优].js"
-    },
-    {
-      "key": "drpy2_苹果[优]",
-      "name": "❤️苹果┃[优质]",
-      "type": 3,
-      "api": "https://cnb.cool/zhyadc/YsBox/-/git/raw/main/drpy_libs/drpy2.min.js",
-      "searchable": 2,
-      "filterable": 0,
-      "quickSearch": 1,
-      "ext": "https://zhxy.eu.org/js/苹果[优].js"
-    },
-	   {
-      "key": "drjs_4K-A",
-      "name": "❤️4K-A┃[优质]",
-      "type": 3,
-      "api": "https://cnb.cool/zhyadc/YsBox/-/git/raw/main/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 0,
-      "ext": "https://cnb.cool/zhyadc/YsBox/-/git/raw/main/drpy_js/4K-A[优].js"
     },
 			{
 				"key": "JS_布雷影视",
@@ -407,33 +231,6 @@
             "api": "https://gitee.com/lujun189/ceshi/raw/master/1/libs/drpy2.min.js",
             "ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/tv/js/js/电影100.js"
         },
-		{
-				"key": "csp_xbpq_qx",
-				"name": "🌤┃七喜|XB",
-				"type": 3,
-				"api": "csp_XBPQ",
-				"playerType": 1,
-				"searchable": 1,
-				"quickSearch": 1,
-				"filterable": 1,
-				"ext": {
-					"简介": "detail-sketch\">&&</span>",
-					"导演": "导演：</span>&&</a>",
-					"主演": "主演：</span>&&</a>",
-					"搜索url": "http://www.7xdy.com/search.php;post;searchword={wd}",
-					"影片状态": "状态：</span>&&</p>",
-					"影片类型": "类型：</span>&&</a>",
-					"图片": "data-original=\"&&\"",
-					"线路标题": "/>&&<[替换:视频>>点播]",
-					"线路数组": "<h3 class=\"title\">&&/h3>",
-					"播放数组": "<ul class=\"stui-content__playlist&&</ul>",
-					"播放列表": "<a&&</a>",
-					"播放标题": "title=\"&&\"",
-"播放链接": "href=\"&&\"",
-					"分类url": "http://www.7xdy.com/{cateId}/index{catePg}.html[firstPage=http://www.7xdy.com/{cateId}/index.html]",
-					"分类": "电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
-				}
-			},
 			{
 				"key": "csp_XBPQ_里里影院",
 				"name": "💫┃里里影院┃XB",
@@ -461,7 +258,11 @@
 				"searchable": 1,
 				"quickSearch": 1,
 				"filterable": 0,
-				"ext": {"图片": "data-original=\"&&\"[替换:/vod1/vod>>https://vres.wbadl.cn/vod1/vod]",
+				"ext": {"数组": "<div class=\"module-item\">&&<style>",
+ "图片": "https://vres.wbadl.cn/vod1/vod/cover+data-original=\"/vod1/vod/cover&&\"",
+"标题": "<div class=\"v-item-title\">&&<",
+"副标题": "<span>&&</span>",
+"链接": "href=\"&&\"",
 				"搜索url": "https://www.dushe9.app/search?k={wd}&page={pg}",
 				"搜索二次截取": "search-result-list fs-margin-section&&pagenation-box",
 				"搜索数组": "<a&&</a>",
@@ -477,53 +278,7 @@
 				"分类": "电影$1#连续剧$2#综艺$4#动漫$3#短剧$6"
 			}
 			},
-					{
-				"key": "csp_xbpq_秀儿",
-				"name": "🌤┃秀儿|XB",
-				"type": 3,
-				"api": "csp_XBPQ",
-				"playerType": 1,
-				"searchable": 1,
-				"quickSearch": 1,
-				"filterable": 1,
-				"ext": {
-					"数组": "class=\"module-item-pic&&module-item-text",
- "图片": "data-src=\"&&\"",
-"标题": "title=\"&&\"",
-"副标题": "<span>&&</span>",
-"链接": "href=\"&&\"",
-"简介": "display: none;\">&&</div>",
-					"导演": "导演：</span>&&</div>",
-					"主演": "主演：</span>&&</div>",
-"播放数组": "class=\"sort-item&&</div>",
-					"播放列表": "<a&&</a>",
-					"播放标题": "<span>&&</span>",
-"播放链接": "href=\"&&\"",
-					"分类url": "https://xiuer.pro/show/{cateId}/page/{catePg}/",
-					"分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
-				}
-			},
-			{
-				"key": "csp_XBPQ_98影视",
-				"name": "💫┃98影视┃XB",
-				"type": 3,
-				"api": "csp_XBPQ",
-				"searchable": 1,
-				"quickSearch": 1,
-				"filterable": 0,
-				"ext":  {
-    "主页url":"http://www.98dyb.com/",
-    "简介":"<span class=\"detail-content\" style=*>&&</span>",
-    "影片状态":"状态：&&</p>",
-    "搜索url":"/search.php;post;searchword={wd}",
-    "线路数组":"<h3&&/h3>",
-    "线路标题":"src=*>&&<[替换:视频>>点播]",
-	"播放数组": "<ul class=\"stui-content__playlist&&</ul>",
-					"播放列表": "<a&&</a>",
-					"播放标题": "title=\"&&\"",
-    "分类url":"http://www.98dyb.com/{cateId}/index{catePg}.html[http://www.7xdy.com/{cateId}/index.html];;k",
-    "分类":"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}
-			},
+			
 			{
 				"key": "csp_XBPQ_碟迷",
 				"name": "💫┃碟迷┃XB",
@@ -603,20 +358,6 @@
 				"播放数组": "<li&&</li>"
             }
 			},
-						{
-				"key": "csp_XBPQ_天天",
-				"name": "💨┃天天┃XB",
-				"type": 3,
-				"api": "csp_XBPQ",
-				"searchable": 1,
-				"quickSearch": 1,
-				"filterable": 0,
-				"ext": {"倒序": "1","请求头": "手机",
-                "嗅探词": ".m3u8#.mp4",
-                "分类url": "https://www.hytsyy.com/ttt/{cateId}/page/{catePg}.html",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
-            }
-			},
 			{
 				"key": "csp_APP_零一",
 				"name": "⛳┃零一┃APP",
@@ -629,67 +370,6 @@
 			},
 			{"key": "河狸","name": "🐠┃河狸影视┃🌈APP","type": 3,"api": "csp_AppYsV2",
 			"ext": "https://www.heli888.cc/api.php/app/"},
-{"key": "影馆","name": "🐠┃影馆剧场┃🌈APP","type": 3,"api": "csp_AppYsV2","ext": "https://4kdyg.top/api.php/v1.vod"},
-			{
-				"key": "csp_XBPQ_星辰影院",
-				"name": "*⃣️星辰影院┃XB",
-				"type": 3,
-				"api": "csp_XBPQ",
-				"searchable": 1,
-				"quickSearch": 1,
-				"filterable": 1,
-				"ext": {
-					"简介": "detail-sketch\">&&<br>",
-					"线路数组": "data-toggle=\"tab\"&&</li>",
-					"线路标题": ">&&<",
-					"播放数组": "stui-content__playlist&&</ul>",
-					"播放标题": ">&&<[不包含:1080P]",
-					"分类url": "https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
-					"分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju"
-				}
-			},
-			{
-				"key": "csp_XBPQ_看一看",
-				"name": "🌤┃看一看┃XB",
-				"type": 3,
-				"api": "csp_XBPQ",
-				"searchable": 1,
-				"quickSearch": 1,
-				"filterable": 0,
-				"ext": {
-				"数组": "<a class=\"link-hover&&</a>",
-				"图片": "data-original=\"&&\"",
-					"标题": "title=\"&&\"",
-					"副标题": "<i>&&</i>",
-					"链接": "href=\"&&\"",
-					"导演": "导演:</span>&&</dt>",
-"主演": "主演:</span>&&</dt>",
-"简介": ">介绍:&&</span>",
-					"线路数组": "ico-Azhan\"></i&&/li>",
-					"线路标题": ">&&<",
-					"分类url": "https://www.kykhd.cc/index.php?m=vod-list-id-{cateId}-pg-{catePg}-order--by--class--year--letter--area--lang-.html",
-					"分类": "电影$1#电视剧$2#综艺$3#动漫$4"
-				}
-			},
-			    {
-            "key": "蓝光影视XB",
-            "name": "🌟蓝光影视┃XB",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-	"简介": "detail-sketch\">&&<br>",
-					"线路数组": "<h3 class=\"title&&/h3>",
-					"线路标题": ">&&<",
-					"播放数组": "ewave-content__playlist&&</ul>",
-					"播放标题": ">&&<[不包含:1080P]",
-	"分类url": "https://www.sdkuaiji.org/shayu/{cateId}/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
-	"分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongmna"
-}
-        },
-
 		{
 			"key": "csp_XBPQ_03影院",
 			"name": "🌤┃03影院┃XB",
@@ -758,8 +438,6 @@
       "ext": "https://www.wogg.one/"
     },
 		{"key":"木耳","name":"🍄┃猫木耳┃资源","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod/","searchable":1,"filterable":1,"changeable":1,"timeout":10,"categories":["剧情片","动作片","冒险片","同性片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","灾难片","爱情片","犯罪片","科幻片","歌舞片","战争片","经典片","动画电影","网络电影","其他片","国产剧","港剧","韩剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","国产综艺","港台综艺","韩国综艺","日本综艺","欧美综艺","新马泰综艺","其他综艺","古装短剧","虐恋短剧","逆袭短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","欧美动漫","日本动漫","韩国动漫","国产动漫","港台动漫"],"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/125.0.0.0Safari/537.36"}},
-		{"key":"iKun资源","name":"🍄┃iKun资源┃资源","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/","searchable":1,"filterable":1,"changeable":1,"timeout":10,"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/125.0.0.0Safari/537.36"}},
-{"key":"暴風资源","name":"🍄┃暴風┃资源","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"filterable":1,"changeable":1,"timeout":10,"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/125.0.0.0Safari/537.36"}},
 {"key":"索尼资源","name":"🍄┃索尼┃资源","type":1,"api":"https://suoniapi.com/api.php/provide/vod/","searchable":1,"filterable":1,"changeable":1,"timeout":10,"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/125.0.0.0Safari/537.36"}}
 	
 		],
