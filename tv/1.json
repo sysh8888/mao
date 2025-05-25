@@ -68,6 +68,19 @@
       "api": "csp_Wwys",
       "ext": "https://www.wwgz.cn"
     },
+	 {
+            "key": "csp_KmeiJu",
+            "name": "🍐┃鸭梨┃影视",
+            "type": 3,
+            "api": "csp_KmeiJu"
+        },
+        {
+            "key": "csp_FourK",
+            "name": "🐿️┃绝对┃影视",
+            "type": 3,
+            "api": "csp_FourK",
+            "ext": "https://www.4kvm.tv"
+        },
     {
       "key": "csp_Siren",
       "name": "🎉️┃私人┃影城",
@@ -108,6 +121,13 @@
       "api": "csp_Quanwk",
       "ext": "https://www.91qkw.com"
     },
+	        {
+            "key": "csp_Lggys",
+            "name": "🤣┃攻阁┃影视",
+            "type": 3,
+            "playerType": "2",
+            "api": "csp_Lggys"
+        },
     {
       "key": "csp_J",
       "name": "🌎┃饺子┃外剧",
@@ -250,6 +270,104 @@
 				"分类": "电影$1#连续剧$2#综艺$3#动漫$4#短剧$5"
 			}
 			},
+			{
+            "key": "4Kdy",
+            "name": "🕊️凝安┃xb",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+		"简介": "sketch content\">&&</p>",
+		"线路数组": "data-toggle=\"tab\"&&/a>",
+		"线路标题": ">&&<",
+		"播放数组": "myui-content__list sort-list&&</ul>",
+		                "播放列表": "<a&&/a>","播放链接": "href=\"&&\"",
+                "播放标题": ">&&<",
+		"分类url": "https://www.4kdy.vip/4K-show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;rc",
+		"分类": "电影&剧集&动漫",
+		"分类值": "1&2&3"
+	}
+        },
+{
+            "key": "海纳TV",
+            "name": "🌀海纳TV┃xb",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "简介": "简介：</em>&&",
+                "数组": "row\">&&</div></div>",
+                "分类url": "https://www.hainatv.net/index.php/vod/show/area/{area}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$59"
+            }
+        }, {
+            "key": "西瓜",
+            "name": "🍉西瓜┃xb",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://sszzyy.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
+                "分类": "电影$20#剧集$37",
+				"二次截取": "movie-list-body flex&&module-footer",
+				"数组": "<a&&</a>",
+                "标题": "title=\"*\">&&</div>",
+                "图片": "data-original=\"&&\"",
+                "链接": "href='&&'",
+                "播放数组": "content_playlist&&</ul>",
+                "播放列表": "<a&&</a>",
+                "播放标题": ">&&</a>",
+                "跳转播放链接": "src=\"&&\"",
+                "线路数组": "class=\"titleName cr3 swiper-slide&&</a>",
+                "线路标题": ">&&</a>"
+            }
+        },
+		{
+            "key": "第七电影",
+            "name": "🍉第七电影┃xb",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://the7tv.com/the/{cateId}-{catePg}.html",
+                "分类": "动作片$5#喜剧片$6#爱情片$7#科幻片$8#动画片$33#国产剧$12#香港剧$13#韩国剧$16#欧美剧$17",
+				"二次截取": "<h2 class=\"title&&id=\"page",
+				"数组": "<a&&</a>",
+                "标题": "title=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "链接": "href=\"&&\"",
+                "播放数组": "<ul class=\"clearfix&&</ul>",
+                "播放列表": "<a&&</a>",
+                "播放标题": ">&&</a>",
+                "线路数组": "<h2 class=\"flex-1&&/h2>",
+                "线路标题": ">&&<"
+            }
+        },
+		{
+            "key": "永乐",
+            "name": "🍰永乐┃xb",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+				"二次截取": "module-main module-page&&id=\"page",
+				"数组": "<a&&</a>",
+				"图片": "data-original=\"&&\"",
+"标题": "title=\"&&\"",
+                "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#剧情片$12#战争片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧$35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$36#欧美综艺$30#新马泰综艺$37#其他综艺$38||国产动漫$31#日本动漫$32#韩国动漫$39#港台动漫$40#新马泰动漫$41#欧美动漫$42#其他动漫$43",
+                "分类url": "https://www.ylys.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"
+            }
+        },
 						{
 				"key": "csp_XBPQ_毒蛇影院",
 				"name": "💫┃毒蛇影院┃XB",
@@ -397,36 +515,64 @@
       "api": "csp_Config",
       "playerType": 2
     },
-    {
-      "key": "csp_FeiMaoUC",
-      "name": "⚡┃闪电┃扫码会员",
-      "type": 3,
-      "api": "csp_Duopan",
-      "filterable": 1,
-      "ext": {
-        "site_urls": [
-          "http://1.95.79.193/"
-        ],
-        "url_key": "FeiMaoUC"
-      }
-    },
-    {
-      "key": "csp_Duopan",
-      "name": "🖍︎┃蜡笔┃扫码会员",
-      "type": 3,
-      "api": "csp_Duopan",
-      "filterable": 1,
-      "ext": {
-        "site_urls": [
-          "https://feimao666.fun",
-          "http://feimao888.fun",
-          "http://feimaoai.site",
-          "http://www.labi88.sbs",
-          "https://mihdr.top"
-        ],
-        "url_key": "Duopan2"
-      }
-    }, {
+  {
+            "key": "csp_FeiMaoUC",
+            "name": "⚡┃闪电┃扫码会员",
+            "type": 3,
+            "api": "csp_Duopan",
+            "filterable": 1,
+            "ext": {
+                "site_urls": [
+                    "http://1.95.79.193/"
+                ],
+                "url_key": "FeiMaoUC"
+            }
+        },
+        {
+            "key": "csp_Duopan",
+            "name": "🖍︎┃蜡笔┃扫码会员",
+            "type": 3,
+            "api": "csp_Duopan",
+            "filterable": 1,
+            "ext": {
+                "site_urls": [
+                    "https://feimao666.fun",
+                    "http://feimao888.fun",
+                    "http://feimaoai.site",
+                    "http://www.labi88.sbs",
+                    "http://fmao.site",
+                    "https://fmao.shop"
+                ],
+                "threadinfo": {
+                    "chunksize": 512,
+                    "threads": 16
+                },
+                "url_key": "Duopan2"
+            }
+        },
+		{
+            "key": "csp_Netfixtv",
+            "name": "💌┃️至臻┃扫码会员",
+            "type": 3,
+            "api": "csp_Duopan",
+            "filterable": 1,
+            "ext": {
+                "site_urls": [
+                    "http://xiaomi666.fun",
+                    "https://xiaomiai.site",
+                    "https://mihdr.top",
+                    "https://www.mihdr.top",
+                    "http://www.miqk.cc",
+                    "https://www.zhizhenpan.fun"
+                ],
+                "url_key": "Netfixtv2",
+                "threadinfo": {
+                    "chunksize": 512,
+                    "threads": 16
+                }
+            }
+        },
+	{
       "key": "csp_Panda_玩偶哥哥",
       "name": "👲┃玩偶┃扫码会员",
       "api": "csp_Wogg",
