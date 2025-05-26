@@ -189,7 +189,16 @@
 				"filterable": 1,
 				"ext": "https://gitee.com/smallmi1007/mimi/raw/master/ceshi.js"
 			},
-		
+		{
+				"key": "JS_闪雷影视",
+				"name": "🌼闪雷MP4┃JS",
+				"type": 3,
+				"api": "https://gitee.com/lujun189/ceshi/raw/master/1/libs/drpy2.min.js",
+				"searchable": 1,
+				"quickSearch": 1,
+				"filterable": 1,
+				"ext": "https://fastly.jsdelivr.net/gh/qist/tvbox/js/678.js"
+			},
 					{
 			"key": "guoguo",
 			"name": "🥭芒果[解析]┃JS",
@@ -251,6 +260,7 @@
             "api": "https://gitee.com/lujun189/ceshi/raw/master/1/libs/drpy2.min.js",
             "ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/tv/js/js/电影100.js"
         },
+
 			{
 				"key": "csp_XBPQ_里里影院",
 				"name": "💫┃里里影院┃XB",
@@ -584,6 +594,10 @@
       "ext": "https://www.wogg.one/"
     },
 		{"key":"木耳","name":"🍄┃猫木耳┃资源","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod/","searchable":1,"filterable":1,"changeable":1,"timeout":10,"categories":["剧情片","动作片","冒险片","同性片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","灾难片","爱情片","犯罪片","科幻片","歌舞片","战争片","经典片","动画电影","网络电影","其他片","国产剧","港剧","韩剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","国产综艺","港台综艺","韩国综艺","日本综艺","欧美综艺","新马泰综艺","其他综艺","古装短剧","虐恋短剧","逆袭短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","欧美动漫","日本动漫","韩国动漫","国产动漫","港台动漫"],"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/125.0.0.0Safari/537.36"}},
+		{"key":"率率","name":"🍄|率率[资源]","type":1,
+		"api":"https://suoniapi.com/api.php/provide/vod/",
+		"searchable":1,"quickSearch":1,"changeable":1,
+		"categories":["国产剧","韩剧","日剧","港剧","台剧","动作片","喜剧片","爱情片","科幻片","战争片","恐怖片","剧情片","国产动漫","日韩动漫","欧美动漫","大陆综艺","日韩综艺"]},
 {"key":"索尼资源","name":"🍄┃索尼┃资源","type":1,"api":"https://suoniapi.com/api.php/provide/vod/","searchable":1,"filterable":1,"changeable":1,"timeout":10,"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/125.0.0.0Safari/537.36"}}
 	
 		],
@@ -660,20 +674,24 @@
 ],
 "rules":[
 {"name":"proxy","hosts":["mypikpak.com",".*workers.dev","www.cilixiong.com","*.t4tv.hz.cz","kuba222.com","mp4us.com","dydhhy.com","magicalsearch.top","api123.adys.app","raw.githubusercontent.com","googlevideo.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","youtube.com","uhibo.com",".*boku.*",".*nivod.*",".*ulivetv.*"]},
-{"name":"磁力廣告","hosts":["magnet"],"regex":["更多","社區","xuu","最新","最新","直播","更新","社区","有趣","有趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]},
+{"name":"磁力廣告","hosts":["magnet"],"regex":["更多","社區","xuu","最新","最新","直播","更新","社区","有趣","有趣","UUE29"]},
 {"name":"海外看","hosts":["haiwaikan"],"regex":["8.16","8.1748","10.0099","10.3333","10.85","12.33","16.0599"]},
 {"name":"索尼","hosts":["suonizy"],"regex":["15.1666","15.2666"]},
-{"name":"暴風","hosts":["bfzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 {"name":"星星","hosts":["aws.ulivetv.net"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-{"name":"量子","hosts":["vip.lz","hd.lz","v.cdnlz"],"regex":["18.5333"]},
-{"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["25.1"]},
+{"name":"量子广告","hosts":["vip.lz*","hd.lz*",".cdnlz",".cdnlz*"],"regex":["#EXTINF.*?\\s+[a-z0-9]{18,}\\.ts","[a-z0-9]{18,}\\.ts\\s+","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF.*?\\s+[a-z0-9]{18,}\\.ts[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+{"name":"非凡广告","hosts":["vip.ffzy","hd.ffzy",".ffzy*","super.ffzy","super.ffzy*","svipsvip.ffzy","*.ffzy*"],"regex":["#EXT-X-DISCONTINUITY(?:\n.*?){8}\n#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY(?:\n(?!#EXT-X-DISCONTINUITY).*){10}\n#EXT-X-DISCONTINUITY"]},
+{"name":"qihubf","hosts":["qihubf"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2,[\\s\\S]*?#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-KEY:METHOD=AES-128","#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+{"name":"快看广告","hosts":["kuaikan"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:.*?,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+{"name":"U酷资源广告","hosts":["ukzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:.*?,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+{"name":"ikun资源","hosts":["bfikuncdn"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:.*?,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+{"name":"卧龙影视资源","hosts":["cdn.wl*"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:.*?,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+{"name":"暴风广告","hosts":["bfzy","bfbfvip","bfengbf"],"regex":["#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+"]},
 {"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
 {"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]},
 {"name":"農民嗅探","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},
 {"name":"七新嗅探","hosts":["api.52wyb.com"],"regex":["m3u8?pt=m3u8"]},
 {"name":"夜市點擊","hosts":["yeslivetv.com"],"script":["document.getElementsByClassName('vjs-big-play-button')[0].click()"]},
-{"name":"毛驢點擊","hosts":["www.maolvys.com"],"script":["document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"]},
-{"name":"♻️饭团点击","hosts":["fantuan"],"script":["document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();"]}
+{"name":"毛驢點擊","hosts":["www.maolvys.com"],"script":["document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"]}
 ],
-"ads":["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]
-	}
+"ads": ["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com","iqiyi.hbuioo.com","vip.ffzyad.com","wan.51img1.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd","mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]
+}
