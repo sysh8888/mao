@@ -171,13 +171,23 @@
       "type": 3,
       "api": "csp_SP360"
     },
-	    {
-      "key": "QD4K",
-      "name": "🐷猪猪┃QD4K",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "playerType": 2,
-      "ext": "http://172.83.156.150:1010/api.php/app/"
+	{
+		"key": "QD4K",
+		"name": "🐷猪猪┃单线4K",
+		"type": 3,
+		"api": "csp_AppYsV2",
+		"playerType": 2,
+		"ext": "http://172.83.156.150:1010/api.php/app/"
+	},
+	{
+            "key": "csp_臻彩",
+            "name": "🥽臻彩┃4K4K",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://cms.lygdyy.cn/api.php/app/"
     },
 			{
 				"key": "JS_布雷影视",
@@ -516,8 +526,36 @@
 				"分类url": "https://www.03yy.live/type/index{cateId}-{catePg}.html",
 				"分类": "电影$1#电视剧$2#综艺$3#动漫$4"
 			}
-		},
-		
+		},  
+		{
+      "key": "drpyS_瓜子[APP]",
+      "name": "🔶瓜子4K┃[APP]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/瓜子[APP]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 1,
+      "ext": ""
+    },
+		 {
+      "key": "drpyS_TG[搜]",
+      "name": "🔎TG4K┃[搜索网盘]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/TG[搜]",
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 1,
+      "ext": ""
+    },
+	{
+		"key": "巧技",
+		"name": "🚗聚搜┃单线4K",
+		"type": 3,
+		"api": "csp_qiao2",
+		"playerType": 2,
+		"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1748242306011/0526.jar;md5;bea0e94d4bbefc6dfc5f7de2620192ce",
+		"ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
+	},
 		   {
       "key": "config",
       "name": "🐼┃网盘配置┃中心",
@@ -627,6 +665,17 @@
 				"type": 0,
 				"url": "http://jx.playerjy.com/?url="
 			},
+				{
+		"name": "牛牛2",
+		"type": 1,
+		"url": "https://zy.qiaoji8.com/xiafan.php?url=",
+		"ext": {
+			"flag": ["QD4K", "iyf", "duanju", "gzcj", "GTV", "GZYS", "weggz", "Ace"],
+			"header": {
+				"User-Agent": "okhttp/4.9.1"
+			}
+		}
+	},
 			{
 				"name": "咸鱼",
 				"type": 0,
