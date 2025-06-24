@@ -308,7 +308,21 @@
             "api": "https://gitee.com/lujun189/ceshi/raw/master/1/libs/drpy2.min.js",
             "ext": "https://fastly.jsdelivr.net/gh/sysh8888/mao/tv/js/js/电影100.js"
         },
-
+ {
+            "key": "流光影视",
+            "name": "流光|4K|xb",
+            "type": 3,
+            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+            "api": "csp_XBPQ",
+            "ext": {
+                "简介": "剧情介绍:+wrapper_more_text\">&&</div>",
+                "副标题": "tag text-overflow\">&&</div>",
+                "导演": "导演:</div>&&",
+                "主演": "主演:</div>&&",
+                "分类url": "https://www.lgys.xyz/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "短剧$20#电视剧$2#电影$1#动漫$4#综艺$3#少儿$21"
+            }
+        },
 			{
 				"key": "csp_XBPQ_里里影院",
 				"name": "💫┃里里影院┃XB",
