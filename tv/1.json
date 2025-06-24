@@ -315,10 +315,14 @@
             "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
             "api": "csp_XBPQ",
             "ext": {
-                "简介": "剧情介绍:+wrapper_more_text\">&&</div>",
+				"数组": "myui-vodbox-content&&</a>",
+ "图片": "<img src=\"&&\"",
+"标题": "class=\"title\">&&<",
                 "副标题": "tag text-overflow\">&&</div>",
-                "导演": "导演:</div>&&",
-                "主演": "主演:</div>&&",
+"链接": "href=\"&&\"",
+                "简介": "剧情介绍:+wrapper_more_text\">&&</div>",
+                "导演": "导演:</div>&&</div>",
+                "主演": "主演:</div>&&</div>",
                 "分类url": "https://www.lgys.xyz/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "短剧$20#电视剧$2#电影$1#动漫$4#综艺$3#少儿$21"
             }
