@@ -181,13 +181,13 @@
 	},
 	{
             "key": "csp_臻彩",
-            "name": "🥽臻彩┃4K4K",
+            "name": "🥽臻彩┃4K┃app",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://cms.lygdyy.cn/api.php/app/"
+            "ext": "http://cmszcsj.lfytv.cn/api.php/app/"
     },
 	 {"key": "csp_appys_天堂",
    "name": "🥽电影天堂|app",
@@ -196,7 +196,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "http://cszz.lyyytv.cn/api.php/app/"}, 
+   "ext": "http://cmstt.lfytv.cn/api.php/app/"}, 
 
    {
       "key": "drpyS_瓜子[APP]",
@@ -453,14 +453,14 @@
 				"quickSearch": 1,
 				"filterable": 0,
 				"ext": {"数组": "<div class=\"module-item\">&&<style>",
- "图片": "https://vres.wbadl.cn/vod1/vod/cover+data-original=\"/vod1/vod/cover&&\"",
+ "图片": "data-original=\"/&&\"[替换:vod1/vod>>https://vres.wxwoq.com/vod1/vod]",
 "标题": "<div class=\"v-item-title\">&&<",
 "副标题": "<span>&&</span>",
 "链接": "href=\"&&\"",
 				"搜索url": "https://www.dushe9.app/search?k={wd}&page={pg}",
 				"搜索二次截取": "search-result-list fs-margin-section&&pagenation-box",
 				"搜索数组": "<a&&</a>",
-"搜索图片": "data-original=\"/&&\"[替换:vod1/vod>>https://vres.wbadl.cn/vod1/vod]",
+"搜索图片": "data-original=\"/&&\"[替换:vod1/vod>>https://vres.wxwoq.com/vod1/vod]",
 "搜索标题": "alt=\"&&\"",
 "搜索链接": "href=\"&&\"",
 				"导演": "导演:</div>&&</div>",
@@ -583,7 +583,34 @@
 				"分类": "电影$1#电视剧$2#综艺$3#动漫$4"
 			}
 		},  
-		
+		{"key": "4Kdy","name": "k电影🎦XB","type": 3,"api": "csp_XBPQ","ext": 
+		{"简介":"sketch content\">&&</p>",
+		"导演": "导演：</span>&&</p>",
+		"主演": "主演：</span>&&</p>",
+		"线路数组": "data-toggle=\"tab\"&&/a>","线路标题": ">&&<",
+		"播放数组": "myui-content__list sort-list&&</ul>",
+		"播放列表": "<a&&</a>",
+		"播放链接": "href=\"&&\"","分类url": "https://www.4kdy.vip/4K-show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;rc","分类": "电影&剧集&动漫","分类值": "1&2&3"}},
+		  {
+      "key": "drpyS_抖音直播[官]",
+      "name": "🚀抖音┃[直播]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/抖音直播[官]",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_虎牙直播[官]",
+      "name": "🚀虎牙┃[直播]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/虎牙直播[官]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
 		   {
       "key": "config",
       "name": "🐼┃网盘配置┃中心",
