@@ -20,24 +20,7 @@
       "api": "csp_Douban",
       "searchable": 0
     },
-	  {
-      "key": "天天",
-      "name": "💯天天┃影视",
-      "type": 3,
-      "quickSearch": 1,
-      "searchable": 1,
-      "api": "csp_AppRJ",
-      "ext": "vxw35/hHSj07Q+maxQzOVMq1rjRCOTXpUCx8iKu5jIg="
-    },
-	{
-      "key": "热热",
-      "name": "🔥热热┃影视",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_AppRJ",
-      "ext": "jsSMEuhTZIAHjnUoLBzKdlRu5exzno6M4efF8LzwjWM="
-    },
+
 {"key":"潮流","name":"🏜┃潮流┃APP","type":3,"api":"csp_AppRJ","ext":"http://v.rbotv.cn"},
 {"key":"梦回","name":"🏈┃梦回┃APP","type":3,"api":"csp_AppRJ","ext":"http://v.lkuys.cn"},
 {"key":"星辉","name":"🦢┃星辉┃APP","type":3,"api":"csp_AppRJ","ext":"http://tt.ysdqjs.cn"},
@@ -95,7 +78,7 @@
 
    {
       "key": "drpyS_瓜子[APP]",
-      "name": "🔶瓜子2K┃[APP]",
+      "name": "🔶瓜子1K┃[APP]",
       "type": 4,
       "api": "https://zhxy.eu.org/api/瓜子[APP]",
       "searchable": 2,
@@ -440,18 +423,10 @@
       "quickSearch": 0,
       "ext": ""
     },
-		  		 {
-      "key": "drpyS_TG[搜]",
-      "name": "🔎TG4K┃[搜索网盘]",
-      "type": 4,
-      "api": "https://zhxy.eu.org/api/TG[搜]",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "ext": ""
-    },
+		  
 	{"key":"config","name":"🐼┃配置┃中心","type":3,"api":"csp_Config","playerType":2},
-	{"key":"csp_FeiMaoUC","name":"⚡┃闪电┃网盘","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["http://1.95.79.193/"],"url_key":"FeiMaoUC"}},
+	{"key":"csp_FeiMaoUC","name":"⚡┃闪电┃网盘","type":3,"api":"csp_Duopan","searchable": 1,
+            "quickSearch": 1,"filterable":1,"ext":{"site_urls":["http://1.95.79.193/"],"url_key":"FeiMaoUC"}},
 
 		{"key":"木耳","name":"🍄┃猫木耳┃资源","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod/","searchable":1,"filterable":1,"changeable":1,"timeout":10,"categories":["剧情片","动作片","冒险片","同性片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","灾难片","爱情片","犯罪片","科幻片","歌舞片","战争片","经典片","动画电影","网络电影","其他片","国产剧","港剧","韩剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","国产综艺","港台综艺","韩国综艺","日本综艺","欧美综艺","新马泰综艺","其他综艺","古装短剧","虐恋短剧","逆袭短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","欧美动漫","日本动漫","韩国动漫","国产动漫","港台动漫"],"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/125.0.0.0Safari/537.36"}},
 		{"key":"率率","name":"🍄|率率[资源]","type":1,
