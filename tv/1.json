@@ -59,22 +59,50 @@
 {"key":"NT动漫","name":"🧬┃NT┃动漫","type":3,"api":"https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js","ext":"https://gitee.com/PizazzXS/another-d/raw/master/anime/js/NTDM.js"},
 {"key":"Anime1","name":"🌏┃️Anime┃动漫","type":3,"api":"https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js","ext":"https://gitee.com/PizazzXS/another-d/raw/master/anime/js/Anime1.js"},
 {"key":"csp_FourK","name":"🌋┃绝对┃影视","type":3,"playerType":"2","api":"csp_FourK","ext":"https://www.4kvm.tv"},
+{
+			"key": "巧技2",
+			"name": "🚗聚搜┃影视",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 0,
+			"api": "csp_qiao2",
+			"playerType": 2,
+			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/714c5f6aa89af46f/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10",
+			"ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
+		},
 	{
-		"key": "QD4K",
-		"name": "🐷猪猪┃单线4K",
-		"type": 3,
-		"api": "csp_AppYsV2",
-		"playerType": 2,
-		"ext": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/cs.txt"
-	},
-	 {"key": "csp_appys_天堂",
-   "name": "🥽电影天堂|app",
-   "type": 3,
-   "api": "csp_AppYsV2",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "http://cmstt.lfytv.cn/api.php/app/"}, 
+			"key": "huomaoys",
+			"name": "🎬️火猫┃影视",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 0,
+			"api": "csp_Muou",
+			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/714c5f6aa89af46f/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10",
+			"playerType": 2,
+			"ext": "7lj763gg0939790i413gi484k8058896highi4414h68l7g6hk8qiaojig9k2k289l9ik807i213k5j602"
+		},
+		{
+			"key": "金牌app",
+			"name": "🎬️爆炸┃影视",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 0,
+			"api": "csp_Muou",
+			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/714c5f6aa89af46f/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10",
+			"playerType": 2,
+			"ext": "7lj763gg402i79425i3l85i6h848i295l5hiji5l828g3l3jjhg6kg7410lhjkqiaojij3ig1lg475178k7h0il4ig3h753h7hi516758699jh2g5h433li30gk11g73l90312h4g7"
+		},
+		{
+			"key": "公公",
+			"name": "🎬️公共┃影视",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 0,
+			"api": "csp_Muou",
+			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/714c5f6aa89af46f/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10",
+			"playerType": 2,
+			"ext": "7lj763gg402i7942463ji4qiaojijjh456889il6k6i35kj995h4j18li7kl2870klhg8hi647j5707k4ki7ig6953kj"
+		},
 
    {
       "key": "drpyS_瓜子[APP]",
@@ -85,17 +113,6 @@
       "filterable": 1,
       "quickSearch": 1,
       "ext": ""
-    },
-  {
-      "key": "巧技",
-      "name": "🚗巧技搜┃影视",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_qiao2",
-      "playerType": 2,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749917849270/0615qj.jpg;md5;410ad21caad9e6f6d40c1ae5ca2be662",
-      "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
     },
 			{
 				"key": "JS_布雷影视",
@@ -374,6 +391,14 @@
 				"filterable": 1,
 				"ext": "https://www.heli888.cc/api.php/app/"
 			},
+			{"key": "csp_appys_天堂",
+   "name": "🥽电影天堂|app",
+   "type": 3,
+   "api": "csp_AppYsV2",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "http://cmstt.lfytv.cn/api.php/app/"}, 
 			{"key": "河狸","name": "🐠┃河狸影视┃🌈APP","type": 3,"api": "csp_AppYsV2",
 			"ext": "https://www.heli888.cc/api.php/app/"},
 		{
