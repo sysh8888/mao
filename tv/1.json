@@ -20,6 +20,7 @@
       "api": "csp_Douban",
       "searchable": 0
     },
+	
 {"key":"潮流","name":"🏜┃潮流┃APP","type":3,"api":"csp_AppRJ","ext":"http://v.rbotv.cn"},
 {"key":"梦回","name":"🏈┃梦回┃APP","type":3,"api":"csp_AppRJ","ext":"http://v.lkuys.cn"},
 {"key":"星辉","name":"🦢┃星辉┃APP","type":3,"api":"csp_AppRJ","ext":"http://tt.ysdqjs.cn"},
@@ -49,20 +50,20 @@
 {"key":"csp_Gz360","name":"🍉┃瓜子┃影视","type":3,"api":"csp_Gz360","playerType":2},
 {"key":"csp_LiteApple","name":"🍎┃苹果┃影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"厂长","name":"🏭┃厂长┃影视","type":3,"playerType":"2","api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzymovie.com"},
-{"key":"猎手影视","name":"🐆┃猎手┃影视","type":3,"api":"https://gitee.com/PizazzXS/another-d/raw/master/movie/py/LSYS.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
-{"key":"零度","name":"🥶┃零度┃影视","type":3,"api":"https://6296.kstore.vip/lingdu.py"},
-{"key":"csp_AppXY","name":"🎀️┃星牙┃短剧","type":3,"api":"csp_AppXY"},
-{"key":"河马短剧","name":"🦛┃河马┃短剧","type":3,"api":"https://gitee.com/PizazzXS/another-d/raw/master/movie/py/HMDJ.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
-{"key":"偷乐短剧","name":"☺️┃偷乐┃短剧","type":3,"api":"https://gitee.com/PizazzXS/another-d/raw/master/movie/py/TLDJ.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
+{"key":"猎手影视","name":"🐆┃猎手┃影视PY","type":3,"api":"https://gitee.com/PizazzXS/another-d/raw/master/movie/py/LSYS.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
+{"key":"零度","name":"🥶┃零度┃影视PY","type":3,"api":"https://6296.kstore.vip/lingdu.py"},
+{"key":"csp_AppXY","name":"🎀️┃星牙┃短剧PY","type":3,"api":"csp_AppXY"},
+{"key":"河马短剧","name":"🦛┃河马┃短剧PY","type":3,"api":"https://gitee.com/PizazzXS/another-d/raw/master/movie/py/HMDJ.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
+{"key":"偷乐短剧","name":"☺️┃偷乐┃短剧PY","type":3,"api":"https://gitee.com/PizazzXS/another-d/raw/master/movie/py/TLDJ.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"csp_SP360","name":"📺┃360┃官源","type":3,"api":"csp_SP360"},
 {"key":"csp_Dm84","name":"🤣┃动漫┃巴士","type":3,"playerType":"2","api":"csp_Dm84","ext":"https://dm84.net"},
 {"key":"56动漫","name":"5️⃣┃56┃动漫","type":3,"api":"https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js","ext":"https://gitee.com/PizazzXS/another-d/raw/master/anime/js/56DM.js"},
 {"key":"NT动漫","name":"🧬┃NT┃动漫","type":3,"api":"https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js","ext":"https://gitee.com/PizazzXS/another-d/raw/master/anime/js/NTDM.js"},
 {"key":"Anime1","name":"🌏┃️Anime┃动漫","type":3,"api":"https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js","ext":"https://gitee.com/PizazzXS/another-d/raw/master/anime/js/Anime1.js"},
 {"key":"csp_FourK","name":"🌋┃绝对┃影视","type":3,"playerType":"2","api":"csp_FourK","ext":"https://www.4kvm.tv"},
-{
+	{
 			"key": "巧技2",
-			"name": "🚗聚搜┃影视",
+			"name": "🚗聚搜┃4K",
 			"type": 3,
 			"searchable": 1,
 			"quickSearch": 0,
@@ -71,6 +72,25 @@
 			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/714c5f6aa89af46f/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10",
 			"ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
 		},
+    {
+      "key": "天翼影视",
+      "name": "天翼｜4K采集",
+      "type": 1,
+      "api": "http://7.qqqtv.top/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "推荐",
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫"
+      ]
+    },
+	{"key":"狂人app","name":"♾️┃狂人┃APP","type":3,"api":"csp_AppGet","ext":{"url":"https://www.zjkrmv.vip/","dataKey":"vXeyuJFqTKqWUtWU","siteApi":"get","version":""}},
+{"key":"莱米app","name":"♾️┃莱米┃APP","type":3,"api":"csp_AppGet","ext":{"url":"http://laiget-1313189639.cos.ap-guangzhou.myqcloud.com/laimi.txt","dataKey":"ce032244d093b3e2","siteApi":"get","version":""}},
+{"key":"灵虎app","name":"♾️┃灵虎┃APP","type":3,"api":"csp_AppGet","ext":{"url":"https://bind.315999.xyz/89.txt","dataKey":"#getapp@TMD@2025","siteApi":"get","version":""}},
 	{
 			"key": "huomaoys",
 			"name": "🎬️火猫┃影视",
