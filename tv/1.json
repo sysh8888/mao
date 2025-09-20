@@ -20,8 +20,6 @@
       "api": "csp_Douban",
       "searchable": 0
     },
-	{"key":"小猪","name":"🍚┃小猪4K┃APP","type":3,"api":"csp_AppGet","ext":{"url":"https://xz4k.top/url.txt","dataKey":"1785acb6c963184b","siteApi":"get","version":""}},
-	{"key":"豆丁","name":"🍚┃豆丁4K┃APP","type":3,"api":"csp_AppGet","ext":{"url":"http://45.66.157.77:9427/dd.txt","dataKey":"Xasdasd!123123dd","siteApi":"get","version":"120"}},
 	{
 			"key": "巧技2",
 			"name": "🚗聚搜┃4K",
@@ -289,14 +287,9 @@
 					"分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$39#体育$34#解说$40"
 				}
 			}, 
-		{"key": "4Kdy","name": "k电影🎦XB","type": 3,"api": "csp_XBPQ","ext": 
-		{"简介":"sketch content\">&&</p>",
-		"导演": "导演：</span>&&</p>",
-		"主演": "主演：</span>&&</p>",
-		"线路数组": "data-toggle=\"tab\"&&/a>","线路标题": ">&&<",
-		"播放数组": "myui-content__list sort-list&&</ul>",
-		"播放列表": "<a&&</a>",
-		"播放链接": "href=\"&&\"","分类url": "https://www.4kdy.vip/4K-show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;rc","分类": "电影&剧集&动漫","分类值": "1&2&3"}},
+		{"key": "雪糕影视","name": "雪糕影视🎦XB","type": 3,"api": "csp_XBPQ","ext": 
+		{
+		"分类url": "https://www.xgitv.com/vshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;rc","分类": "电影$1#剧集$2#综艺$3#动漫$4"}},
    
 	{"key":"config","name":"🐼┃配置┃中心","type":3,"api":"csp_Config","playerType":2},
 	{"key":"csp_FeiMaoUC","name":"⚡┃闪电┃网盘扫码","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["http://1.95.79.193/"],"url_key":"FeiMaoUC"}},
