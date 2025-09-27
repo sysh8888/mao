@@ -487,6 +487,20 @@
       "quickSearch": 1,
       "filterable": 1
     },
+	  {
+      "key": "荐片",
+      "name": "荐片｜磁力",
+      "api": "csp_Jianpian",
+      "type": 3,
+      "ext": "https://api.ztcgi.com"
+    },
+	 {
+      "key": "修罗",
+      "name": "修罗｜磁力",
+      "api": "csp_Xlys",
+      "type": 3,
+      "ext": "https://xl01.com.de"
+    },
 	 {
       "key": "骚火影视",
       "name": "骚火｜影视",
@@ -497,14 +511,25 @@
     },
 	 {
       "key": "爱看机器人",
-      "name": "爱看｜资源差",
+      "name": "爱看｜多资源",
       "type": 3,
       "api": "csp_Ikanbot",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
-	
+	{
+      "key": "七味",
+      "name": "七味｜多资源",
+      "type": 3,
+      "api": "csp_QnMp4",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "url": "https://www.pkmp4.xyz,https://www.qwnull.com,https://www.qwmkv.com,https://www.qwfilm.com,https://www.qnmp4.com,https://www.qnnull.com,https://www.qnhot.com"
+      }
+    },
 		{
             "key": "第七电影",
             "name": "🍉第七电影┃xb",
@@ -526,6 +551,21 @@
                 "播放标题": ">&&</a>",
                 "线路数组": "<h2 class=\"flex-1&&/h2>",
                 "线路标题": ">&&<"
+            }
+        },
+			{
+            "key": "宝片电影",
+            "name": "🍉宝片┃xb",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://ibaopian.pro/vod/show/id/{cateId}/page/{catePg}/",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+                "线路标题": "data-dropdown-value=\"&&\"",
+				"简介": "<p>&&</p>"
             }
         },
 		{
@@ -557,14 +597,14 @@
 				"quickSearch": 1,
 				"filterable": 0,
 				"ext": {"数组": "<div class=\"module-item\">&&<style>",
- "图片": "data-original=\"/&&\"[替换:vod1/vod>>https://vres.wxwoq.com/vod1/vod]",
+ "图片": "https://vres.uujjyp.cn/vod1/vod+data-original=\"/vod1/vod&&\"",
 "标题": "<div class=\"v-item-title\">&&<",
 "副标题": "<span>&&</span>",
 "链接": "href=\"&&\"",
 				"搜索url": "https://www.dushe9.app/search?k={wd}&page={pg}",
 				"搜索二次截取": "search-result-list fs-margin-section&&pagenation-box",
 				"搜索数组": "<a&&</a>",
-"搜索图片": "data-original=\"/&&\"[替换:vod1/vod>>https://vres.wxwoq.com/vod1/vod]",
+"搜索图片": "data-original=\"/&&\"[替换:vod1/vod>>https://vres.uujjyp.cn/vod1/vod]",
 "搜索标题": "alt=\"&&\"",
 "搜索链接": "href=\"&&\"",
 				"导演": "导演:</div>&&</div>",
@@ -595,7 +635,6 @@
 					 "简介": "jq-jieshao\">&&<p>",
     "线路标题":"</i>&&<",
 					"播放数组":"<ul class=\"juji-con&&</ul>",
-					"播放数组": "<ul class=\"juji-con&&</ul>",
 					"播放列表": "<a&&/a>",
 "播放标题": ">&&<",
 "播放链接": "href=\"&&\"",
@@ -639,6 +678,16 @@
 		{"key": "雪糕影视","name": "雪糕影视🎦XB","type": 3,"api": "csp_XBPQ","ext": 
 		{
 		"分类url": "https://www.xgitv.com/vshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;rc","分类": "电影$1#剧集$2#综艺$3#动漫$4"}},
+		{
+      "key": "哆啦新番社",
+      "name": "哆啦A梦｜全集",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "style": {
+        "type": "list"
+      },
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/anime/json/DLXFS.json"
+    },
     {
       "key": "星芽短剧",
       "name": "星芽｜短剧",
