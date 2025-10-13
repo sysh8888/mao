@@ -36,7 +36,7 @@
 新昌综合,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 新昌生活,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
-CCTV-1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236438/1/index.m3u8?fmt=ts2hls
+CCTV-1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236539/1/index.m3u8?fmt=ts2hls
 CCTV-1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236537/1/index.m3u8?fmt=ts2hls
 CCTV-2,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236548/1/index.m3u8?fmt=ts2hls
 CCTV-3,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236485/1/index.m3u8?fmt=ts2hls
@@ -57,6 +57,7 @@ CCTV-15,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232504/1/in
 CCTV-16,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232705/1/index.m3u8?fmt=ts2hls
 CCTV-17,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236536/1/index.m3u8?fmt=ts2hls
 CCTV-高尔夫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232630/1/index.m3u8?fmt=ts2hls
+凤凰卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8
 金华新闻综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236295/1/index.m3u8?fmt=ts2hls
 金华公共频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236297/1/index.m3u8?fmt=ts2hls
 温州新闻综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236328/1/index.m3u8?fmt=ts2hls
@@ -85,7 +86,6 @@ CCTV-高尔夫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/32212326
 CCTV-1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236526/1/index.m3u8?fmt=ts2hls
 广西卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236532/1/index.m3u8?fmt=ts2hls
 湖北卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236540/1/index.m3u8?fmt=ts2hls
-CCTV-1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236539/1/index.m3u8?fmt=ts2hls
 湖南卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236544/1/index.m3u8?fmt=ts2hls
 江苏卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236546/1/index.m3u8?fmt=ts2hls
 金华公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236553/1/index.m3u8?fmt=ts2hls
@@ -322,11 +322,15 @@ Y+频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/133
 重温经典,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/849829896.smil/index.m3u8?fmt=ts2hls
 🏰4k超高清,#genre#
 CCTV-4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236655/1/index.m3u8?fmt=ts2hls
+CCTV-4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236272/index.m3u8
 深圳卫视-4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236657/1/index.m3u8?fmt=ts2hls
 北京卫视-4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236659/1/index.m3u8?fmt=ts2hls
 广东卫视-4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236661/1/index.m3u8?fmt=ts2hls
+广东卫视-4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236545/index.m3u8
 CCTV16-4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236716/1/index.m3u8?fmt=ts2hls
+CCTV16-4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236588/index.m3u8
 CCTV-4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/index.m3u8?fmt=ts2hls
+至嫀世界,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235579/index.m3u8?IAS
 浙江卫视-4K,http://w.7080.wang/cs/zgst.php?id=zj4k
 湖南卫视-4K,http://w.7080.wang/cs/zgst.php?id=hn4k
 📽️其他测试频道,#genre#
