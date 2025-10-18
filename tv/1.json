@@ -1,5 +1,5 @@
 {
-	"spider":"https://gitee.com/lujun189/ceshi/raw/master/1/jar/%E6%BD%87%E6%B4%92.jar;md5;17399b57bba55ed560f9f020616222ff",
+	"spider":"https://gitee.com/lujun189/ceshi/raw/master/1/jar/%E6%BD%87%E6%B4%92.jar;md5;dbe639527df26d6a0fd4f7c9256be475",
 	"wallpaper": "https://picsum.photos/1280/720/?blur=5",
 	"logo":"https://picx.zhimg.com/80/v2-7078b916abfcaf7b554854addfbb27a5_qhd.jpg",
 	"warningText": "欢迎使用7080接口",
@@ -55,17 +55,27 @@
         "url": "http://v.lkuys.cn"
       }
     },
-	    {
-      "key": "和友",
-      "name": "和友｜APP",
+	  {
+      "key": "冷心",
+      "name": "冷心｜APP",
       "type": 3,
-      "api": "csp_AppSy",
+      "api": "csp_AppMuou",
+      "ext": {
+        "url": "http://app.789dd.cn",
+        "name": "火猫影视"
+      }
+    },
+	 {
+      "key": "金牌",
+      "name": "金牌｜APP",
+      "type": 3,
+      "api": "csp_AppMuou",
+      "searchable": 1,
+      "changeable": 1,
       "ext": {
         "url": "",
-        "site": "http://qcb.sxtzg.com/api.txt",
-        "siteKey": "rectangleadsadxa",
-        "listKey": "gHSLmx3JQRasgztO",
-        "parsesKey": "gHSLmx3JQRasgztO"
+        "site": "https://muouapp.oss-cn-hangzhou.aliyuncs.com/MUOUAPP/godbbq.txt",
+        "name": "金牌影院（请断网再安装）"
       }
     },
 	   {
@@ -193,16 +203,48 @@
       }
     },
 	    {
-      "key": "米奇",
-      "name": "米奇丨APP",
+      "key": "小猪",
+      "name": "小猪丨APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppQi",
+      "ext": {
+        "url": "",
+        "site": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/tengxunyun.txt",
+        "dataKey": "seb5tq9mykp2w9ry",
+        "dataIv": "seb5tq9mykp2w9ry",
+        "deviceId": "",
+        "version": "",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+	    {
+      "key": "云云",
+      "name": "云云丨APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppQi",
+      "ext": {
+        "url": "",
+        "site": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt",
+        "dataKey": "staraugust123456",
+        "dataIv": "staraugust123456",
+        "deviceId": "",
+        "version": "120",
+        "ua": ""
+      }
+    },
+	{
+      "key": "紫金",
+      "name": "紫金丨APP",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
       "ext": {
-        "url": "http://www.milkidc.cn",
+        "url": "http://www.zjcvod.com",
         "site": "",
-        "dataKey": "20c79c979da8db0f",
-        "dataIv": "20c79c979da8db0f",
+        "dataKey": "ab4e9a421675f14b",
+        "dataIv": "ab4e9a421675f14b",
         "deviceId": "",
         "version": "",
         "ua": ""
@@ -224,17 +266,17 @@
         "ua": "okhttp/3.10.0 BDYS/109.0.0.8"
       }
     },
-	{
-      "key": "豆丁",
-      "name": "豆丁丨APP",
+	 {
+      "key": "驿站",
+      "name": "驿站丨APP",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
       "ext": {
-        "url": "http://45.66.157.77:9427",
-        "site": "",
-        "dataKey": "Xasdasd!123123dd",
-        "dataIv": "Xasdasd!123123dd",
+        "url": "",
+        "site": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt",
+        "dataKey": "dyyztvapiappyyds",
+        "dataIv": "dyyztvapiappyyds",
         "deviceId": "",
         "version": "",
         "ua": ""
@@ -364,6 +406,21 @@
         "version": "361"
       }
     },
+		{
+      "key": "猫爪",
+      "name": "猫爪｜APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "",
+        "site": "https://dy.8ttv.cn",
+        "dataKey": "1111111111111111",
+        "dataIv": "1111111111111111",
+        "deviceId": "",
+        "version": "120"
+      }
+    },
     {
       "key": "天翼影视",
       "name": "天翼｜4K采集",
@@ -412,6 +469,28 @@
 			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/714c5f6aa89af46f/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10",
 			"playerType": 2,
 			"ext": "7lj763gg402i7942463ji4qiaojijjh456889il6k6i35kj995h4j18li7kl2870klhg8hi647j5707k4ki7ig6953kj"
+		},
+		{
+			"key": "橘子巧计",
+			"name": "🎬️橘子┃影视",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 0,
+			"api": "csp_Muou",
+			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/714c5f6aa89af46f/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10",
+			"playerType": 2,
+			"ext": "7lj763gg0939790i5g649ki3hj5k98jil1g6jqiaoji6jg2458hhjjh9i4i62271j0hj124lj80ll9i8"
+		},
+		{
+			"key": "主角巧计",
+			"name": "🎬️主角┃影视",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 0,
+			"api": "csp_Muou",
+			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/714c5f6aa89af46f/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10",
+			"playerType": 2,
+			"ext": "7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602"
 		},
  {
       "key": "腾讯视频",
