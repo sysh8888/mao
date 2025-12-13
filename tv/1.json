@@ -135,8 +135,50 @@
       "api": "csp_XBPQ",
       "ext": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/anime/json/YHDM.json"
     },
-   
-	
+   {"key":"剧下饭","name":"🍚下饭┃PY","type":3,"changeable":0,"api":"https://13826.kstore.vip/AppV2.py","ext":{"api":"http://yjer.jumianfei.com/api.php/v1.vod","datasignkey":"6QQNUsP3PkD2ajJCPCY8","apisignkey":"lvdoutv-1.0.0"}},
+	{"key":"人人","name":"人人｜4K","type":3,"api":"csp_RenRen"},
+{"key":"即刻","name":"即刻｜4K","type":3,"api":"csp_Jike","style":{"type":"list"}},
+{"key":"笒鬼短剧","name":"笒鬼｜短剧","type":3,"api":"csp_CenguiDJ","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
+{"key":"番茄短剧","name":"番茄｜短剧","type":3,"api":"csp_XBPQ","ext":"https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/FQDJ.json"},
+{"key":"移动盘搜","name":"移动｜盘搜","type":3,"api":"csp_PanSou139","searchable":1,"quickSearch":1,"filterable":1,"ext":{"cloudDrives":"mobile"}},
+{"key":"糖果","name":"糖果｜网盘扫码","type":3,"api":"csp_TGSou","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"莫小影视","name":"莫小｜XB","type":3,"api":"csp_XBPQ","ext":"https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/MoXiaoYS.json"},
+{
+      "key": "csp_Alist",
+      "name": "Alist(网盘)",
+      "type": 3,
+      "api": "csp_Alist",
+      "searchable": 0,
+      "playerType": 2,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {"vodPic": "https://rogsoft.ddnsto.com/softcenter/softcenter/res/icon-alist.png",
+    "drives": [
+        {
+            "name": "小雅",
+            "server": "http://alist.xiaoya.pro"
+        },
+        {
+            "name": "触光",
+            "server": "https://pan.ichuguang.com"
+        },
+        {
+            "name": "公益",
+            "server": "https://max4k.cpolar.top"
+        },
+		{
+            "name": "Ecve",
+            "server": "https://pan.ecve.cn"
+        },
+        {
+            "name": "七米蓝",
+            "server": "https://al.chirmyram.com"
+        }
+    ]
+        
+        
+      }
+    },
 	{
       "key": "配置中心",
       "name": "配置｜中心",
@@ -167,6 +209,48 @@
         ]
       }
     },
+	{
+	  "key": "hohaiemby",
+	  "name": "🗄┃EMBY┃好嗨",
+	  "type": 3,
+	  "api": "https://yydsys.netlify.app/py/emby.py",
+	  "searchable": 1,
+	  "quickSearch": 1,
+	  "filterable": 1,
+	  "changeable": 1,
+	  "ext": {
+			"server": "https://emby.hohai.eu.org:443",
+			"username": "chuxin666",
+		    "password": "ycc123456",
+		    "proxy": "",
+			"thread": 0,
+		    "device_name": "My Computer",
+			"client": "Hills Windows",
+		    "client_version": "0.3.2",
+			"device_id": "a9f74849-83d5-4a28-8b85-a087af1402e3"
+			}
+	},	
+	{
+	  "key": "NYa-emby",
+	  "name": "🗄┃EMBY┃NYa",
+	  "type": 3,
+	  "api": "https://gitee.com/lujun189/ceshi/raw/master/1/py/emby.py",
+	  "searchable": 1,
+	  "quickSearch": 1,
+	  "filterable": 1,
+	  "changeable": 1,
+	  "ext": {
+			"server": "https://emby.bangumi.ca:443",
+			"username": "tangsan",
+		    "password": "tangsan",
+		    "proxy": "",
+			"thread": 0,
+		    "device_name": "My Computer",
+			"client": "Hills Windows",
+		    "client_version": "0.3.2",
+			"device_id": "a9f74849-83d5-4a28-8b85-a087af1402e3"
+			}
+	},		
 		{"key":"率率","name":"🍄|率率[资源]","type":1,
 		"api":"https://suoniapi.com/api.php/provide/vod/",
 		"searchable":1,"quickSearch":1,"changeable":1,
