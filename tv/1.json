@@ -1,5 +1,5 @@
 {
-	"spider":"https://gitee.com/lujun189/ceshi/raw/master/1/jar/%E6%BD%87%E6%B4%92.jar;md5;c1e34a052840bbc7f30d72485f011b9f",
+	"spider":"https://gitee.com/lujun189/ceshi/raw/master/1/jar/%E6%BD%87%E6%B4%92.jar;md5;e10dc67dae1c412d568bb2f6d156b9c4",
 	"wallpaper": "https://picsum.photos/1280/720/?blur=5",
 	"logo":"https://picx.zhimg.com/80/v2-7078b916abfcaf7b554854addfbb27a5_qhd.jpg",
 	"warningText": "欢迎使用7080接口",
@@ -20,9 +20,10 @@
       "api": "csp_Douban",
       "searchable": 0
     },
-	{"key":"巧技2","name":"🔍搜艘4K┃影视","type":3,"searchable":1,"quickSearch":1,"api":"csp_qiao2","playerType":2,"jar":"https://gitee.com/lujun189/ceshi/raw/master/1/jar/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10","ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"},
-	{"key":"聚搜","name":"🚗聚搜4K┃PY","type":3,"api":"https://gitee.com/lujun189/ceshi/raw/master/1/py/AppToV5.py","ext":"http://101.35.85.16:5555"},
-	{"key":"巧技5","name":"🔍搜搜1080┃影视","type":3,"searchable":1,"quickSearch":1,"api":"csp_qiao2","playerType":2,"jar": "https://gitee.com/lujun189/ceshi/raw/master/1/jar/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10","ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"},
+	{"key":"巧技二","name":"💢聚搜4k┃影视✨","type":3,"searchable":1,"quickSearch":1,"api":"csp_qiao2","playerType":2,"jar":"https://gitee.com/lujun189/ceshi/raw/master/1/jar/qij.png;md5;eb1ed5578b0a9ac5f3e6c6ee04b813e6","ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"},
+	{"key":"聚搜2","name":"🚗2聚搜4K┃PY","type":3,"api":"https://gitee.com/lujun189/ceshi/raw/master/1/py/AppToV5.py","ext":"http://118.89.203.120:8365/"},
+	{"key":"巧技五","name":"🔍搜搜1080┃影视","type":3,"searchable":1,"quickSearch":1,"api":"csp_qiao2","playerType":2,"jar":"https://gitee.com/lujun189/ceshi/raw/master/1/jar/qij.png;md5;eb1ed5578b0a9ac5f3e6c6ee04b813e6","ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"},
+	{"key":"巧技三","name":"🔍巧技三┃QD4K","type":3,"searchable":1,"quickSearch":1,"api":"csp_qiao2","playerType":2,"jar":"https://gitee.com/lujun189/ceshi/raw/master/1/jar/qij.png;md5;eb1ed5578b0a9ac5f3e6c6ee04b813e6","ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312gl815890ig2l05g9"},
     {
       "key": "AI3",
       "name": "巧计AI┃仅搜索",
@@ -32,8 +33,20 @@
       "quickSearch": 1,
       "filterable": 0,
       "playerType": 2,
-	  "jar": "https://gitee.com/lujun189/ceshi/raw/master/1/jar/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10",
+	  "jar": "https://gitee.com/lujun189/ceshi/raw/master/1/jar/071.png;md5;e31ed5578b0a9ac5f3e6c6ee04b81326",
       "ext": "7lj763gg0939795i037ki481k20ki2i3g3lk840883843k6k5l4354k0k10k48411g8654l9885g83ih2h0lh295lll81jg8k66l7011l8hji0l432912jhi3hk3140kghkhj3ghl7782871"
+    },
+	 {
+      "key": "AI2",
+      "name": "AI2┃仅搜索",
+      "type": 3,
+      "api": "csp_AI",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 2,
+	  "jar": "https://gitee.com/lujun189/ceshi/raw/master/1/jar/071.png;md5;e31ed5578b0a9ac5f3e6c6ee04b81326",
+      "ext": "7lj763gg402i79425725929jg94l9884l3k6i952i1i63j315h0l0hlhk9584h1i148054h39j1j858h3l52g1gkl9k611khli613h0hggk28hh4118i33l760hg5k00j4i382l3g6397223jl75355hi4g313266gk7gk2767i7jkhi898k1kg46g341g7h2k9074gllj18k007i702541920h953j5j110279543l1784hgl7404j0l7587k163641565665ki03j79kh61i609j0728hg6g17lk1gji3127l6523jl3565868gk1j0j"
     },
 		{
       "key": "热播影视",
@@ -135,7 +148,6 @@
       "api": "csp_XBPQ",
       "ext": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/anime/json/YHDM.json"
     },
-   {"key":"剧下饭","name":"🍚下饭┃PY","type":3,"changeable":0,"api":"https://13826.kstore.vip/AppV2.py","ext":{"api":"http://yjer.jumianfei.com/api.php/v1.vod","datasignkey":"6QQNUsP3PkD2ajJCPCY8","apisignkey":"lvdoutv-1.0.0"}},
 	{"key":"人人","name":"人人｜4K","type":3,"api":"csp_RenRen"},
 {"key":"即刻","name":"即刻｜4K","type":3,"api":"csp_Jike","style":{"type":"list"}},
 {"key":"笒鬼短剧","name":"笒鬼｜短剧","type":3,"api":"csp_CenguiDJ","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
@@ -143,6 +155,9 @@
 {"key":"移动盘搜","name":"移动｜盘搜","type":3,"api":"csp_PanSou139","searchable":1,"quickSearch":1,"filterable":1,"ext":{"cloudDrives":"mobile"}},
 {"key":"糖果","name":"糖果｜网盘扫码","type":3,"api":"csp_TGSou","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"莫小影视","name":"莫小｜XB","type":3,"api":"csp_XBPQ","ext":"https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/MoXiaoYS.json"},
+{"key":"老鸭JS","name":"🍞老鸭┃JS","type":3,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"api":"https://13826.kstore.vip/fox.js","ext":{"host":"http://103.109.20.117:550/"}},
+{"key":"老丫","name":"🍞老雅┃JS","type":3,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"api":"https://13826.kstore.vip/fox.js","ext":{"host":"https://app2512.ystva.com"}},
+{"key":"剧下饭","name":"🍚剧下饭┃py","type":3,"changeable":0,"api":"https://13826.kstore.vip/AppV2.py","ext":{"api":"http://yjer.jumianfei.com/api.php/v1.vod","datasignkey":"6QQNUsP3PkD2ajJCPCY8","apisignkey":"lvdoutv-1.0.0"}},
 {
       "key": "csp_Alist",
       "name": "Alist(网盘)",
