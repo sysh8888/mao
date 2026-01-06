@@ -24,7 +24,8 @@
 	{"key":"聚搜2","name":"🚗2聚搜4K┃PY","type":3,"api":"https://gitee.com/lujun189/ceshi/raw/master/1/py/AppToV5.py","ext":"http://118.89.203.120:8365/"},
 	{"key":"巧技五","name":"🔍搜搜1080┃影视","type":3,"searchable":1,"quickSearch":1,"api":"csp_qiao2","playerType":2,"jar":"https://gitee.com/lujun189/ceshi/raw/master/1/jar/qij.png;md5;eb1ed5578b0a9ac5f3e6c6ee04b813e6","ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"},
 	{"key":"巧技三","name":"🔍巧技三┃QD4K","type":3,"searchable":1,"quickSearch":1,"api":"csp_qiao2","playerType":2,"jar":"https://gitee.com/lujun189/ceshi/raw/master/1/jar/qij.png;md5;eb1ed5578b0a9ac5f3e6c6ee04b813e6","ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312gl815890ig2l05g9"},
-    {
+    {"key":"QD4K","name":"🐷猪猪┃影视","type":3,"searchable":1,"quickSearch":0,"api":"https://13826.kstore.vip/AppV2.py","playerType":2,"ext":{"api":"http://dmmax.kuailezhuiju2.com/icciu_api.php/v1.vod","datasignkey":"6QQNUsP3PkD2ajJCPCY8","apisignkey":"lvdoutv-1.0.0"}},
+	{
       "key": "AI3",
       "name": "巧计AI┃仅搜索",
       "type": 3,
@@ -60,29 +61,24 @@
         "url": "http://v.rbotv.cn"
       }
     },
-    {
-      "key": "浪酷影视",
-      "name": "浪酷1080｜APP",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "url": "http://v.lkuys.cn"
-      }
-    },
-	{"key":"吉米1080","name":"吉米1080｜APP","type":3,"api":"csp_AppFox","ext":{"host":"http://fox.tvmao.top"}},
+   {"key":"恋鱼","name":"恋鱼｜APP","type":3,"api":"csp_AppFox","ext":{"host":"https://173220859-1333208043.cos.ap-shanghai.myqcloud.com/1.json","ver":2}},
+	{"key":"椰子","name":"椰子｜APP","type":3,"changeable":0,"api":"csp_AppFox","ext":{"host":"https://yzysap.oss-cn-hangzhou.aliyuncs.com/yzysapp.json","ver":2}},
+	{"key":"金牌","name":"金牌4K┃APP","type":3,"searchable":1,"changeable":1,"api":"csp_AppQi","ext":{"site":"https://dtqj1.gg1080.com:443/dtjp.txt","dataKey":"kecbio48dsq131ed","dataIv":"kecbio48dsq131ed"}},
 	{"key":"爱盈","name":"爱盈1080｜APP","type":3,"api":"csp_AppQi","changeable":"1","quickSearch":0,"filterable":1,"ext":{"site":"https://aysappto.oss-cn-chengdu.aliyuncs.com/qj3.txt","dataKey":"sda1231sasddad21","dataIv":"sda1231sasddad21","ua":"okhttp/3.10.0"}},
 	{"key":"顾我","name":"顾我1080｜APP","type":3,"api":"csp_AppQi","changeable":"1","quickSearch":0,"filterable":1,"ext":{"site":"https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/guwo.txt","dataKey":"ca94b06ca3c7d80e","dataIv":"ca94b06ca3c7d80e","ua":"okhttp/3.10.0"}},
-	{"key":"蓝鹰","name":"蓝鹰1080｜APP","type":3,"quickSearch":1,"api":"csp_AppQi","ext":{"site":"https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt","dataKey":"ca94b06ca359d80e","dataIv":"ca94b06ca359d80e","version":"120"}},
+	{"key":"布雷","name":"布雷｜APP","type":3,"quickSearch":1,"api":"csp_AppQi","ext":{"site":"https://ceshi307386.oss-cn-beijing.aliyuncs.com/blurl.txt","dataKey":"5f2b7ed203a3a581","dataIv":"5f2b7ed203a3a581","version":"120"}},
 	{"key":"仓鼠","name":"仓鼠4K｜APP","type":3,"quickSearch":1,"api":"csp_AppQi","ext":{"site":"https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt","dataKey":"da61247f5b662597","dataIv":"da61247f5b662597","version":"120"}},
 	{"key":"鲸鱼","name":"鲸鱼1080｜APP","type":3,"quickSearch":1,"api":"csp_AppQi","ext":{"site":"https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json","dataKey":"AAdgrdghjfgswerA","dataIv":"AAdgrdghjfgswerA"}},
 	{"key":"小猪","name":"小猪1080丨APP","type":3,"quickSearch":1,"api":"csp_AppQi","ext":{"site":"https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/tengxunyun.txt","dataKey":"seb5tq9mykp2w9ry","dataIv":"seb5tq9mykp2w9ry","ua":"okhttp/3.10.0"}},
 	{"key":"云云","name":"云云4K丨APP","type":3,"quickSearch":1,"api":"csp_AppQi","ext":{"site":"https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt","dataKey":"staraugust123456","dataIv":"staraugust123456","version":"120"}},
-	{"key":"麻花","name":"麻花｜APP","type":3,"searchable":1,"changeable":1,"api":"csp_AppGet","ext":{"url":"http://49.235.114.19:150","dataKey":"q7gj4f9br3fls6nh","dataIv":"q7gj4f9br3fls6nh"}},
+	{"key":"气球","name":"气球｜APP","type":3,"api":"csp_AppGet","ext":{"url":"https://vv.229d.cn","dataKey":"8888888888888888","dataIv":"8888888888888888"}},
+	{"key":"随看","name":"随看｜APP","type":3,"api":"csp_AppGet","ext":{"url":"https://suikan.tpmbt.cn","dataKey":"pHQsm6wjYaCuSPEz","dataIv":"pHQsm6wjYaCuSPEz"}},
 	{"key":"驿站","name":"驿站丨APP","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"site":"https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt","dataKey":"dyyztvapiappyyds","dataIv":"dyyztvapiappyyds"}},
-
+{"key":"剧梦","name":"剧梦｜APP","type":3,"searchable":1,"changeable":1,"api":"csp_AppGet","ext":{"url":"https://www.jumengwu.com","dataKey":"1f0a873caf2550a5","dataIv":"1f0a873caf2550a5"}},
+{"key":"缘梦","name":"缘梦｜APP","type":3,"searchable":1,"changeable":1,"api":"csp_AppGet","ext":{"url":"https://www.zipfve.cn","dataKey":"1234567890987654","dataIv":"1234567890987654"}},
+{"key":"小猫","name":"小猫｜APP","type":3,"searchable":1,"changeable":1,"api":"csp_AppGet","ext":{"site":"http://xywlkj.oss-cn-beijing.aliyuncs.com/wp-content/uploads/2024/12/1.txt","dataKey":"xmyxmyxywlkjxywl","dataIv":"xmyxmyxywlkjxywl"}},
+{"key":"茉莉","name":"茉莉｜APP","type":3,"searchable":1,"api":"csp_AppGet","ext":{"site":"https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt","dataKey":"88689667dce61725","dataIv":"88689667dce61725"}},
+{"key":"数字","name":"数字｜APP","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://app1-0-0.87333.cc","dataKey":"VwsHxkCViDXEExWa","dataIv":"VwsHxkCViDXEExWa"}},
 	{
       "key": "奇优影视",
       "name": "奇优1080｜影视",
@@ -319,7 +315,7 @@
 					}
 				}
 			},
-
+{"name":"牛牛2","type":1,"url":"https://zy.qiaoji8.com/xiafan.php?url=","ext":{"flag":["QD4K","iyf","duanju","gzcj","GTV","GZYS","weggz","Ace"],"header":{"User-Agent":"okhttp/4.9.1"}}},
 			{
 				"name": "线路Ⓒ",
 				"type": 0,
