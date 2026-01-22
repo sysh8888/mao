@@ -61,6 +61,9 @@
         "url": "http://v.rbotv.cn"
       }
     },
+	{"key":"木瓜","name":"木瓜｜APP","type":3,"changeable":0,"api":"csp_AppFox","ext":{"host":"http://www.yezitv.top/dtym.json","ver":2}},
+	{"key":"奇奇","name":"奇奇｜APP","type":3,"api":"csp_AppQi","changeable":"1","quickSearch":1,"filterable":1,"ext":{"url":"http://110.42.67.221:8006","dataKey":"123456789abcdefg","dataIv":"123456789abcdefg","search":"searchList7","init":"initV122","ua":"okhttp/3.10.0"}},
+   {"key":"爱盈","name":"爱盈｜APP","type":3,"api":"csp_AppQi","changeable":"1","quickSearch":1,"filterable":1,"ext":{"site":"https://rxysyyds.oss-cn-chengdu.aliyuncs.com/qiji.txt","dataKey":"sjvlwnhk6h9znl61","dataIv":"sjvlwnhk6h9znl61","version":"305","ua":"okhttp/3.10.0"}},
    {"key":"恋鱼","name":"恋鱼｜APP","type":3,"api":"csp_AppFox","ext":{"host":"https://173220859-1333208043.cos.ap-shanghai.myqcloud.com/1.json","ver":2}},
 	{"key":"椰子","name":"椰子｜APP","type":3,"changeable":0,"api":"csp_AppFox","ext":{"host":"https://yzysap.oss-cn-hangzhou.aliyuncs.com/yzysapp.json","ver":2}},
 	{"key":"金牌","name":"金牌4K┃APP","type":3,"searchable":1,"changeable":1,"api":"csp_AppQi","ext":{"site":"https://dtqj1.gg1080.com:443/dtjp.txt","dataKey":"kecbio48dsq131ed","dataIv":"kecbio48dsq131ed"}},
@@ -149,7 +152,6 @@
 {"key":"笒鬼短剧","name":"笒鬼｜短剧","type":3,"api":"csp_CenguiDJ","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
 {"key":"番茄短剧","name":"番茄｜短剧","type":3,"api":"csp_XBPQ","ext":"https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/FQDJ.json"},
 {"key":"移动盘搜","name":"移动｜盘搜","type":3,"api":"csp_PanSou139","searchable":1,"quickSearch":1,"filterable":1,"ext":{"cloudDrives":"mobile"}},
-{"key":"糖果","name":"糖果｜网盘扫码","type":3,"api":"csp_TGSou","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"莫小影视","name":"莫小｜XB","type":3,"api":"csp_XBPQ","ext":"https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/MoXiaoYS.json"},
 {"key":"老鸭JS","name":"🍞老鸭┃JS","type":3,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"api":"https://13826.kstore.vip/fox.js","ext":{"host":"http://103.109.20.117:550/"}},
 {"key":"老丫","name":"🍞老雅┃JS","type":3,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"api":"https://13826.kstore.vip/fox.js","ext":{"host":"https://app2512.ystva.com"}},
