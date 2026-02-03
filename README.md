@@ -8,11 +8,13 @@ OK影视、TVBox、影视仓配置文件，资源均来自于各路大神无私�
 - 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
 - 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
 - 配置地址---输入站源---确定即可  URL站源规则   
-🔰本仓库订阅地址
+### 🔰本仓库订阅地址
 单仓订阅地址：
+`https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json`
+`https://gh.llkk.cc/https://raw.githubusercontent.com/sysh8888/mao/main/tv/1.json`
 
-[7080接口](https://gh.llkk.cc/https://raw.githubusercontent.com/sysh8888/mao/main/tv/1.json)
-⚙️GitHub加速站
+
+### ⚙️GitHub加速站
 https://gh-proxy.com/
 https://github.moeyy.xyz/
 https://gh.xxooo.cf/
@@ -24,7 +26,8 @@ https://ghproxy.net/
 https://gh.aptv.app/
 https://gitpr.xmcom.us.kg/
 https://ghproxy.cn/
-✨热门(TVBox、影视仓、OK影视)配置接口
+
+### ✨热门(TVBox、影视仓、OK影视)配置接口
 （1）OK ： http://ok321.top/tv
 （2）短剧接口：http://74.120.175.78/JK/XYQTVBox/dj.json
 （3）俊于：http://home.jundie.top:81/top98.json
@@ -42,6 +45,7 @@ https://ghproxy.cn/
 （15）星辰：https://fmbox.cc
 （16）林中小屋：https://8815.kstore.vip/tvbox/Ace
 （17）潇洒：https://9877.kstore.space/AnotherD/api.json
+
 ------
 ### 开源仓库
 https://github.com/  
