@@ -1,3 +1,4 @@
+OK影视、TVBox、影视仓配置文件，资源均来自于各路大神无私分享，如有侵权，请联系删除。🏅
 ### TVBox 开源版
 - TVBox [GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。  
 - 通过导入特点资源接口,解析各类爬虫源、XP源、采集源等。完全无任何限制,也无任何广告。  
@@ -7,20 +8,40 @@
 - 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
 - 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
 - 配置地址---输入站源---确定即可  URL站源规则   
-### 版本
-- 1.开源版  自用`https://raw.liucn.cc/box/m.json`   
- 🔰官方原版[TVBox_q215613905_20230302-0924.apk](https://hny3idc.jb51.net/202302/tools/tvbox_866155.apk)
+🔰本仓库订阅地址
+单仓订阅地址：
 
-- 2.多仓版  他人整理`https://raw.liucn.cc/box/dc.txt`  
- 🔰原版[影视仓_5.0.3_opt.apk](http://s1.xiazai163.com/apk2/yingshicangtv_v5.0.34_3673.com.apk)　
-
-TVbox开源版 | 多仓版-安卓哥开发
----------|---------
-![box]![影视仓](https://github.com/user-attachments/assets/caa8d370-38e8-4072-8364-390653f93b4a)
-
-![box]![配置](https://github.com/user-attachments/assets/2b3fc5ca-b953-485a-849a-918f9cfa99d7)
-
-
+[7080接口](https://gh.llkk.cc/https://raw.githubusercontent.com/sysh8888/mao/main/tv/1.json)
+⚙️GitHub加速站
+https://gh-proxy.com/
+https://github.moeyy.xyz/
+https://gh.xxooo.cf/
+https://gh.llkk.cc/
+https://github.ednovas.xyz/
+https://gitdl.cn/
+https://cf.ghproxy.cc/
+https://ghproxy.net/
+https://gh.aptv.app/
+https://gitpr.xmcom.us.kg/
+https://ghproxy.cn/
+✨热门(TVBox、影视仓、OK影视)配置接口
+（1）OK ： http://ok321.top/tv
+（2）短剧接口：http://74.120.175.78/JK/XYQTVBox/dj.json
+（3）俊于：http://home.jundie.top:81/top98.json
+（4）饭太硬：https://www.饭太硬.com/tv
+（5）肥猫：http://肥猫.com
+（6）天天开心：http://rihou.cc:55/天天开心
+（7）小米：https://mitvbox.xyz/小米/DEMO.json
+（8）摸鱼儿：http://我不是.摸鱼儿.com
+（9）菜妮丝：https://tvbox.cainisi.cf
+（10）盒子迷： https://盒子迷.top/春盈天下
+（11）多多：https://yydsys.top/duo
+（12）南风：https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json
+（13）王二小：https://9280.kstore.vip/newwex.json
+（14）巧技：http://cdn.qiaoji8.com/tvbox.json
+（15）星辰：https://fmbox.cc
+（16）林中小屋：https://8815.kstore.vip/tvbox/Ace
+（17）潇洒：https://9877.kstore.space/AnotherD/api.json
 ------
 ### 开源仓库
 https://github.com/  
