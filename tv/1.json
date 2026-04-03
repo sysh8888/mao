@@ -1,3 +1,4 @@
+
 {
 	"spider":"https://gitee.com/lujun189/ceshi/raw/master/1/jar/feimao.jar;md5;9c8e45f60d3d413d8b140ec21811deb0",
 	"wallpaper": "https://picsum.photos/1280/720/?blur=5",
@@ -89,7 +90,71 @@
             "api": "csp_AppGet",
             "ext": "https://yd4kcms.yd4k.top|Tpmm9FD99lJ8Dexa"
         },
+  {
+            "key": "花猪潇洒",
+            "name": "📀┃花猪｜APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "ext": "https://tiantangwulu.oss-cn-shanghai.aliyuncs.com/axiba.txt|h5w3d6g1j9s2h3f6"
+        },
+		{
+            "key": "优兔潇洒",
+            "name": "📀┃优兔｜APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "ext": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt|UrWKPnmQWJA8AQzd"
+        },
+		{
+            "key": "蓝鹰潇洒",
+            "name": "📀┃蓝鹰｜APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "ext": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt|ca94b06ca359d80e"
+        },
+		{
+            "key": "小羊潇洒",
+            "name": "📀┃小羊｜APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "ext": "https://qjappcms410.xy4k.com|mC6kG4mI1uM8tS4o"
+        },
+		{
+            "key": "幕启星河小米",
+            "name": "⭐┃星河4K｜APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "ext": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt|kj37zs29q22jk96t"
+        },
+		{
+            "key": "可以小米",
+            "name": "💥┃可以4K｜APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "ext": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/APP.txt|kB79jPQIpDxxcy7y"
+        },
+		{
+            "key": "花猪小米",
+            "name": "🐷┃花猪1080｜APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "ext": "https://niuhulu.oss-cn-hangzhou.aliyuncs.com/niuniu.txt|uxxDgHxsdoSgVGZZ"
+        },
+		{
+            "key": "仓鼠小米",
+            "name": "🐭仓鼠4k｜APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "ext": "https://qjappcms410.xy4k.com|mC6kG4mI1uM8tS4o"
+        },
+		{
+            "key": "金牌小米",
+            "name": "🥇金牌｜APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "ext": "https://qj3.ggtvb.cc|eecbio48dsq13kkk"
+        },
 		
+
    {
             "key": "潮流",
             "name": "🏜┃潮流┃APP",
@@ -303,6 +368,8 @@
             "api": "csp_AppGet",
             "ext": "http://tv.yy-fun.cc|qkxnwkfjwpcnwycl"
         },
+		
+	
   {
             "key": "腾腾视频",
             "name": "腾腾｜视频",
@@ -331,7 +398,13 @@
             "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
             "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/AQY.js"
         },
-
+ {
+            "key": "采集之王",
+            "name": "采集｜合集",
+            "type": 3,
+            "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
+            "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/CJZW.js?type=url&params=https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/CJJT.json$1$1"
+        },
 
 	  {
             "key": "config",
