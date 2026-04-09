@@ -1,4 +1,3 @@
-
 {
 	"spider":"https://gitee.com/lujun189/ceshi/raw/master/1/jar/feimao.jar;md5;9c8e45f60d3d413d8b140ec21811deb0",
 	"wallpaper": "https://picsum.photos/1280/720/?blur=5",
@@ -117,6 +116,13 @@
             "type": 3,
             "api": "csp_AppQi",
             "ext": "https://qjappcms410.xy4k.com|mC6kG4mI1uM8tS4o"
+        },
+		{
+            "key": "星空潇洒",
+            "name": "🍚┃星空4K┃APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "http://xk7.xkgzs.xyz|107jkcdncofcdkjk"
         },
 		{
             "key": "幕启星河小米",
