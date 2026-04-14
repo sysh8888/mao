@@ -82,27 +82,25 @@
             "filterable": 1,
             "ext": "http://111.170.58.23:802/api.php/app/"
         },
-		{
-            "key": " 云朵1",
-            "name": "🐼┃云朵┃APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "https://yd4kcms.yd4k.top|Tpmm9FD99lJ8Dexa"
-        },
-  {
-            "key": "花猪潇洒",
-            "name": "📀┃花猪｜APP",
+      {
+            "key": "金牌潇洒",
+            "name": "金牌｜APP",
             "type": 3,
             "api": "csp_AppQi",
-            "ext": "https://tiantangwulu.oss-cn-shanghai.aliyuncs.com/axiba.txt|h5w3d6g1j9s2h3f6"
+            "searchable": 1,
+            "changeable": 1,
+			"ext": "https://qj4.catbb.xyz|eecbio48dsq13kkk"
         },
-		{
-            "key": "优兔潇洒",
-            "name": "📀┃优兔｜APP",
+		 {
+            "key": "老鹰潇洒",
+            "name": "老鹰｜APP",
             "type": 3,
             "api": "csp_AppQi",
-            "ext": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt|UrWKPnmQWJA8AQzd"
+            "searchable": 1,
+            "changeable": 1,
+			"ext": "https://maotouyinghubei.oss-cn-wuhan-lr.aliyuncs.com/maotouyinghb.txt|zxPtEUDGVllIUhDB"
         },
+
 		{
             "key": "蓝鹰潇洒",
             "name": "📀┃蓝鹰｜APP",
@@ -111,11 +109,18 @@
             "ext": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt|ca94b06ca359d80e"
         },
 		{
-            "key": "小羊潇洒",
-            "name": "📀┃小羊｜APP",
+            "key": "映画潇洒",
+            "name": "🍚┃映画┃APP",
             "type": 3,
-            "api": "csp_AppQi",
-            "ext": "https://qjappcms410.xy4k.com|mC6kG4mI1uM8tS4o"
+            "api": "csp_AppGet",
+            "ext": "https://cms140.yhg.one|bM7iC9eA3oZ1nB7z"
+        },
+		{
+            "key": "王子潇洒",
+            "name": "🍚┃王子┃APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://app.95112475.xyz|5a9w6x58dsq6z3a6"
         },
 		{
             "key": "星空潇洒",
@@ -125,40 +130,50 @@
             "ext": "http://xk7.xkgzs.xyz|107jkcdncofcdkjk"
         },
 		{
-            "key": "幕启星河小米",
-            "name": "⭐┃星河4K｜APP",
+            "key": "秒看潇洒",
+            "name": "🍚┃秒看4K┃APP",
             "type": 3,
-            "api": "csp_AppQi",
-            "ext": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt|kj37zs29q22jk96t"
+            "api": "csp_AppGet",
+            "ext": "https://mk1080.top/get.txt|c60d88b2eep53za8"
         },
 		{
-            "key": "可以小米",
-            "name": "💥┃可以4K｜APP",
+            "key": "茉莉潇洒",
+            "name": "🍚┃茉莉┃APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt|88689667dce61725"
+        },
+		{
+            "key": "灵虎潇洒",
+            "name": "🍚┃灵虎┃APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://bind.315999.xyz/89.txt|#getapp@TMD@2025"
+        },
+		 {
+            "key": "四叶草小米",
+            "name": "🍀星叶4K｜APP",
             "type": 3,
             "api": "csp_AppQi",
-            "ext": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/APP.txt|kB79jPQIpDxxcy7y"
+            "ext": "https://qj4.catbb.xyz|eecbio48dsq13kkk"
+        },
+		{
+            "key": "爱营小米",
+            "name": "💥爱影4K｜APP",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_AppQi",
+            "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q22.txt|nzEqOYYH3QzHuEPl"
         },
 		{
             "key": "花猪小米",
-            "name": "🐷┃花猪1080｜APP",
+            "name": "🐷┃小米花猪｜APP",
             "type": 3,
             "api": "csp_AppQi",
             "ext": "https://niuhulu.oss-cn-hangzhou.aliyuncs.com/niuniu.txt|uxxDgHxsdoSgVGZZ"
         },
-		{
-            "key": "仓鼠小米",
-            "name": "🐭仓鼠4k｜APP",
-            "type": 3,
-            "api": "csp_AppQi",
-            "ext": "https://qjappcms410.xy4k.com|mC6kG4mI1uM8tS4o"
-        },
-		{
-            "key": "金牌小米",
-            "name": "🥇金牌｜APP",
-            "type": 3,
-            "api": "csp_AppQi",
-            "ext": "https://qj3.ggtvb.cc|eecbio48dsq13kkk"
-        },
+
 		
 
    {
@@ -273,7 +288,7 @@
         },
         {
             "key": "3Q",
-            "name": "3️⃣┃3Q┃APP",
+            "name": "3Q┃APP",
             "type": 3,
             "api": "csp_App3Q"
         },
