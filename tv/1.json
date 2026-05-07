@@ -178,6 +178,15 @@
             "ext": "https://bind.315999.xyz/89.txt|#getapp@TMD@2025"
         },
 		{
+            "key": "驿站小米",
+            "name": "👻驿站｜APP",
+            "type": 3,
+            "api": "csp_AppQi",
+			"searchable": 1,
+            "changeable": 1,
+            "ext": "https://niuhulu.oss-cn-hangzhou.aliyuncs.com/niuniu.txt|uxxDgHxsdoSgVGZZ"
+        },
+		{
             "key": "首发标清小米",
             "name": "👻 首发｜APP",
             "type": 3,
@@ -202,7 +211,22 @@
             "api": "csp_AppQi",
 			"searchable": 1,
             "changeable": 1,
-            "ext": "https://niuhulu.oss-cn-hangzhou.aliyuncs.com/niuniu.txt|uxxDgHxsdoSgVGZZ"
+            "ext": "https://c0nfb829mg2ds3z6x28fb1hjs7euh9vd.68.gy:7865|g68kj3fdh3c23t98"
+        },
+		{
+            "key": "爱营小米",
+            "name": "🐷┃爱营｜APP",
+            "type": 3,
+            "api": "csp_AppQi",
+			"searchable": 1,
+            "changeable": 1,
+            "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q22.txt|nzEqOYYH3QzHuEPl"
+        },
+		{
+            "key": "独播库小米",
+            "name": "🔥 独播库",
+            "type": 3,
+            "api": "https://asxav.tprssz.com/image/2026-04-09/8/2042044022836473856#dbokutv.js"
         },
 
 		
