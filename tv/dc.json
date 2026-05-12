@@ -1,8 +1,8 @@
 {
 	"urls": [
 		{
-			"name": "Easy的分享",
-			"url": "https://gh-proxy.com/raw.githubusercontent.com/EasyXC/EasyTVbox/main/easytv.jpg"
+			"name": "7080",
+			"url": "http://mao.7080.wang/tv/1.json"
 		},
 		{
 			"name": "EasyTV",
@@ -17,20 +17,12 @@
 			"url": "http://www.饭太硬.net/tv"
 		},
 		{
-			"name": "不良帅",
-			"url": "https://gh-proxy.com/https://raw.githubusercontent.com/bzr-zd/blr/main/不良帅.png"
-		},
-		{
 			"name": "哈基米",
 			"url": "https://17264.kstore.space/哈基米.png"
 		},
 		{
 			"name": "林中小屋",
 			"url": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/OK/okys.json"
-		},
-		{
-			"name": "OK",
-			"url": "http://ok213.top/tv"
 		},
 		{
 			"name": "王二小放牛娃",
@@ -93,6 +85,18 @@
 		{
 			"name": "玄珠",
 			"url": "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json"
+		},
+		{
+			"name": "刘备",
+			"url": "https://raw.liucn.cc/box/m.json"
+		},
+		{
+			"name": "盒子迷",
+			"url": "https://盒子迷.top/禁止贩卖"
+		},
+		{
+			"name": "小苹果",
+			"url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json"
 		},
 		{
 			"name": "VOX",
