@@ -56,7 +56,10 @@
 			"name": "天微七星",
 			"url": "http://7337.kstore.space/qxys/禁止传播.json"
 		},
-
+ {
+      "name": "裤佬接口",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2"
+    },
 		{
 			"name": "苍蓝小屋",
 			"url": "https://13537.kstore.vip/tvbox/test.json"
@@ -79,8 +82,8 @@
 			"url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
 		},
 		{
-			"name": "潇洒",
-			"url": "https://9877.kstore.space/AnotherD/api.json"
+			"name": "潇洒ONE",
+			"url": "http://9877.kstore.space/ONE/one.json"
 		},
 		{
 			"name": "玄珠",
@@ -98,6 +101,38 @@
 			"name": "小苹果",
 			"url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json"
 		},
+		{
+      "name": "动漫城",
+      "url": "https://www.yingm.cc/dm/dm.json"
+    },
+	{
+      "name": "夏夏YE",
+      "url": "https://11405.kstore.space/xiaye/qk4k.json"
+    },
+	{
+      "name": "玄珠接口",
+      "url": "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json"
+    },
+	 {
+      "name": "蜗牛接口",
+      "url": "https://tv.xn--11x555b.top/svip"
+    },
+	{
+      "name": "kong88接口",
+      "url": "https://kong88.dpdns.org/4k.json"
+    },
+	{
+      "name": "老白接口",
+      "url": "https://github.laobaitv.net/https://raw.githubusercontent.com/zqs1qiwan/laobaitv/refs/heads/main/test/test/tvbox/laobaitvbox.json"
+    },
+	 {
+      "name": "iiptv接口",
+      "url": "http://iiptv.xyz/hzm"
+    },
+	   {
+      "name": "小脑虎",
+      "url": "http://6492.kstore.space/xnf/xnf.json"
+    },
 		{
 			"name": "VOX",
 			"url": "http://rihou.cc:88/demo.php"
