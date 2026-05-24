@@ -57,15 +57,6 @@
                 "ver": 3
             }
         },
-        {
-            "key": "九灵移动",
-            "name": "九灵❤免扫4K",
-            "type": 3,
-            "jar": "https://fastlink.cokey.xyz/f/1LmEH5/yunY.jar",
-            "api": "csp_YDjisu",
-            "searchable": 1,
-            "changeable": 1
-        },
 		{
             "key": "裤佬-EmbyJS",
             "name": "EMBY❤免扫4K",
@@ -651,7 +642,15 @@
             "api": "csp_AppGet",
             "ext": "http://tv.yy-fun.cc|qkxnwkfjwpcnwycl"
         },
-		
+		 {
+            "key": "九灵移动",
+            "name": "九灵❤免扫4K",
+            "type": 3,
+            "jar": "https://fastlink.cokey.xyz/f/1LmEH5/yunY.jar",
+            "api": "csp_YDjisu",
+            "searchable": 1,
+            "changeable": 1
+        },
 	
   {
             "key": "腾腾视频",
