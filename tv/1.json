@@ -169,7 +169,7 @@
         "跳转播放链接": "var player_*\"url\":\"&&\"",
         "分类url": "https://silidm.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
         "分类": "电影$dianying#剧集$juji#动漫$dongman#综艺$zongyi"
-      },
+      }},
     
     {
       "key": "久久",
