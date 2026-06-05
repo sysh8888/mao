@@ -17,6 +17,10 @@
 			"url": "http://www.饭太硬.net/tv"
 		},
 		{
+			"name": "嗷呜",
+			"url": "http://mytv6688.xyz/aowu/config.webp"
+		},
+		{
 			"name": "哈基米",
 			"url": "https://17264.kstore.space/哈基米.png"
 		},
@@ -34,7 +38,7 @@
 		},
 		{
 			"name": "肥猫",
-			"url": "http://肥猫.com"
+			"url": "http://xn--z7x900a.net/"
 		},
 		{
 			"name": "摸鱼",
@@ -132,6 +136,10 @@
 	   {
       "name": "小脑虎",
       "url": "http://6492.kstore.space/xnf/xnf.json"
+    },
+	{
+      "name": "tvbox聚合",
+      "url": "http://tvjuhe.mitetech.cn:5622/"
     },
 		{
 			"name": "VOX",
