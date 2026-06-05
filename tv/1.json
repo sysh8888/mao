@@ -601,6 +601,52 @@
         }
       }
     },
+	{
+			"key": "free影视",
+			"name": "free影视",
+			"type": 3,
+			"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+			"api": "csp_XBPQ",
+			"ext": "https://clun.top/js/s/free.json"
+		},
+		{
+			"key": "小苹果|PHP",
+			"name": "小苹果",
+			"type": 4,
+			"api": "http://zhangqun19.serv00.net/pingguo.php",
+			"style": {
+				"type": "rect",
+				"ratio": 1.33
+			},
+			"changeable": 1
+		},
+	{
+    "key": "XBPQ_枫叶影院2", 
+    "name": "枫叶｜4K影院 (XB)", 
+    "type": 3, 
+    "api": "csp_XBPQ", 
+	"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+    "ext": {
+        "编码": "UTF-8", 
+        "请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1#Referer$https://www.tjtcdl.com/",
+        "主页url": "https://www.tjtcdl.com/", 
+        "数组": "public-list-div public-list-bj\">&&</div>", 
+        "标题": "title=\"&&\"", 
+        "副标题": "public-list-prb hide ft2\">&&</span>",
+        "图片": "data-src=\"&&\"[替换:https://gimg0.baidu.com/gimg/app=2001&amp;n=0&amp;g=0n&amp;fmt=jpeg&amp;src=>>https://]", 
+        "链接": "href=\"&&\"", 
+        "线路数组": "swiper-slide\">&&</a>", 
+        "线路标题": "</i>&&</span>", 
+        "播放数组": "anthology-list-play size\">&&</ul>", 
+        //"播放列表": "<a&&</a>", 
+        "播放链接": "href=\"&&\"", 
+        "播放标题": ">&&</a>", 
+        "跳转播放链接": "var player=*\"url\":\"&&\"",
+        "简介": "this-desc\">&&</div>", 
+        "嗅探词": "index.m3u8#.mp4?#.m3u8#.mp4#.flv#.mp3#.m4a#.ts",
+        "分类url": "https://www.tjtcdl.com/{cateId}/page/{catePg}.html", 
+        "分类": "腾讯vip热播$label/qq#优酷vip热播$label/yk#B站vip热播$label/bli"
+}},
     {
       "key": "4K动漫",
       "name": "🤣KKKK┃动漫",
