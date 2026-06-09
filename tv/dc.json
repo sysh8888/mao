@@ -16,6 +16,10 @@
 			"name": "饭太硬",
 			"url": "http://www.饭太硬.net/tv"
 		},
+				{
+			"name": "小米",
+			"url": "https://cnb.cool/xiaomi666888/devcontainer/-/git/raw/main/gege.json"
+		},
 		{
 			"name": "嗷呜",
 			"url": "http://mytv6688.xyz/aowu/config.webp"
@@ -138,8 +142,20 @@
       "url": "http://6492.kstore.space/xnf/xnf.json"
     },
 	{
+      "name": "VOX线路",
+      "url": "http://rihou.cc:88/demo.php"
+    },
+	{
       "name": "tvbox聚合",
       "url": "http://tvjuhe.mitetech.cn:5622/"
+    },
+	{
+      "name": "PG网盘",
+      "url": "https://www.252035.xyz/p/jsm.json"
+    },
+	{
+      "name": "真心网盘",
+      "url": "https://www.252035.xyz/z/FongMi.json"
     },
 		{
 			"name": "VOX",
