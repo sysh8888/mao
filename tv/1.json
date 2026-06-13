@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/lujun189/ceshi/raw/master/1/jar/feimao.jar;md5;b81a5747f91e7169bdc7e3f68bd995e0",
+  "spider": "https://gitee.com/lujun189/ceshi/raw/master/1/jar/feimao.jar;md5;e2693c58ebc58abecc7282b721db79ca",
   "wallpaper": "https://picsum.photos/1280/720/?blur=5",
   "logo": "https://picx.zhimg.com/80/v2-7078b916abfcaf7b554854addfbb27a5_qhd.jpg",
   "warningText": "欢迎使用7080接口",
@@ -272,7 +272,8 @@
       "changeable": 1,
       "ext": "https://qj4.catbb.xyz|eecbio48dsq13kkk"
     },
-     {
+    
+	{
       "key" : "潮流",
       "name" : "🏜┃潮流┃APP",
       "type" : 3,
@@ -354,7 +355,7 @@
       "api" : "csp_Jianpian",
       "type" : 3,
       "playerType" : "2",
-      "ext" : "https://ev2089.zxbwv.com"
+      "ext" : "https://api.ztcgi.com"
     },
     {
       "key" : "csp_SaoHuo",
@@ -388,7 +389,22 @@
       "type" : 3,
       "api" : "csp_SP360"
     },
-	{
+    {
+      "key" : "csp_Bili",
+      "name" : "🅱┃️哔哩┃合集",
+      "type" : 3,
+      "api" : "csp_Bili",
+      "playerType" : 2,
+      "ext" : {
+        "json" : "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt",
+        "cookie" : ""
+      },
+      "style" : {
+        "type" : "rect",
+        "ratio" : 1.333
+      }
+    },
+    {
       "key" : "csp_Dm84",
       "name" : "🤣┃动漫┃巴士",
       "type" : 3,
@@ -410,7 +426,20 @@
       "api" : "csp_AppGet",
       "ext" : "https://new.app.bytegooty.com|N4yj7l7xKxHF4*gz"
     },
-	{
+    {
+      "key" : "csp_FirstAid",
+      "name" : "🚑┃急救┃教学",
+      "type" : 3,
+      "api" : "csp_FirstAid",
+      "searchable" : 0,
+      "quickSearch" : 0,
+      "style" : {
+        "type" : "rect",
+        "ratio" : 3.8
+      },
+      "gridview" : "0-0-4.1"
+    },
+    {
       "key" : "酷狗",
       "name" : "🐾┃酷狗┃音乐",
       "type" : 3,
@@ -454,16 +483,20 @@
       }
     },
     {
-      "key" : "drpy_js_310直播",
-      "name" : "🏀┃体育┃直播",
+      "key" : "瓜子",
+      "name" : "🏀┃瓜子┃体育",
       "type" : 3,
-      "api" : "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "changeable" : 0,
-      "gridview" : 3,
+      "api" : "csp_GuaziTY",
       "style" : {
-        "type" : "list"
+        "type" : "rect",
+        "ratio" : 1.333
       },
-      "ext" : "https://img2.gelonghui.com/library/d6014-7a5d5b19-3fe5-456a-8335-925bc845606fnull"
+      "searchable" : 0,
+      "quickSearch" : 0,
+      "filterable" : 1,
+      "timeout" : 12,
+      "order_num" : 0,
+      "changeable" : 0
     },
     {
       "key" : "米搜",
@@ -530,15 +563,7 @@
       "api": "csp_Config",
       "playerType": 2
     },
-    {
-      "key": "living",
-      "name": "🐼┃游戏┃直播",
-      "type": 3,
-      "api": "csp_Living",
-      "playerType": 2,
-      "ext": "https://lemonlive-api-1.deno.dev"
-    },
-    {
+  {
       "key" : "csp_FeiMaoUC",
       "name" : "⚡┃闪电┃优汐",
       "type" : 3,
@@ -601,7 +626,33 @@
         }
       }
     },
-	
+   
+	{
+    "key": "XBPQ_枫叶影院2", 
+    "name": "枫叶｜4K影院 (XB)", 
+    "type": 3, 
+    "api": "csp_XBPQ", 
+    "ext": {
+        "编码": "UTF-8", 
+        "请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1#Referer$https://www.tjtcdl.com/",
+        "主页url": "https://www.tjtcdl.com/", 
+        "数组": "public-list-div public-list-bj\">&&</div>", 
+        "标题": "title=\"&&\"", 
+        "副标题": "public-list-prb hide ft2\">&&</span>",
+        "图片": "data-src=\"&&\"[替换:https://gimg0.baidu.com/gimg/app=2001&amp;n=0&amp;g=0n&amp;fmt=jpeg&amp;src=>>https://]", 
+        "链接": "href=\"&&\"", 
+        "线路数组": "swiper-slide\">&&</a>", 
+        "线路标题": "</i>&&</span>", 
+        "播放数组": "anthology-list-play size\">&&</ul>", 
+        //"播放列表": "<a&&</a>", 
+        "播放链接": "href=\"&&\"", 
+        "播放标题": ">&&</a>", 
+        "跳转播放链接": "var player=*\"url\":\"&&\"",
+        "简介": "this-desc\">&&</div>", 
+        "嗅探词": "index.m3u8#.mp4?#.m3u8#.mp4#.flv#.mp3#.m4a#.ts",
+        "分类url": "https://www.tjtcdl.com/{cateId}/page/{catePg}.html", 
+        "分类": "腾讯vip热播$label/qq#优酷vip热播$label/yk#B站vip热播$label/bli"
+}},
     {
       "key": "4K动漫",
       "name": "🤣KKKK┃动漫",
