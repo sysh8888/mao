@@ -22,13 +22,6 @@
       "ua" : "bingcha/1.1 (mianfeifenxiang) "
     },
     {
-      "key" : "KafLive",
-      "name" : "咖啡体育",
-      "type" : 3,
-      "api" : "csp_KafLiveAmns",
-      "playerType" : 2
-    },
-    {
       "name" : "虎牙一起看",
       "type" : 0,
       "url" : "https://sub.ottiptv.cc/huyayqk.m3u",
