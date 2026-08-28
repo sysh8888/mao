@@ -5,7 +5,7 @@
     "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
   "warningText": "欢迎使用7080接口",
   "lives": [
-    {
+   {
       "name": "浙江移动",
       "type": 0,
       "url": "./tv.txt",
@@ -20,6 +20,33 @@
       "playerType" : 2,
       "url" : "http://193.123.86.190:14888/TV/iptv.php",
       "ua" : "bingcha/1.1 (mianfeifenxiang) "
+    },
+	{
+      "name": "浙江电信4",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/jia070310/4K-IPTV-M3U/m3u/%E6%B5%99%E6%B1%9F%E7%94%B5%E4%BF%A14.m3u",
+      "ua": "okhttp/3.12.13",
+      "playerType": 1,
+      "epg": "http://diyp4.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp4.112114.xyz/logo/{name}.png"
+    },
+	{
+      "name": "浙江联通",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/jia070310/4K-IPTV-M3U/m3u/%E6%B5%99%E6%B1%9F%E8%81%94%E9%80%9A.m3u",
+      "ua": "okhttp/3.12.13",
+      "playerType": 1,
+      "epg": "http://diyp4.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp4.112114.xyz/logo/{name}.png"
+    },
+	{
+      "name": "移动咪咕",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/jia070310/lemonTV/iptv-fe.m3u",
+      "ua": "okhttp/3.12.13",
+      "playerType": 1,
+      "epg": "http://diyp4.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp4.112114.xyz/logo/{name}.png"
     },
     {
       "name" : "虎牙一起看",
