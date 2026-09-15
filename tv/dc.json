@@ -82,7 +82,7 @@
 		},
 		{
 			"name": "jsm",
-			"url": "https://gh-proxy.com/https:/raw.githubusercontent.com/leevi0709/one/main/jsm.json"
+			"url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json"
 		},
 
 		{
@@ -90,8 +90,8 @@
 			"url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
 		},
 		{
-			"name": "潇洒ONE",
-			"url": "https://qist.wyfc.qzz.io/xiaosa/api.json"
+			"name": "潇洒",
+			"url": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/master/xiaosa/api.json"
 		},
 		{
 			"name": "玄珠",
