@@ -22,18 +22,18 @@
       "ua" : "bingcha/1.1 (mianfeifenxiang) "
     },
 	{
-      "name": "浙江电信4",
+      "name": "浙江电信",
       "type": 0,
-      "url": "https://cdn.jsdelivr.net/gh/jia070310/4K-IPTV-M3U/m3u/%E6%B5%99%E6%B1%9F%E7%94%B5%E4%BF%A14.m3u",
+      "url": "https://gcore.jsdelivr.net/gh/Wang963963/IPTV-4K-M3U@main/m3u/%E6%B5%99%E6%B1%9F%E7%94%B5%E4%BF%A11.m3u",
       "ua": "okhttp/3.12.13",
       "playerType": 1,
       "epg": "http://diyp4.112114.xyz/?ch={name}&date={date}",
       "logo": "http://diyp4.112114.xyz/logo/{name}.png"
     },
 	{
-      "name": "浙江联通",
+      "name": "河北联通",
       "type": 0,
-      "url": "https://cdn.jsdelivr.net/gh/jia070310/4K-IPTV-M3U/m3u/%E6%B5%99%E6%B1%9F%E8%81%94%E9%80%9A.m3u",
+      "url": "https://gcore.jsdelivr.net/gh/Wang963963/IPTV-4K-M3U@main/m3u/%E6%B2%B3%E5%8C%97%E8%81%94%E9%80%9A.m3u",
       "ua": "okhttp/3.12.13",
       "playerType": 1,
       "epg": "http://diyp4.112114.xyz/?ch={name}&date={date}",
