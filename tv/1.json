@@ -226,6 +226,10 @@
       "changeable" : 0,
       "ext" : "AppV7Xhr"
     },
+	  {"name":"📽️嗷嗚┃短剧",
+		  "key":"DjHggg",
+		  "jar" : "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png",
+		  "type":3,"api":"csp_HgggAmns","searchable":0,"quickSearch":0,"changeable":1,"genre":"shortdrama"},
 	{
       "key" : "FreeOK",
       "name" : "FreeOK | 影视",
