@@ -243,18 +243,7 @@
       "searchable" : 1,
       "quickSearch" : 1,
       "filterable" : 1
-    },
-	     {
-      "key" : "甜圈短剧",
-      "name" : "甜圈短剧",
-      "type" : 3,
-      "api" : "https://pan.29o.cn/down.php/e9c44ed748739aeb4abfdb3408631302.py",
-      "searchable" : 1,
-      "changeable" : 1,
-      "quickSearch" : 1,
-      "filterable" : 1,
-      "playerType" : 2
-    },
+    }, 
     {
       "key" : "短剧｜聚合",
       "name" : "聚合剧➋",
