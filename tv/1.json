@@ -244,6 +244,31 @@
       "quickSearch" : 1,
       "filterable" : 1
     },
+	     {
+      "key" : "甜圈短剧",
+      "name" : "甜圈短剧",
+      "type" : 3,
+      "api" : "https://pan.29o.cn/down.php/e9c44ed748739aeb4abfdb3408631302.py",
+      "searchable" : 1,
+      "changeable" : 1,
+      "quickSearch" : 1,
+      "filterable" : 1,
+      "playerType" : 2
+    },
+    {
+      "key" : "短剧｜聚合",
+      "name" : "聚合剧➋",
+      "api" : "http://nn.4688888.xyz/py/短剧聚合.py",
+      "quickSearch" : 1,
+      "searchable" : 1,
+      "filterable" : 1,
+      "genre" : "shortdrama",
+      "type" : 3,
+      "style" : {
+        "type" : "rect",
+        "ratio" : 1.485
+      }
+    },
  
 {"key": "配置中心","name": "配置 • 中心","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"indexs": 0,"style": {"type": "rect","ratio": 1.618}},
 {"key": "本地","name": "本地 • 视频","type": 3,"api": "csp_LocalFile"},
