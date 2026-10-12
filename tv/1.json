@@ -121,21 +121,21 @@
       "key" : "Guazi",
       "type" : 3,
       "api" : "csp_GuaziAmns",
-      "jar" : "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png",
+      "jar" : "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png",
       "searchable" : 1,
       "quickSearch" : 1,
       "changeable" : 0,
       "ext" : "Guazi"
     },
-    {
+       {
       "name" : "嗷呜①线 | 秒播",
       "key" : "AppV7Fz",
       "type" : 3,
       "api" : "csp_AppV7Amns",
-      "jar" : "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png",
+      "jar" : "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png",
       "searchable" : 1,
       "quickSearch" : 1,
-      "changeable" : 0,
+      "changeable" : 1,
       "ext" : "AppV7Fz"
     },
     {
@@ -143,10 +143,10 @@
       "key" : "AppV7Xy",
       "type" : 3,
       "api" : "csp_AppV7Amns",
-      "jar" : "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png",
+      "jar" : "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png",
       "searchable" : 1,
       "quickSearch" : 1,
-      "changeable" : 0,
+      "changeable" : 1,
       "ext" : "AppV7Xy"
     },
     {
@@ -154,10 +154,10 @@
       "key" : "AppV7Zjdr",
       "type" : 3,
       "api" : "csp_AppV7Amns",
-      "jar" : "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png",
+      "jar" : "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png",
       "searchable" : 1,
       "quickSearch" : 1,
-      "changeable" : 0,
+      "changeable" : 1,
       "ext" : "AppV7Zjdr"
     },
     {
@@ -165,10 +165,10 @@
       "key" : "AppV7Xyz",
       "type" : 3,
       "api" : "csp_AppV7Amns",
-      "jar" : "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png",
+      "jar" : "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png",
       "searchable" : 1,
       "quickSearch" : 1,
-      "changeable" : 0,
+      "changeable" : 1,
       "ext" : "AppV7Xyz"
     },
     {
@@ -176,10 +176,10 @@
       "key" : "AppV7Xnm",
       "type" : 3,
       "api" : "csp_AppV7Amns",
-      "jar" : "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png",
+      "jar" : "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png",
       "searchable" : 1,
       "quickSearch" : 1,
-      "changeable" : 0,
+      "changeable" : 1,
       "ext" : "AppV7Xnm"
     },
     {
@@ -187,10 +187,10 @@
       "key" : "AppV7Mtq",
       "type" : 3,
       "api" : "csp_AppV7Amns",
-      "jar" : "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png",
+      "jar" : "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png",
       "searchable" : 1,
       "quickSearch" : 1,
-      "changeable" : 0,
+      "changeable" : 1,
       "ext" : "AppV7Mtq"
     },
     {
@@ -198,10 +198,10 @@
       "key" : "AppV7Llq",
       "type" : 3,
       "api" : "csp_AppV7Amns",
-      "jar" : "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png",
+      "jar" : "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png",
       "searchable" : 1,
       "quickSearch" : 1,
-      "changeable" : 0,
+      "changeable" : 1,
       "ext" : "AppV7Llq"
     },
     {
@@ -209,10 +209,10 @@
       "key" : "AppV7Xsz",
       "type" : 3,
       "api" : "csp_AppV7Amns",
-      "jar" : "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png",
+      "jar" : "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png",
       "searchable" : 1,
       "quickSearch" : 1,
-      "changeable" : 0,
+      "changeable" : 1,
       "ext" : "AppV7Xsz"
     },
     {
@@ -220,16 +220,46 @@
       "key" : "AppV7Xhr",
       "type" : 3,
       "api" : "csp_AppV7Amns",
-      "jar" : "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png",
+      "jar" : "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png",
+      "searchable" : 1,
+      "quickSearch" : 1,
+      "changeable" : 1,
+      "ext" : "AppV7Xhr"
+    },
+    {
+      "name" : "嗷呜⑩线 | 秒播",
+      "key" : "AppV7Dsx",
+      "type" : 3,
+      "api" : "csp_AppV7Amns",
+      "jar" : "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png",
+      "searchable" : 1,
+      "quickSearch" : 1,
+      "changeable" : 1,
+      "ext" : "AppV7Dsx"
+    },
+	 {
+      "name" : "🔥嗷呜短剧┃推荐",
+      "key" : "Hgdh",
+      "type" : 3,
+      "api" : "csp_HgdhAmns",
+		 "jar" : "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png",
       "searchable" : 1,
       "quickSearch" : 1,
       "changeable" : 0,
-      "ext" : "AppV7Xhr"
+      "genre" : "shortdrama",
+      "ext" : "Hgdh"
     },
-	  {"name":"📽️嗷嗚┃短剧",
-		  "key":"DjHggg",
-		  "jar" : "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png",
-		  "type":3,"api":"csp_HgggAmns","searchable":0,"quickSearch":0,"changeable":1,"genre":"shortdrama"},
+	{
+      "name" : "⭐嗷呜荐片┃快速",
+      "key" : "JPian",
+      "type" : 3,
+      "api" : "csp_JPianAmns",
+		"jar" : "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png",
+      "searchable" : 1,
+      "quickSearch" : 1,
+      "changeable" : 1,
+      "ext" : "JPian"
+    },
 	{
       "key" : "FreeOK",
       "name" : "FreeOK | 影视",
