@@ -22,9 +22,9 @@
       "ua" : "bingcha/1.1 (mianfeifenxiang) "
     },
 	{
-      "name": "浙江电信",
+      "name": "上海电信",
       "type": 0,
-      "url": "https://gcore.jsdelivr.net/gh/Wang963963/IPTV-4K-M3U@main/m3u/%E6%B5%99%E6%B1%9F%E7%94%B5%E4%BF%A11.m3u",
+      "url": "https://gcore.jsdelivr.net/gh/Wang963963/IPTV-4K-M3U@main/m3u/上海电信.m3u",
       "ua": "okhttp/3.12.13",
       "playerType": 1,
       "epg": "http://diyp4.112114.xyz/?ch={name}&date={date}",
