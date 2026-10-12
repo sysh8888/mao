@@ -31,9 +31,9 @@
       "logo": "http://diyp4.112114.xyz/logo/{name}.png"
     },
 	{
-      "name": "河北联通",
+      "name": "四川联通",
       "type": 0,
-      "url": "https://gcore.jsdelivr.net/gh/Wang963963/IPTV-4K-M3U@main/m3u/%E6%B2%B3%E5%8C%97%E8%81%94%E9%80%9A.m3u",
+      "url": "https://gcore.jsdelivr.net/gh/Wang963963/IPTV-4K-M3U@main/m3u/四川联通.m3u",
       "ua": "okhttp/3.12.13",
       "playerType": 1,
       "epg": "http://diyp4.112114.xyz/?ch={name}&date={date}",
