@@ -6,7 +6,7 @@
 		},
 		{
 			"name": "EasyTV",
-			"url": "https://easyzz.dpdns.org/easytv.jpg",
+			"url": "https://15318.kstore.space/easytv.jpg",
 			"beizu":"https://github.com/EasyXC/EasyTVbox/"
 		},
 		{
@@ -38,16 +38,8 @@
 			"url": "http://tvbox.王二小放牛娃.top"
 		},
 		{
-			"name": "巧技",
-			"url": "http://cdn.qiaoji8.com/tvbox.json"
-		},
-		{
-			"name": "肥猫",
-			"url": "http://xn--z7x900a.net/"
-		},
-		{
 			"name": "摸鱼",
-			"url": "http://我不是.摸鱼儿.top"
+			"url": "http://www.y456y.com/"
 		},
 		{
 			"name": "宝盒",
@@ -58,10 +50,6 @@
 			"url": "https://tv.菜妮丝.top"
 		},
 		{
-			"name": "道长",
-			"url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json"
-		},
-		{
 			"name": "常青",
 			"url": "https://13413.kstore.vip/tv/changqing.json"
 		},
@@ -70,16 +58,8 @@
       "url": "http://47.96.82.41:5188/api.json"
     },
 		{
-			"name": "欧哥",
-			"url": "https://xn--sdds-rp5imh.v.nxog.top/apitv.php?id=3"
-		},
-		{
 			"name": "拾光",
 			"url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json"
-		},
-		{
-			"name": "天神IY",
-			"url": "https://gitee.com/cpu-iy/iy/raw/master/天神IY.json"
 		},
 		{
 			"name": "jsm",
@@ -95,20 +75,12 @@
 			"url": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/master/xiaosa/api.json"
 		},
 		{
-			"name": "玄珠",
-			"url": "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json"
-		},
-		{
 			"name": "刘备",
 			"url": "https://raw.liucn.cc/box/m.json"
 		},
 		{
 			"name": "盒子迷",
 			"url": "https://盒子迷.top/禁止贩卖"
-		},
-		{
-			"name": "小苹果",
-			"url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json"
 		},
 		{
       "name": "动漫城",
@@ -118,10 +90,6 @@
       "name": "夏夏YE",
       "url": "https://11405.kstore.space/xiaye/qk4k.json"
     },
-	{
-      "name": "玄珠接口",
-      "url": "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json"
-    },
 	 {
       "name": "蜗牛接口",
       "url": "https://tv.xn--11x555b.top/svip"
@@ -129,22 +97,6 @@
 	{
       "name": "kong88接口",
       "url": "https://kong88.dpdns.org/4k.json"
-    },
-	{
-      "name": "老白接口",
-      "url": "https://github.laobaitv.net/https://raw.githubusercontent.com/zqs1qiwan/laobaitv/refs/heads/main/test/test/tvbox/laobaitvbox.json"
-    },
-	 {
-      "name": "iiptv接口",
-      "url": "http://iiptv.xyz/hzm"
-    },
-	   {
-      "name": "小脑虎",
-      "url": "http://6492.kstore.space/xnf/xnf.json"
-    },
-	{
-      "name": "VOX线路",
-      "url": "http://rihou.cc:88/demo.php"
     },
 	{
       "name": "tvbox聚合",
@@ -157,10 +109,6 @@
 	{
       "name": "真心网盘",
       "url": "https://www.252035.xyz/z/FongMi.json"
-    },
-		{
-			"name": "VOX",
-			"url": "http://rihou.cc:88/demo.php"
-		}
+    }
 	]
 }
